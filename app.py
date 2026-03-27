@@ -79,13 +79,3 @@ if st.button('predict price'):
     st.success(f'Estimated price: ${int(prediction):,}')
 
 
-
-#visualizee 
-st.subheader("data visualization")
-
-fig1,ax1=plt.subplots()
-ax1.hist(df["price"],bins=30)
-ax1.set_title("price distrubtion")
-ax1.set_xlabel("price")
-ax1.set_ylabel("frequency")
-st.pyplot(fig1)
