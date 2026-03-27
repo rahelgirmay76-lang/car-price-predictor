@@ -2,8 +2,5 @@ streamlit
 pandas
 scikit-learn
 numpy
-<<<<<<< HEAD
 matplotlib
-=======
-matplotlib
->>>>>>> 95ba0e91d9e855e5c4a589ffa8e9f090cb7eaa7e
+seaborn
