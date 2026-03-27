@@ -1,0 +1,1001 @@
+manufacturer,model,year,mileage,engine,transmission,drivetrain,fuel_type,mpg,exterior_color,interior_color,accidents_or_damage,one_owner,personal_use_only,seller_name,seller_rating,driver_rating,driver_reviews_num,price_drop,price
+Nissan,Rogue Sport S,2021,63005.0,2.0L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,25-32,Glacier White,Charcoal,0.0,1.0,0.0,Jenkins Acura,4.8,4.8,15.0,,23998.0
+Ford,Fusion Titanium,2015,91366.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,22-31,Silver,Earth Gray,1.0,0.0,1.0,Greg Hubler Ford,2.9,4.5,183.0,329.0,15668.0
+Nissan,Armada SL 2WD,2020,87464.0,"5.6L V-8 gasoline direct injection, DOHC, variable valve control",7-Speed Automatic,Rear-wheel Drive,Gasoline,14-19,Gun Metallic,Black,0.0,0.0,0.0,Benton Nissan of Bessemer,4.6,4.6,9.0,255.0,30527.0
+Chevrolet,Trax LS,2017,77339.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,25-33,Summit White,Black,0.0,1.0,1.0,Andy Mohr Ford,4.0,4.5,185.0,1832.0,14931.0
+Ford,Bronco Badlands,2022,512.0,2.7L V6 24V GDI DOHC Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,16-17,Velocity Blue Metallic,,0.0,1.0,1.0,Courtesy Ford,4.8,4.6,10.0,300.0,64626.0
+Audi,S5 3.0T Premium Plus,2020,66060.0,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-27,Mythos Black Metallic,Black,1.0,1.0,0.0,Schaumburg Ford,4.1,5.0,3.0,782.0,40950.0
+BMW,330 i xDrive,2020,40114.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,25-34,Black Sapphire Metallic,Black,0.0,0.0,1.0,Sky Motor Cars,5.0,4.6,26.0,,32980.0
+Volkswagen,Passat 2.0T SE,2022,13682.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,24-36,Tourmaline Blue Metallic,Titan Black,0.0,1.0,0.0,Luther Westside VW,4.8,4.2,3.0,400.0,26475.0
+Nissan,Z Performance,2023,189.0,3.0L V6 24V GDI DOHC Twin Turbo,Automatic,Rear-wheel Drive,Gasoline,,Black Diamond,Red,0.0,1.0,1.0,Lia Nissan of Glens Falls,4.2,5.0,1.0,,67500.0
+Jeep,Cherokee Latitude Lux,2021,25024.0,3.2L V6 24V MPFI DOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,19-27,Diamond Black,Black,0.0,1.0,1.0,McCluskey Chevrolet,3.1,4.9,73.0,311.0,30989.0
+Toyota,Highlander LE,2014,192325.0,"2.7L I-4 DOHC, VVT-i variable valve control, engine with 185HP",Automatic,Front-wheel Drive,Gasoline,20-0,NAVY,CREAM,1.0,0.0,0.0,Beverly Hills Auto Brokers,4.5,4.6,104.0,500.0,12499.0
+Mercedes-Benz,C-Class C 300,2021,21943.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,23-35,Selenite Gray Metallic,Black,0.0,1.0,1.0,Mercedes-Benz of Plano,4.7,5.0,4.0,,42699.0
+Jeep,Renegade Latitude,2018,76000.0,"Tigershark MultiAir 2.4L I-4 variable valve control, engine with",Automatic,Four-wheel Drive,Gasoline,21-29,Colorado Red,Black,1.0,1.0,1.0,Chevrolet of Clinton,4.7,4.6,292.0,535.0,17769.0
+Dodge,Charger Scat Pack,2022,1591.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,Torred Clearcoat,Black,0.0,1.0,1.0,Mac Haik Pre-Owned Spring,,5.0,2.0,,56299.0
+BMW,X2 xDrive28i,2018,29791.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-31,Black Sapphire Metallic,Black,0.0,1.0,0.0,ABZ Motors,4.1,4.7,42.0,,28991.0
+BMW,X5 xDrive 35i Sport Activity,2013,100148.0,"3L I-6 gasoline direct injection, DOHC, variable valve control,","Auto, 8-Spd Spt Stptrnc",All-wheel Drive,Gasoline,16-23,Black,Black Leather,0.0,0.0,1.0,Expert Motors,,4.6,82.0,,15995.0
+Jeep,Grand Cherokee Laredo,2013,138707.0,3.6L V6 24V MPFI DOHC Flexible Fuel,Automatic,Four-wheel Drive,E85 Flex Fuel,16-23,Bright White Clearcoat,Black,0.0,0.0,1.0,Contra Costa County Public Auto Auction,,4.7,90.0,330.0,13420.0
+Nissan,Rogue SV,2019,35286.0,2.5L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Silver,Black,0.0,0.0,1.0,CarMax Winston-Salem - Offering Express Pickup and Home Delivery,,4.7,259.0,,24998.0
+Subaru,WRX STI Base,2016,82602.0,2.5L H4 16V MPFI DOHC Turbo,6-Speed Manual,All-wheel Drive,Gasoline,17-23,Crystal White Pearl,Black,0.0,0.0,1.0,Wheel Deal Auto Sales,,4.7,24.0,200.0,26500.0
+Mercedes-Benz,C-Class C 300,2019,17258.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,23-34,,,0.0,1.0,0.0,Mercedes-Benz of Maui,4.9,4.8,41.0,2002.0,39884.0
+Kia,Sportage LX,2015,69631.0,180.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,Front-wheel Drive,Gasoline,,Silver,Black,,,,,,4.4,62.0,,10950.0
+Land Rover,Discovery SE,2020,69199.0,V6,Automatic,Four-wheel Drive,Gasoline,16-21,Fuji White,Ebony / Light Oyster,1.0,1.0,0.0,ALM Marietta,4.4,4.9,3.0,1000.0,28977.0
+Acura,TLX V6 Tech,2016,98996.0,3.5L,9-Speed Automatic,Front-wheel Drive,Gasoline,21-34,Graphite Luster Metallic,"Ebony, premium leather",0.0,0.0,0.0,Premier Auto Imports,,4.5,54.0,,19995.0
+Ford,Focus SE,2016,61032.0,2.0L I4 16V GDI DOHC Flexible Fuel,Automatic,Front-wheel Drive,E85 Flex Fuel,26-36,Oxford White,Charcoal Black,1.0,0.0,1.0,The Car Lot,3.5,4.4,193.0,1000.0,12995.0
+Chevrolet,Suburban 1500 LT,2013,315682.0,5.3L V8 16V MPFI OHV,6-Speed Automatic,Rear-wheel Drive,Gasoline,15-21,Black,Ebony,0.0,0.0,0.0,Platinum Autos,3.5,4.4,56.0,,8998.0
+Volkswagen,Atlas 2.0T S,2018,52848.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,22-26,Platinum Gray Metallic,Titan Black,0.0,1.0,1.0,Sutton Ford,4.4,4.7,229.0,200.0,21777.0
+GMC,Yukon Denali,2018,134457.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Rear-wheel Drive,Gasoline,14-23,White Frost Tri-Coat,Cocoa,0.0,1.0,1.0,"Jim Hoffpauir, Inc.",4.4,4.9,47.0,,46900.0
+Nissan,Titan PRO-4X,2021,17300.0,5.6L V8 32V GDI DOHC,9-Speed Automatic,Four-wheel Drive,,,Baja Storm,Black,0.0,1.0,0.0,Greeley Nissan VW,,4.3,16.0,100.0,47894.0
+Audi,A6 3.0t Sport,2018,46363.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,All-wheel Drive,Gasoline,20-29,Mythos Black Metallic,Black,0.0,1.0,1.0,Schaller Honda,2.9,4.7,23.0,700.0,28997.0
+Nissan,Xterra X,2011,216567.0,4.0L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,15-20,Silver Lightning,Black,1.0,0.0,1.0,Doug Justus Auto Center,3.2,4.7,23.0,,7995.0
+Toyota,Highlander XLE,2021,61229.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,21-29,Midnight Black,Black,0.0,1.0,1.0,Sansone Rt 1 Auto Mall,4.9,4.8,97.0,300.0,34959.0
+BMW,X3 xDrive28i,2014,77660.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,All-wheel Drive,Gasoline,21-28,Black Sapphire Metallic,Black,1.0,0.0,1.0,Prestige Auto Mart Brockton,5.0,4.7,69.0,,15995.0
+Volvo,XC90 T6 Momentum,2016,106864.0,"Drive-E 2L I-4 gasoline direct injection, DOHC, variable valve c",Automatic,All-wheel Drive,Gasoline,20-25,Black,,0.0,0.0,1.0,Champion Auto Sales,5.0,4.5,70.0,395.0,22702.0
+Kia,Forte LXS,2021,40289.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Silky Silver,Black,0.0,1.0,0.0,AutoNation Toyota Leesburg,4.5,4.8,51.0,795.0,16995.0
+Mazda,Mazda6 Signature,2018,29139.0,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,23-31,Soul Red Crystal,Chestnut,0.0,0.0,1.0,South Toyota,3.7,4.8,68.0,,31991.0
+Toyota,Highlander XLE,2019,43309.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,21-27,Blizzard Pearl,Almond,0.0,1.0,1.0,Tameron Honda,4.6,4.6,365.0,1002.0,33995.0
+Tesla,Model 3 Standard Range,2019,22673.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Pearl White Multi,Black,0.0,0.0,1.0,Perillo BMW,4.7,4.9,33.0,1000.0,34888.0
+Mercedes-Benz,"Sprinter 2500 2500 High Roof I4 Diesel 170"" RWD",2023,10.0,Intercooled Turbo Diesel I-4 2.0 L/119,Automatic,Rear-wheel Drive,Diesel,0-0,Arctic White,Black,0.0,1.0,1.0,Rick Hendrick Chevrolet of Buford,4.8,,0.0,,67559.0
+Volvo,XC40 Recharge Pure Electric P8 Twin Plus,2022,7660.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Crystal White Metallic,,0.0,1.0,1.0,Rickenbaugh Cadillac Volvo Cars,4.6,,0.0,500.0,51000.0
+Jeep,Grand Cherokee Summit,2021,40400.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,18-25,Ivory,Light Frost,0.0,1.0,0.0,Melton Sales,4.8,4.6,61.0,3432.0,45559.0
+Jeep,Wrangler Unlimited 4xe Sahara,2022,11982.0,2.0L I4 16V GDI DOHC Turbo Hybrid,8-Speed Automatic,Four-wheel Drive,Hybrid,,Black Clearcoat,Black,1.0,1.0,0.0,AutoNation Chrysler Jeep West,4.7,4.1,3.0,1000.0,47580.0
+Honda,Accord LX,2016,12059.0,2.4L I4 16V GDI DOHC,Automatic CVT,FWD,Gasoline,27-37,Gray,Black,,,,CarMax Texas Stadium (Irving) - Offering Express Pickup and Home Delivery,,4.7,287.0,,23998.0
+GMC,Sierra 3500 Denali,2022,20383.0,6.6L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Quicksilver Metallic,Jet Black,0.0,0.0,0.0,Elliott Bay Auto Brokers,4.7,3.7,2.0,,77880.0
+Ford,Edge Limited,2010,144780.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,17-23,Black,Camel,1.0,0.0,0.0,Wholesale Direct Motors,,4.4,81.0,,8995.0
+BMW,430 i,2020,11601.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-34,Black Sapphire Metallic,Cognac,1.0,1.0,1.0,BMW of Monrovia,4.8,4.9,8.0,400.0,42999.0
+Ford,Explorer XLT,2021,37351.0,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,21-28,Blue,Black / Gray,0.0,1.0,0.0,Off Lease Motors,,4.7,66.0,1000.0,31777.0
+INFINITI,QX50 Luxe,2020,35965.0,2.0L I4 16V PDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,23-29,Graphite Shadow,Graphite,0.0,1.0,1.0,Schumacher Buick GMC of West Palm Beach,4.8,4.6,23.0,,29991.0
+Toyota,Yaris,2015,75456.0,1.5L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,30-36,Super White,,1.0,0.0,0.0,Calimax Auto Sales,,4.6,26.0,,13977.0
+Jeep,Grand Cherokee Overland,2012,187866.0,5.7L V8 16V MPFI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Gray,Dark Frost Beige / Light Frost Beig,0.0,0.0,0.0,APX Auto Brokers,3.2,4.5,180.0,,12991.0
+RAM,1500 Big Horn,2018,108149.0,"HEMI 5.7L V-8 variable valve control, engine with cylinder deact",8-Speed Automatic,Four-wheel Drive,Gasoline,16-21,Brilliant Black Crystal Pearl,Diesel Grey/Black,0.0,0.0,0.0,Mountain West Motor,,4.7,279.0,1000.0,28990.0
+Mercedes-Benz,GLS 550 Base 4MATIC,2017,97620.0,4.7L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,14-18,White,,0.0,1.0,0.0,CarWorld,1.9,4.8,9.0,,35995.0
+Chevrolet,Bolt EUV LT,2022,5208.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Summit White,Jet Black,0.0,,1.0,Sleepy Hollow Chevrolet Buick GMC,4.3,4.2,6.0,,33492.0
+Honda,Ridgeline RTL-E,2019,32842.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-25,Crystal Black Pearl,Black,0.0,1.0,1.0,Nalley Honda Brunswick,4.7,4.8,169.0,,34998.0
+Honda,CR-V Hybrid EX-L,2021,98253.0,2.0L I4 16V MPFI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,40-35,Black,,0.0,1.0,1.0,Crain Buick GMC,2.7,4.8,26.0,300.0,28699.0
+Chevrolet,Silverado 1500 LT,2020,63597.0,5.3L V8 16V GDI OHV,Automatic,Four-wheel Drive,Gasoline,20-23,Black,Jet Black,0.0,1.0,0.0,Whisler Chevrolet,4.4,4.6,139.0,,40299.0
+Ford,Transit-250 Base,2021,17714.0,3.5L V6 24V PDI DOHC Flexible Fuel,10-Speed Automatic,Rear-wheel Drive,E85 Flex Fuel,,Oxford White,Ebony,0.0,1.0,0.0,Olathe Ford Lincoln,4.8,,0.0,,43900.0
+Subaru,WRX Base,2017,100116.0,2.0L H4 16V GDI DOHC Turbo,6-Speed Manual,All-wheel Drive,Gasoline,20-27,Crystal White Pearl,Black,1.0,0.0,1.0,Too Hot Motors,,4.5,69.0,300.0,19875.0
+Toyota,Prius c Two,2015,54720.0,1.5L I4 16V MPFI DOHC Hybrid,Automatic CVT,FWD,Hybrid,53-46,Gray,Black,0.0,0.0,1.0,CarMax Spokane - Offering Express Pickup and Home Delivery,,4.4,35.0,1000.0,18998.0
+BMW,328 i,2014,91974.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-35,Mineral Gray Metallic,Brown,1.0,0.0,0.0,AutoNation Subaru West,4.8,4.6,111.0,,15199.0
+Ford,Mustang Mach-E Select,2022,12201.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Gray Metallic,Black Onyx,0.0,1.0,1.0,Genesee Valley Motors,3.2,4.9,4.0,,39935.0
+GMC,Yukon XL Denali,2021,56845.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-19,Satin Steel Metallic,Jet Black,0.0,1.0,0.0,Key Chrysler Dodge Jeep RAM of Marianna,,4.9,3.0,100.0,70896.0
+Land Rover,Range Rover Sport HSE Dynamic,2019,64107.0,V6,Automatic,Four-wheel Drive,Gasoline,17-23,Santorini Black,Pimento / Ebony,0.0,1.0,1.0,Atlanta Autos,4.6,4.7,11.0,1000.0,55999.0
+Ford,Edge SEL,2011,109844.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,19-26,White,Tan,0.0,0.0,1.0,CarMax Clearwater - Offering Express Pickup and Home Delivery,,4.5,158.0,,14599.0
+Chevrolet,Silverado 1500 Limited RST,2022,14142.0,5.3L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,,Northsky Blue Metallic,Black,0.0,1.0,1.0,Jim Butler Chevrolet,4.4,,0.0,,48667.0
+Toyota,Yaris Sedan LE,2019,27172.0,1.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,32-40,Pulse,Gray,0.0,0.0,0.0,Sunshine Toyota,4.9,4.7,17.0,173.0,19802.0
+Buick,Envision Essence,2020,4942.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-29,Satin Steel Metallic,Dark Galvanized,0.0,1.0,1.0,Labadie Buick GMC,4.7,4.9,43.0,,28401.0
+Hyundai,Santa Fe Sport 2.4L,2016,80210.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,20-27,Frost White Pearl,Beige,1.0,0.0,1.0,Sheehy Toyota of Fredericksburg,4.5,4.5,76.0,,16988.0
+Chevrolet,Colorado LT,2021,65209.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,25,Black,Black,1.0,0.0,0.0,McCarthy Nissan of Lawrence,,4.7,46.0,179.0,27554.0
+Nissan,Versa 1.6 SV,2019,50945.0,1.6L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Gray,Charcoal,1.0,0.0,0.0,Ideal Cars,2.6,4.4,49.0,,13491.0
+Mercedes-Benz,GLA 250 Base 4MATIC,2019,32445.0,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,7-Speed Automatic with Auto-Shift,All-wheel Drive,E85 Flex Fuel,23-31,Polar White,Crystal Gray,0.0,0.0,0.0,Off Lease Only Palm Beach,4.9,4.6,34.0,,29999.0
+Toyota,4Runner TRD Off Road,2021,41749.0,4.0L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,16-19,Classic Silver Metallic,Black / Graphite,0.0,1.0,0.0,North Park Toyota of San Antonio,4.3,4.9,42.0,,40951.0
+Hyundai,Sonata SEL,2019,39844.0,4 Cylinder,Automatic,Front-wheel Drive,Gasoline,25-33,Phantom Black,Graphite,0.0,0.0,1.0,HGreg.com Orlando,4.8,4.8,155.0,1500.0,18998.0
+Chrysler,Pacifica Touring-L Plus,2018,92719.0,"3.6L V-6 DOHC, VVT variable valve control, engine with cylinder",Automatic,Front-wheel Drive,Gasoline,19-28,Bright White Clearcoat,Black/Alloy,0.0,1.0,0.0,"Naryan Auto Group, Inc.",,4.7,227.0,,19344.0
+INFINITI,Q60 3.0t Sport,2018,31358.0,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,19-27,Graphite Shadow,Monaco Red,1.0,0.0,1.0,Feldman Chevrolet of Highland,4.0,4.8,32.0,246.0,33995.0
+Toyota,Tacoma,2021,49476.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,18-22,Magnetic Gray Metallic,Cement,0.0,1.0,0.0,Fitzgerald Toyota Gaithersburg,4.2,4.8,89.0,700.0,38795.0
+Toyota,RAV4 LE,2020,37786.0,2.5L,8 SPEED AUTOMATIC TRANSMISSION,,Gasoline,,ICE CAP,FB20,0.0,1.0,1.0,Team Auto Center,4.7,4.7,172.0,1100.0,28898.0
+Hyundai,Kona SE,2018,108923.0,2.0L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,27-33,Thunder Gray,Black,0.0,0.0,1.0,Nissan North,4.1,4.7,205.0,456.0,14248.0
+Ford,Fusion SE,2016,27096.0,"Duratec 2.5L I-4 DOHC, iVCT variable valve control, engine with",Automatic,Front-wheel Drive,Gasoline,22-34,Burgundy,Black,1.0,1.0,0.0,Modern Cars NJ,,4.6,296.0,,16999.0
+Mitsubishi,Outlander ES,2017,71136.0,2.4L I4 16V MPFI SOHC,Automatic CVT,Front-wheel Drive,Gasoline,25-30,Silver,Black,0.0,0.0,1.0,Ed Morse Cadillac of Tampa,4.9,4.6,143.0,2004.0,14994.0
+Chevrolet,Equinox 2LT,2019,54792.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,25-30,Silver Ice Metallic,Medium Ash Gray,0.0,0.0,0.0,ACRA Automotive Group,,4.5,419.0,,24955.0
+Ford,Mustang GT Premium,2017,49975.0,5.0L V8 32V MPFI DOHC,6-Speed Manual,Rear-wheel Drive,Gasoline,15-25,Magnetic Metallic,Ebony,0.0,0.0,1.0,Thornton Automotive Dover,4.9,4.8,295.0,907.0,37879.0
+Lincoln,Navigator Select,2017,80757.0,3.5L V6 24V GDI DOHC Twin Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,15-20,White,Medium Light Stone,1.0,0.0,1.0,West Branch Ford,,4.9,16.0,510.0,34500.0
+Toyota,Camry XSE,2022,16836.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,27-38,Gray,Black,1.0,1.0,1.0,Landers McLarty Toyota,4.2,5.0,2.0,1012.0,34890.0
+Nissan,Rogue SV,2020,33002.0,2.5L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,White,Beige,0.0,1.0,1.0,Nissan Of North Olmsted,4.9,4.8,136.0,,23999.0
+GMC,Sierra 3500 Denali,2022,6351.0,6.6L V8 32V DDI OHV Turbo Diesel,Automatic,Four-wheel Drive,Diesel,,White Frost Tri-Coat,Walnut,0.0,1.0,0.0,GMC of Vacaville,2.0,3.7,2.0,3000.0,84990.0
+Mazda,Mazda3 AWD w/Preferred Package,2020,33049.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,25-33,Snowflake White Pearl,Black,0.0,1.0,1.0,Serra Auto Park,3.0,4.6,29.0,,22977.0
+Chevrolet,Colorado Z71,2016,56923.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,17-24,Summit White,Jet Black,0.0,0.0,1.0,Schrier Automotive Inc,5.0,4.3,159.0,200.0,29988.0
+Mitsubishi,Outlander GT,2019,56026.0,3.0L V6 24V MPFI SOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,20-27,Pearl White,Black,0.0,0.0,1.0,Serpentini Chevrolet - Strongsville,3.4,4.7,72.0,112.0,23169.0
+Lincoln,MKS Base,2015,67793.0,3.7L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-26,Ruby Red Metallic Tinted Clearcoat,Charcoal Black,0.0,0.0,1.0,Varsity Lincoln,4.8,4.7,20.0,,17995.0
+Acura,ILX Base,2020,12093.0,2.4L I4 16V GDI DOHC,8-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,24-34,Modern Steel Metallic,Ebony,0.0,1.0,1.0,Piazza Acura of Ardmore,4.7,4.6,17.0,498.0,25994.0
+Dodge,Charger Scat Pack,2020,18763.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,Go Mango!,Black,0.0,0.0,1.0,Ingersoll Auto of Danbury,4.2,4.8,57.0,2727.0,45895.0
+Dodge,Charger SE,2015,141654.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,19-31,Blue,Black,0.0,0.0,0.0,Georgia Import Auto,3.4,4.6,123.0,1509.0,12499.0
+Ford,Fusion Titanium,2019,97353.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,21-31,Magnetic Metallic,Ebony,0.0,0.0,0.0,Andy Mohr Buick GMC,4.3,4.6,98.0,417.0,18000.0
+Kia,Forte FE,2020,14174.0,2.0L I4 16V MPFI DOHC,6-Speed Manual,Front-wheel Drive,Gasoline,27-37,Aurora Black,Black,0.0,1.0,1.0,Oxmoor Ford,4.1,4.7,89.0,1250.0,19750.0
+Chevrolet,Cruze 1LT,2014,54000.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-38,Red,Jet Black,1.0,0.0,0.0,AutoNation Chevrolet Doral,4.7,4.3,345.0,296.0,11411.0
+Lexus,SC 400 Base,1999,73604.0,290.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,Rear-wheel Drive,Gasoline,,White,Beige,,,,,,4.6,3.0,,24000.0
+Dodge,Journey Crossroad,2018,94780.0,3.6L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,19-25,Granite Crystal Clearcoat Metallic,Black,0.0,0.0,0.0,American Motors,,4.6,254.0,299.0,14489.0
+Kia,Forte Koup EX,2014,97781.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,25-34,Graphite Steel,Gray,1.0,1.0,1.0,Michigan City Hyundai,,4.6,14.0,500.0,9990.0
+Ford,EcoSport SE,2019,71000.0,1.0L I3 12V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,27-29,Smoke Metallic,Medium Stone,1.0,1.0,0.0,Napleton Clermont Chrysler Jeep Dodge RAM,3.4,4.5,108.0,700.0,16288.0
+Ford,Fiesta SE,2019,117382.0,1.6L I4 16V MPFI DOHC,6-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,27-35,Shadow Black,Charcoal Black,0.0,0.0,0.0,Boktor Motors,3.7,4.6,76.0,900.0,8988.0
+Lexus,NX 300 Base,2020,7242.0,2.0L I4 16V PDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,22-28,Matador Red Mica,Caramel,0.0,1.0,1.0,Sewell Lexus of Fort Worth,3.0,4.8,39.0,,41995.0
+INFINITI,QX60 Luxe,2019,49438.0,3.5L V6 24V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,19-26,Majestic White,Graphite,1.0,1.0,1.0,Atlanta Best Used Cars,4.1,4.5,57.0,,27000.0
+Volvo,XC60 B5 AWD Mild Hybrid Plus Bright,2023,4131.0,I-4 cyl,Automatic,All-wheel Drive,Gasoline,,Silver Dawn,Charcoal,0.0,0.0,0.0,"Porsche of the Village, Maserati Cincinnati, Alfa Romeo of Cincinnati, and Volvo Cars of Cincinnati East",2.8,5.0,3.0,3255.0,50382.0
+Dodge,Challenger SXT,2019,71780.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-27,Yellow Jacket Clearcoat,Black,1.0,0.0,0.0,Sawyer Lyons Buick GMC of Randolph,4.7,4.8,152.0,1000.0,23985.0
+Ford,F-150 King Ranch,2020,11680.0,5.0L 8 Cylinder,Automatic,Four-wheel Drive,Gasoline,,Silver,,0.0,1.0,1.0,Bud Clary Toyota of Yakima,,4.8,222.0,,42736.0
+BMW,X1 xDrive28i,2020,17498.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,23-31,Mediterranean Blue Metallic,Oyster / Black,0.0,1.0,1.0,Rallye BMW,4.8,4.9,14.0,,31998.0
+Lexus,NX 300 Base,2019,35132.0,2.0L I4 16V PDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,22-28,Atomic Silver,Black,0.0,0.0,1.0,Lexus of Akron Canton,4.9,4.7,75.0,117.0,31893.0
+Honda,Passport EX-L,2020,7969.0,3.5L V6 24V GDI SOHC,9-Speed Automatic,AWD,Gasoline,19-24,Blue,Gray,,,,Ageless Autos.Inc,,4.8,51.0,,34995.0
+Mercedes-Benz,GLC 300 Base 4MATIC,2017,112625.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,21-28,White,Tan,1.0,1.0,1.0,Driven Pre-Owned,,4.6,66.0,,21900.0
+Land Rover,Range Rover 5.0L V8 Supercharged,2019,38393.0,V8,Automatic,Four-wheel Drive,Gasoline,16-21,Corris Grey,Ebony,0.0,1.0,1.0,Land Rover Richfield,4.2,4.5,16.0,1000.0,71998.0
+Buick,Encore GX Essence,2020,23792.0,Turbocharged 1.3/,Automatic,All-wheel Drive,Gasoline,26-29,Ebony Twilight Metallic,Ebony With Ebony Interior Accents,0.0,1.0,1.0,Honda of Freehold,4.7,4.6,64.0,,24522.0
+Subaru,Outback 2.5i,2017,111013.0,2.5L H4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Crystal Black Silica,Black,0.0,1.0,1.0,Rock Honda,3.7,4.8,368.0,,18995.0
+Kia,Niro Plug-In Hybrid EX Premium,2019,29279.0,1.6L I4 16V GDI DOHC Hybrid,6-Speed Automatic with Auto-Shift,Front-wheel Drive,Hybrid,,Platinum Graphite,Light Gray,1.0,1.0,1.0,Armstrong VW,1.4,4.8,18.0,,27990.0
+Nissan,Murano Platinum,2021,16216.0,3.5L V6 24V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-28,Magnetic Black,Graphite,0.0,1.0,1.0,Don Davis Nissan,4.5,4.8,21.0,,39999.0
+Subaru,Forester Sport,2020,21014.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Ice Silver Metallic,Gray,1.0,1.0,1.0,Rock Honda,3.7,4.8,224.0,,34995.0
+Chevrolet,Camaro 1LT,2018,47054.0,3.6L V6 GDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,22-31,Red,Black,1.0,0.0,0.0,CarMax Fort Bend - Offering Express Pickup and Home Delivery,,4.8,171.0,,27998.0
+Honda,Accord LX-P,2012,95026.0,2.4L I4 16V MPFI DOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,23-34,White,,1.0,1.0,1.0,Dave White Auto Credit,1.8,4.5,249.0,,12925.0
+Nissan,NV Passenger NV3500 HD SL V8,2016,55715.0,5.6L V8 32V MPFI DOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,,Black,Beige,0.0,1.0,1.0,DeMaagd GMC Nissan,2.8,3.9,11.0,,38995.0
+Chevrolet,Trax,2020,9910.0,,,,,,Black,,0.0,1.0,1.0,Spitzer Chevrolet of Amherst,4.8,4.5,105.0,,21895.0
+Volkswagen,Passat 2.5 SE,2013,121889.0,2.5L I5 20V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-31,Black,Titan Black,1.0,0.0,0.0,Dahl Ford of Onalaska,4.8,4.4,185.0,1000.0,10000.0
+Jeep,Wrangler Sport,2017,47312.0,3.6L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,17-21,Billet Silver Metallic Clearcoat,Black,0.0,0.0,0.0,i.g. Burton Chevrolet of Milford,4.4,4.7,114.0,200.0,27997.0
+Volkswagen,CC Sport,2011,120829.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,22-31,Black,Cornsilk Beige / Black,1.0,0.0,0.0,Fuelin Fine Auto Sales Inc.,2.2,4.4,37.0,500.0,6495.0
+RAM,ProMaster 2500 High Roof,2021,55984.0,3.6L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,,Bright White Clearcoat,Black,0.0,1.0,0.0,Ken Ganley Chrysler Dodge Jeep Ram London,4.7,,0.0,,41654.0
+BMW,328 i,2011,124400.0,3.0L,"Automatic, 6-Spd w/Overdrive & Steptronic",Rear-wheel Drive,Gasoline,18-28,Black,Brown,1.0,0.0,0.0,MaxxVin LLC,,4.5,229.0,,7995.0
+Audi,A4 40 Premium,2022,11251.0,I4,Automatic,All-wheel Drive,Gasoline,26-34,Mythos Black Metallic,Atlas Beige,0.0,1.0,0.0,Audi Sugar Land,3.8,4.9,1.0,,33771.0
+Audi,Q5 2.0T Tech Premium,2018,35028.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,23-27,Azores Green Metallic,Atlas Beige / Gray,,,,CarMax Santa Rosa - Offering Express Pickup and Home Delivery,,4.7,181.0,1000.0,30998.0
+Lincoln,MKC Reserve,2019,38601.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,19-25,Black,Ebony,0.0,1.0,1.0,Star Lincoln,4.7,4.7,73.0,390.0,27786.0
+Ford,Transit-250 T-250 130 LOW RF 9070 GVWR,2020,60015.0,3.5L V6 24V PDI DOHC,10-Speed Automatic,Rear-wheel Drive,Gasoline,,Oxford White,Ebony,0.0,1.0,0.0,Russ Milne Ford,4.5,5.0,5.0,,39995.0
+Kia,Soul sport,2010,134671.0,"2L I-4 DOHC, variable valve control, engine with 142HP",Manual,Front-wheel Drive,Gasoline,24-30,Titanium,Red/Black,1.0,0.0,1.0,Best Choice Auto Sales,,4.6,98.0,,6690.0
+Cadillac,CT6 3.0L Twin Turbo Premium Luxury,2018,59477.0,3.0L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,18-26,Crystal White Tri-Coat,Black,0.0,0.0,1.0,Fuccillo Hyundai of Watertown,,4.9,35.0,500.0,37500.0
+BMW,M240 i,2023,6000.0,382.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Rear-wheel Drive,Gasoline,,Gray,Beige,,,,,,,0.0,,55000.0
+Porsche,911 Turbo Cabriolet,2009,29231.0,3.6L H6 24V MPFI DOHC Twin Turbo,6-Speed Manual,All-wheel Drive,Gasoline,15-24,Lava / Gray,Black,0.0,0.0,1.0,Grand Prix Motors,,4.8,42.0,,124900.0
+Ford,Escape SE,2016,114586.0,2.5L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,23-32,Deep Impact Blue,Charcoal Black,0.0,0.0,1.0,Lake Ford,4.4,4.6,265.0,200.0,12797.0
+Chevrolet,Spark 1LT,2018,78544.0,1.4L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,30-38,SPLASH,Jet Black,0.0,0.0,1.0,Bob Bell Chevrolet,4.0,4.6,41.0,244.0,13085.0
+Lexus,NX 300 F Sport,2020,33651.0,2.0L I4 16V PDI DOHC Turbo,6-Speed Automatic,FWD,Gasoline,22-28,White,Black,0.0,1.0,0.0,CarMax Boynton Beach - Offering Express Pickup and Home Delivery,,4.8,39.0,2000.0,34998.0
+INFINITI,Q50 2.0t PURE,2018,34839.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic,Rear-wheel Drive,Gasoline,23-30,Pure White,Graphite,0.0,0.0,1.0,Murray Ford Superstore,4.8,4.6,80.0,,23490.0
+Ford,F-350 Lariat Super Duty,2019,96239.0,6.7L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Black,,0.0,1.0,0.0,Shetler-Corley Motors,,4.7,48.0,1000.0,54900.0
+GMC,Yukon XL Denali,2021,29054.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-19,White,Dark Walnut,0.0,1.0,1.0,Kendall Chevrolet GMC of Eugene,3.9,4.9,3.0,,80991.0
+Jeep,Gladiator Sport,2022,6088.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Hydro Blue Pearlcoat,Black,0.0,1.0,1.0,"Licari Motor Car, Inc.",5.0,4.9,8.0,2000.0,54995.0
+Toyota,4Runner SR5,2022,22333.0,4.0L,5 Speed Elect Controlled Auto Transmission,,Gasoline,,MIDNIGHT BLACK METALLIC,FB22,0.0,0.0,0.0,Summit Toyota of Akron,4.7,4.9,6.0,100.0,41650.0
+Mercedes-Benz,C-Class C 300,2021,50745.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,23-35,Black,Black,0.0,1.0,1.0,Texas Cars Direct,4.7,5.0,4.0,,33980.0
+Toyota,Sequoia Capstone,2023,29.0,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,Automatic,Four-wheel Drive,Hybrid,,Celestial Silver Metallic,Black / White,0.0,0.0,1.0,Beaver Toyota Cumming,4.6,4.3,5.0,1500.0,100000.0
+Lincoln,MKC Select,2017,55000.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,19-25,Tan,Gray,1.0,0.0,1.0,Greg's Auto Sales,5.0,4.8,136.0,,22995.0
+Volkswagen,CC R-Line,2012,70766.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Manual,Front-wheel Drive,Gasoline,21-31,Black,Black,0.0,0.0,1.0,Dado Motors LLC,,4.6,90.0,,14995.0
+Volkswagen,Tiguan 2.0T SE,2021,45004.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-27,Platinum Gray Metallic,Black,1.0,0.0,0.0,Michael's Auto Sales,3.1,4.7,16.0,,26999.0
+Chevrolet,Malibu 1LT,2016,78394.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,27-37,Summit White,Jet Black,1.0,0.0,1.0,Bob Caldwell Chrysler Jeep Dodge RAM,4.6,4.4,185.0,944.0,18027.0
+Lexus,RX 350 Base,2013,92543.0,"3.5L V-6 DOHC, VVT-i variable valve control, engine with 270HP",Automatic,Front-wheel Drive,Gasoline,18-25,BLACK,Black,0.0,0.0,0.0,Global Motors VIP,3.8,4.7,118.0,,20500.0
+Nissan,Rogue SV,2020,79017.0,2.5L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,26-33,Magnetic Black Pearl,Charcoal,0.0,0.0,0.0,Northside Imports Houston,4.4,4.8,136.0,,20608.0
+Chevrolet,Corvette Base,2002,72256.0,5.7L V8 16V MPFI OHV,4-Speed Automatic,Rear-wheel Drive,Gasoline,,Black,Black,0.0,0.0,1.0,Woodfield Lexus,4.8,4.7,66.0,1200.0,22995.0
+GMC,Sierra 1500 Denali,2022,7705.0,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",10-Speed Automatic,Four-wheel Drive,Gasoline,15-26,Onyx Black,Black,0.0,0.0,0.0,"Lenz Truck - Fond du Lac, WI",4.4,5.0,2.0,,61495.0
+Land Rover,Discovery Sport SE,2019,42279.0,I4,Automatic,Four-wheel Drive,Gasoline,21-25,Narvik Black,Ebony,0.0,1.0,1.0,Kingstowne Motorcars,4.4,4.7,15.0,500.0,24495.0
+Chevrolet,City Express 1LS,2015,159363.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,24-26,White,Black,1.0,0.0,0.0,Wholesale Motors,4.2,3.7,10.0,,18129.0
+Cadillac,Escalade Premium,2013,59984.0,6.2L V8 16V MPFI OHV,6-Speed Automatic,Rear-wheel Drive,Gasoline,14-18,Black,Cashmere / Cocoa,0.0,0.0,1.0,"Cars Of Tampa, Inc",3.9,4.7,23.0,,29995.0
+Subaru,XV Crosstrek 2.0i Premium,2014,101174.0,2.0L H4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-33,Crystal Black Silica,Taupe,0.0,0.0,1.0,Ron Motor Inc.,,4.4,58.0,1300.0,13200.0
+Ford,F-250 XLT,2021,58391.0,6.7L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Oxford White,Medium Earth Gray,1.0,1.0,0.0,Auffenberg Ford Belleville,4.3,4.5,20.0,493.0,54505.0
+Chevrolet,Silverado 2500 LTZ,2018,105212.0,6.0L V8 16V MPFI OHV Flexible Fuel,6-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,,Summit White,Cocoa / Dune,0.0,1.0,0.0,Ozark Chevrolet,4.4,4.6,39.0,1000.0,40700.0
+Porsche,911 Carrera,2020,8974.0,"3L H-6 gasoline direct injection, DOHC, VarioCam Plus variable v",Automatic,Rear-wheel Drive,Gasoline,18-24,Carmine Red,Mojave Beige/B,0.0,1.0,1.0,Countryside Chevrolet,,4.7,12.0,,129995.0
+Honda,CR-V Touring,2018,42052.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,All-wheel Drive,Gasoline,27-33,Modern Steel Metallic,Black,0.0,1.0,1.0,Luther Hopkins Honda,4.9,4.7,1025.0,500.0,29595.0
+Toyota,Tundra Limited,2019,45047.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,Smoked Mesquite,Black,0.0,1.0,1.0,Sonia's Auto Sales,3.3,4.8,128.0,4000.0,45998.0
+Chevrolet,Express 1500 Work Van,2012,144507.0,4.3L V6 12V MPFI OHV,4-Speed Automatic,Rear-wheel Drive,Gasoline,,Summit White,Medium Pewter,1.0,1.0,0.0,Century Auto Sport,,4.8,4.0,1000.0,14995.0
+Volkswagen,Tiguan 2.0T S,2020,35418.0,,8-Speed Automatic,,,,Pyrite Silver Metallic,Titan Black Cloth,1.0,1.0,1.0,Neftin Volkswagen,,4.7,59.0,,24708.0
+Ford,Expedition Max XLT,2021,24789.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,17-23,Magnetic Metallic,Ebony,0.0,1.0,1.0,AutoNation Ford Brooksville,4.7,,0.0,7211.0,47312.0
+Hyundai,Elantra SEL,2021,61362.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,31-41,Calypso Red,Black,0.0,1.0,0.0,CARite of North Orlando,,4.8,33.0,300.0,18997.0
+GMC,Sierra 1500 Base,2017,69000.0,5.3L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Black,Charcoal,0.0,1.0,0.0,R21 Motorsports,3.4,4.6,190.0,2495.0,29500.0
+Hyundai,Accent SE,2017,61722.0,4 Cylinder,Automatic,Front-wheel Drive,Gasoline,26-36,Pacific Blue,Black,0.0,0.0,0.0,JRS Auto Sales,5.0,4.6,163.0,,14499.0
+Kia,Sportage SX Turbo,2019,38047.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,20-23,Hyper Red,,0.0,0.0,1.0,Renn Kirby Mitsubishi,4.4,4.7,142.0,,26795.0
+RAM,2500 Laramie,2016,90750.0,6.4L V8 16V MPFI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,,Silver,Black,1.0,0.0,1.0,TX Auto Group,4.5,4.5,81.0,,38995.0
+Chevrolet,Traverse LT Leather,2019,75702.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,18-27,Summit White,Jet Black,0.0,0.0,1.0,Peltier Nissan,2.6,4.7,205.0,,29311.0
+Mercedes-Benz,GLK-Class GLK 350 4MATIC,2015,78106.0,3.5L V6 24V GDI DOHC,7-Speed Automatic,All-wheel Drive,Gasoline,18-25,Blue,,1.0,0.0,1.0,Bergey's Lincoln,4.5,4.7,75.0,,17890.0
+Nissan,Rogue SL,2021,58974.0,2.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,26-34,White,Charcoal,0.0,1.0,1.0,Greenway Honda of Florence,4.4,4.6,102.0,745.0,31941.0
+Cadillac,SRX Premium Collection,2015,88484.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,16-23,Black Raven,,0.0,0.0,1.0,Stykemain Buick GMC,4.6,4.7,112.0,,20000.0
+GMC,Canyon SLE,2019,30497.0,3.6L V6 24V GDI DOHC,Automatic,Four-wheel Drive,Gasoline,17-24,Black,,0.0,0.0,0.0,Paradise Automotive Group,,4.5,52.0,400.0,35585.0
+Mercedes-Benz,S-Class S 450,2020,28356.0,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,19-28,Black,Black,0.0,1.0,1.0,Mercedes-Benz of Sugar Land,3.8,4.9,7.0,,66989.0
+Hyundai,Tucson SE,2020,38138.0,"Nu 2L I-4 gasoline direct injection, DOHC, D-CVVT variable valve",Automatic,Front-wheel Drive,Gasoline,23-28,Not Specified,Black,0.0,1.0,1.0,Big Hanks Auto Sales,,4.7,172.0,,19500.0
+Ford,Edge SEL,2017,64780.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,20-27,Blue,Ebony,0.0,1.0,0.0,Bachrodt Baraboo Motors,4.8,4.7,293.0,158.0,21742.0
+GMC,Yukon Denali,2021,49653.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-19,Onyx Black,Teak,0.0,0.0,1.0,Landers Kia,2.6,4.1,26.0,1000.0,69000.0
+Chevrolet,Express 2500 Work Van,2019,27207.0,6.0L V8 16V MPFI OHV,6-Speed Automatic,Rear-wheel Drive,Gasoline,,Bronze Mist,Medium Pewter,0.0,0.0,0.0,Laria Chevrolet Buick,3.9,5.0,1.0,445.0,57550.0
+Chrysler,Town & Country S,2016,76735.0,3.6L V6 24V MPFI DOHC Flexible Fuel,Automatic,Front-wheel Drive,E85 Flex Fuel,17-25,Silver,Black,1.0,0.0,0.0,Tacony Imports Auto Sales,,4.7,113.0,,15491.0
+Honda,Ridgeline Sport,2019,43476.0,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",6-Speed Automatic,All-wheel Drive,Gasoline,18-25,Black,Black,0.0,0.0,1.0,Skyway Honda Of Enid,,4.8,169.0,,31290.0
+Audi,e-tron Sportback S line Premium,2022,9129.0,Electric,Automatic,All-wheel Drive,Electric,,Plasma Blue Metallic,Black,0.0,1.0,1.0,BMW of the Main Line,3.9,,0.0,480.0,59995.0
+RAM,3500 SLT,2018,95498.0,6.7L I6 24V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Bright White Clearcoat,Black,0.0,0.0,0.0,Parks Motor Sales Inc,3.7,4.7,61.0,,46900.0
+Chrysler,200 Limited,2016,79810.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,23-36,Billet Silver Metallic Clearcoat,Black,0.0,0.0,1.0,Silveira Chevrolet,,4.4,140.0,1000.0,13494.0
+BMW,750 i xDrive,2020,37276.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,17-25,Azurite Black Metallic,Smoke White,0.0,1.0,1.0,Automax Atlanta,4.0,5.0,3.0,,57988.0
+Buick,LeSabre Limited,2000,132587.0,3.8L V6 12V MPFI OHV,4-Speed Automatic,Front-wheel Drive,Gasoline,19-30,Bright White Clearcoat,Taupe,0.0,0.0,1.0,Nikles of Petersburg,,4.4,37.0,,5900.0
+RAM,1500 Classic Tradesman,2019,42284.0,3.0L V6 24V DDI DOHC Turbo Diesel,8-Speed Automatic,Four-wheel Drive,Diesel,15-21,Granite Crystal Clearcoat Metallic,Black,0.0,1.0,0.0,Legacy Chrysler Dodge Jeep Ram,,4.7,143.0,100.0,33208.0
+Chevrolet,Malibu LT,2021,64890.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,29-36,Shadow Gray Metallic,Jet Black,1.0,1.0,0.0,McGrath City Mazda,4.4,4.9,8.0,500.0,18995.0
+Toyota,Tundra SR,2019,61270.0,4.6L,6 Speed Elect Controled  Auto Transmission w/ Inte,,Gasoline,,ICE CAP,FA13,1.0,1.0,0.0,Billion Toyota,1.5,4.8,128.0,,35975.0
+Nissan,Rogue SV,2021,40589.0,2.5L I4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Caspian Blue,Charcoal,0.0,1.0,1.0,Bruce Bennett Infiniti of Danbury,,4.6,102.0,245.0,25390.0
+Volkswagen,Golf 1.4T TSI,2020,19982.0,1.4L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,29-35,Pure White,Beige,0.0,1.0,0.0,Simmons-Rockwell Hyundai,,3.7,3.0,,22999.0
+Chrysler,Pacifica Hybrid Limited,2021,14052.0,3.6L V6 24V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,Brilliant Black Crystal Pearlcoat,Black,0.0,0.0,1.0,Westgate Chrysler Jeep Dodge Ram,3.3,4.1,18.0,,44867.0
+Mercedes-Benz,Maybach S 650,2019,48883.0,,,,Gasoline,,Obsidian Black Metallic,Black Exclusive Leather,0.0,1.0,0.0,Envision Mercedes-Benz of West Covina,1.5,5.0,1.0,,119211.0
+Honda,Accord Crosstour EX-L,2010,136253.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,18-27,Gray,Black,1.0,0.0,1.0,South 63 Motors,,4.7,63.0,,12900.0
+Chevrolet,Traverse RS,2022,13983.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,,Iridescent Pearl Tricoat,Jet Black / Spice Red,0.0,1.0,1.0,Elm Chevrolet,4.0,2.9,4.0,,42999.0
+Ford,F-350 Lariat Super Duty,2015,102155.0,6.7L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Ingot Silver Metallic,Black,0.0,1.0,0.0,Peterson Auto Group,4.6,4.5,36.0,500.0,43995.0
+Porsche,718 Boxster Base,2019,12274.0,2.0L H4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,Rear-wheel Drive,Gasoline,21-28,White,Black,0.0,1.0,1.0,Porsche Englewood,4.2,4.9,9.0,,66488.0
+Ford,E350 Super Duty XLT,2012,77000.0,5.4L V8 16V MPFI SOHC Flexible Fuel,Automatic,Rear-wheel Drive,E85 Flex Fuel,11-15,Oxford White,Medium Pebble,1.0,0.0,0.0,Jeff Kies Auto Sales,,4.4,4.0,,19900.0
+RAM,1500 Classic Warlock,2019,33800.0,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,16-23,Bright White Clearcoat,Black,0.0,1.0,1.0,David Chevrolet Buick,4.8,4.7,143.0,476.0,28887.0
+Nissan,Murano SV,2021,63966.0,3.5L V6 24V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-28,Brilliant Silver Metallic,Graphite,1.0,1.0,0.0,Rountree Moore Nissan,4.6,4.8,21.0,2046.0,23819.0
+Hyundai,Tucson Hybrid Blue,2022,81712.0,1.6L I4 16V GDI DOHC Turbo Hybrid,6-Speed Automatic,All-wheel Drive,Hybrid,38-38,Quartz White,Black,1.0,1.0,1.0,Murdock Hyundai of Logan,4.4,4.8,11.0,518.0,26922.0
+Acura,RDX Base,2008,145072.0,2.3L,5-SPEED A/T,Four-wheel Drive,Gasoline,17-22,Brown,Black,1.0,0.0,1.0,VP Auto,,4.3,29.0,,7999.0
+Dodge,Durango SXT,2021,21201.0,"Pentastar 3.6L V-6 DOHC, variable valve control, engine with 293",8-Speed Automatic,All-wheel Drive,Gasoline,18-25,Granite Clearcoat,Black,1.0,1.0,0.0,Cronin Hillsdale Chrysler Dodge Jeep Ram,,4.7,28.0,200.0,32297.0
+Mazda,CX-5 Carbon Edition Turbo,2021,17000.0,227.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,All-wheel Drive,Gasoline,,Gray,Red,,,,,,4.8,89.0,,32500.0
+Mercedes-Benz,A-Class A 220 4MATIC,2022,2833.0,,,,Gasoline,,Cosmos Black Metallic,Macchiato Beige,0.0,1.0,0.0,The Mercedes-Benz Center at Keeler Motor Car Company,5.0,4.6,1.0,,39900.0
+Jeep,Cherokee Limited,2019,26906.0,3.2L V6 24V MPFI DOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,19-27,White,Black,0.0,1.0,1.0,Planet Chrysler Jeep Dodge RAM,4.6,4.6,573.0,,28997.0
+Subaru,Outback 3.6R Limited,2019,16519.0,3.6L H6 24V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,20-27,White,Ivory,0.0,1.0,1.0,CarMax Jackson (MS) - Offering Express Pickup and Home Delivery,,4.7,264.0,,32998.0
+INFINITI,QX60 Luxe,2020,18980.0,3.5L V6 24V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,19-26,Deep Bordeaux,Graphite,0.0,1.0,1.0,Caribbean Auto Sales,4.1,4.8,39.0,2805.0,33995.0
+Ford,Expedition Max Limited,2021,49640.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,17-23,Burgundy Velvet Metallic Tinted Clearcoat,Medium Stone,0.0,1.0,0.0,Westway Ford,3.2,,0.0,,44453.0
+Chevrolet,Malibu LT,2018,88789.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,27-36,Silver,Black,1.0,1.0,0.0,Direct Auto Sales,3.8,4.5,212.0,,16900.0
+Mercedes-Benz,AMG GLC 63 Base 4MATIC,2019,55569.0,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,AWD,Gasoline,16-22,Black,Red Pepper,0.0,0.0,0.0,Summit Auto Center,,3.9,3.0,,49950.0
+Acura,RDX Advance Package,2020,26395.0,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,All-wheel Drive,Gasoline,21-27,Majestic Black Pearl,Espresso,0.0,1.0,1.0,Cain BMW,5.0,4.6,97.0,1700.0,37800.0
+GMC,Yukon XL Denali,2016,84576.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,14-20,Black,Black,,,,CarMax Parker - Offering Express Pickup and Home Delivery,,4.7,26.0,2000.0,39998.0
+BMW,540 i,2019,29612.0,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,21-29,Black Sapphire Metallic,Black,1.0,1.0,0.0,Westcoast Auto Sales,4.9,4.9,17.0,758.0,36372.0
+Toyota,RAV4 XLE,2021,14026.0,Regular Unleaded I-4 2.5 L/152,Automatic,All-wheel Drive,Gasoline,27-33,Magnetic Gray Metallic,Black,0.0,1.0,1.0,Del Toyota,4.8,4.8,105.0,,34990.0
+Hyundai,Santa Fe SE 2.4,2020,65932.0,"Theta II 2.4L I-4 gasoline direct injection, DOHC, D-CVVT variab",Automatic,Front-wheel Drive,Gasoline,22-29,Rainforest,Black/Black,1.0,1.0,1.0,Bluebonnet Ford,,4.8,207.0,,21995.0
+Kia,Seltos EX,2021,20058.0,2.0L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-31,Cherry Black,Black,0.0,0.0,1.0,Folsom Lake Hyundai,4.3,4.7,118.0,,27983.0
+Dodge,Charger R/T,2021,6065.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,16-25,Smoke Show,Black,0.0,0.0,1.0,Andy Mohr Kia,4.8,4.9,23.0,645.0,38996.0
+Ford,Fusion SE,2020,23703.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,23-34,Rapid Red Metallic Tinted Clearcoat,Ebony,0.0,1.0,1.0,Golf Mill Ford,4.8,4.8,73.0,114.0,23998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,2023,394.0,3.0L I6 24V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,,MANUFAKTUR Selenite Gray Magno,Black,0.0,1.0,1.0,Mercedes-Benz of Wilsonville,4.0,,0.0,,93000.0
+Dodge,Journey R/T,2013,144409.0,Gas V6 3.6L/220,Automatic,Front-wheel Drive,Gasoline,17-25,Storm Grey Pearl,Black/Red,0.0,0.0,1.0,Ed Martin Chrysler Dodge Jeep RAM,4.7,4.4,100.0,,9995.0
+Jeep,Wrangler Sport,2021,35921.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,17-25,Black Clearcoat,Heritage Tan,0.0,1.0,0.0,King City Chrysler Center,4.8,4.8,31.0,1000.0,32999.0
+Honda,Passport EX-L,2019,28245.0,"3.5L V-6 gasoline direct injection, i-VTEC VCM variable valve co",9-Speed Automatic,All-wheel Drive,Gasoline,19-24,Silver,Black,1.0,0.0,1.0,RightDrive,4.5,4.7,103.0,,32900.0
+Jeep,Compass High Altitude,2017,68226.0,2.4L I4 16V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,20-25,Billet Silver Metallic,Ski Gray,1.0,0.0,1.0,Speedway Motors Inc.,2.8,4.5,158.0,,15995.0
+Nissan,Maxima 3.5 SL,2020,19453.0,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-30,Deep Blue Pearl,Charcoal,0.0,1.0,1.0,Auto Connection,2.2,4.9,18.0,,25995.0
+Lexus,RC F Base,2022,556.0,5.0L V8 32V PDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,16-24,Caviar,Black,0.0,1.0,1.0,Porsche Hawaii,,,0.0,1500.0,86995.0
+Land Rover,Range Rover Sport 3.0L Supercharged HSE Dynamic,2017,89106.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Santorini Black,Ebony / Ebony,0.0,0.0,1.0,Haron Jaguar Land Rover,4.4,4.8,38.0,1000.0,35880.0
+Land Rover,Range Rover Sport HSE,2012,125415.0,5.0L V8 32V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-18,Sumatra Black,Ebony,0.0,0.0,1.0,Adam Auto Group,,4.7,26.0,416.0,14774.0
+Acura,TLX,2017,55462.0,,9 Speed Automatic,,,,Modern Steel Metallic,Graystone,0.0,1.0,1.0,Acura Of Baton Rouge,4.7,4.7,40.0,,32000.0
+Ford,Mustang EcoBoost Premium,2021,41600.0,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,20-27,Iconic Silver Metallic,Ebony,0.0,1.0,0.0,Auffenberg Ford Belleville,4.3,4.9,8.0,996.0,29156.0
+Chevrolet,Cruze LT,2018,52132.0,1.4L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,29-40,Red,Black,0.0,0.0,0.0,CarMax Glencoe (Edens Expy) - Offering Express Pickup and Home Delivery,,4.6,281.0,,18998.0
+Chevrolet,Colorado Z71,2015,59274.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,17-24,Black,Black,0.0,0.0,1.0,Eagle Chevrolet of Riverhead,,4.2,89.0,988.0,27900.0
+Kia,Sportage SX,2012,135236.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,20-25,Black Cherry,Black,0.0,0.0,1.0,The Car Lot,3.5,4.5,87.0,,11995.0
+Audi,Q5 45 S line Premium Plus,2022,6776.0,2.0L I4 16V GDI DOHC Turbo,Automatic,All-wheel Drive,Gasoline,23-28,Navarra Blue Metallic,Okapi Brown,0.0,1.0,1.0,Sunrise Ford Volkswagen,4.6,4.9,2.0,993.0,46990.0
+Chrysler,Pacifica Limited,2020,56901.0,3.6L V6 24V MPFI DOHC,9-Speed Automatic,FWD,Gasoline,19-28,Granite Crystal Clearcoat Metallic,Black,,,,Chrysler Dodge Jeep Ram of Chicago,4.5,4.7,64.0,,29995.0
+Honda,CR-V Touring,2022,12722.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,All-wheel Drive,Gasoline,27-32,Aegean Blue Metallic,Black,0.0,1.0,1.0,Napleton's Arlington Heights Chrysler Dodge Jeep RAM,4.4,4.8,11.0,100.0,33895.0
+Ford,F-250 Lariat,2021,20633.0,6.7L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Antimatter Blue Metallic,Black,0.0,1.0,1.0,Ford of Franklin,4.7,4.5,20.0,512.0,74963.0
+Mercedes-Benz,CLK-Class CLK500,2004,97164.0,5.0L V8 24V MPFI SOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,17-22,Silver,Gray,1.0,0.0,1.0,Legend Auto Sales,,4.8,33.0,,11888.0
+Mercedes-Benz,GLC 300 Base 4MATIC,2019,24539.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-27,White,Tan,0.0,0.0,1.0,CarMax Fremont - Offering Express Pickup and Home Delivery,,4.6,73.0,1000.0,32998.0
+Nissan,Pathfinder Platinum,2018,105832.0,"3.5L V-6 gasoline direct injection, DOHC, variable valve control","Automatic, Xtronic CVT",Four-wheel Drive,Gasoline,19-26,Magnetic Black,Charcoal,1.0,0.0,0.0,Edge AutoSports,,4.7,85.0,2000.0,23900.0
+BMW,330 i,2019,32680.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,26-36,Portimao Blue Metallic,Cognac,1.0,1.0,1.0,Brooklyn Mitsubishi,3.9,4.9,31.0,555.0,30667.0
+Mercedes-Benz,GLS 450 4MATIC,2022,14127.0,3.0L I6 24V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,18-24,Cardinal Red,Black,0.0,1.0,1.0,Mercedes-Benz of Midland,,,0.0,,85888.0
+BMW,X3 sDrive30i,2019,37630.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-30,Phytonic Blue Metallic,Black,0.0,1.0,1.0,Crown Acura,5.0,4.7,100.0,719.0,31961.0
+GMC,Yukon XL Denali,2021,20706.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-19,White Frost Tri-Coat,Teak,0.0,0.0,1.0,"Napleton Florida - Delivery from West Palm Beach, Florida for Naples/Fort Myers",,4.9,3.0,846.0,78083.0
+GMC,Sierra 1500 AT4,2019,119527.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,15-20,Onyx Black,Jet Black,0.0,0.0,0.0,Impex Auto Sales,4.8,4.4,126.0,,39900.0
+Hyundai,Genesis Coupe 3.8 Base,2016,74276.0,3.8L V6 24V GDI DOHC,6-Speed Manual,Rear-wheel Drive,Gasoline,17-24,Santiago Silver,Black,0.0,0.0,1.0,Harper Motors,,4.5,27.0,100.0,18900.0
+Dodge,Grand Caravan SE,1997,157023.0,3.3L V6 12V MPFI OHV,4-Speed Automatic,Front-wheel Drive,Gasoline,18-25,Bright White Clearcoat,,1.0,0.0,1.0,Deery Brothers Chrysler Dodge Jeep Ram of Iowa City,,4.5,6.0,2000.0,2990.0
+Land Rover,Range Rover HSE Westminster,2021,30259.0,V6,Automatic,Four-wheel Drive,Gasoline,18-23,Eiger Grey,Ebony,0.0,1.0,1.0,Hennessy Jaguar Land Rover Gwinnett,3.7,5.0,2.0,1595.0,78581.0
+Jeep,Compass Limited,2018,46095.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,22-30,Granite Crystal Clearcoat Metallic,Black,0.0,0.0,1.0,Tri-City Chrysler Dodge Jeep Ram,4.8,4.5,428.0,600.0,23800.0
+Chrysler,Pacifica Hybrid Touring L,2022,14205.0,3.6L V6 24V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,Ceramic Gray Clearcoat,Black,1.0,1.0,0.0,Zeigler Chrysler Dodge Jeep Ram of Schaumburg,4.1,,0.0,2697.0,39900.0
+Toyota,Highlander Limited,2016,126392.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-24,White,Black,0.0,1.0,1.0,Crown Motors II,,4.8,184.0,490.0,24990.0
+GMC,Sierra 3500 Denali,2021,28340.0,6.6L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,White,Black,0.0,0.0,1.0,ALM Athens,,4.4,2.0,2000.0,71944.0
+Tesla,Model Y Long Range,2023,152.0,Electric,Automatic,All-wheel Drive,Electric,,White,Black,0.0,1.0,1.0,CarMax Ontario - Offering Express Pickup and Home Delivery,,3.6,9.0,,54998.0
+Chrysler,Town & Country Touring-L,2014,171674.0,3.6L V6 24V MPFI DOHC Flexible Fuel,Automatic,Front-wheel Drive,E85 Flex Fuel,17-25,Billet Silver Metallic Clearcoat,Black,,,,Mcclane Motor Sales Inc,,4.6,127.0,,7500.0
+Lexus,ES 350 Base,2020,17992.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,22-32,Gray,Black,0.0,1.0,1.0,Victorville Chevrolet Cadillac,3.7,4.9,54.0,,36944.0
+Jeep,Grand Cherokee L Limited 4x4,2022,8232.0,3.6L V6 24V VVT,Automatic,Four-wheel Drive,Gasoline,,Black,Global Black,0.0,1.0,1.0,Browns Chrysler Dodge Jeep Ram,3.8,3.8,9.0,1849.0,45168.0
+Porsche,Cayenne Base,2019,54442.0,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,AWD,Gasoline,19-23,Black,Black,0.0,0.0,1.0,Porsche of Nashville,,4.7,24.0,,48798.0
+Honda,Odyssey,2020,73186.0,,10 Speed Automatic,,,,Lunar Silver Metallic,Mocha,0.0,0.0,0.0,Ray Price Auto Park Rt 33,,4.7,53.0,955.0,28977.0
+Buick,Encore Premium,2018,52144.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,25-33,White Frost Tri-Coat,Shale,0.0,0.0,0.0,Hertz Car Sales Morrow,,4.8,190.0,,19753.0
+Jeep,Compass Limited,2018,63839.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,22-30,Blue,Black,1.0,0.0,1.0,xDrive Motors Inc.,3.5,4.5,428.0,1140.0,20559.0
+Kia,Stinger Premium,2018,58065.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,,Gasoline,29,White,Black,1.0,1.0,0.0,CarMax Maple Shade - Offering Express Pickup and Home Delivery,,4.7,156.0,,28998.0
+Honda,Insight Touring,2019,41659.0,1.5L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,51-45,White,Gray,0.0,0.0,0.0,CarMax Gulf Freeway - Offering Express Pickup and Home Delivery,,4.7,76.0,,27998.0
+Subaru,Crosstrek Limited,2021,9664.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-34,Crystal White Pearl,Black,0.0,1.0,1.0,Audi Sioux Falls,,4.8,81.0,1600.0,31595.0
+GMC,Acadia SLT-2,2019,38584.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,18-25,Summit White,Jet Black,0.0,1.0,1.0,Jimmy Vasser Chevrolet of Napa,,4.8,133.0,110.0,30780.0
+Kia,Stinger Premium,2018,36001.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-29,Blue,Black,0.0,0.0,1.0,AutoNation USA St. Louis,3.4,4.7,156.0,692.0,32485.0
+Buick,Envision Preferred,2019,37689.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-29,Satin Steel Metallic,Light Neutral,1.0,0.0,1.0,Driveline Used Cars Murrieta,3.5,4.7,72.0,,19997.0
+Toyota,Prius IV,2010,143589.0,"1.8L I-4 DOHC, VVT-i variable valve control, engine with 98HP",CVT,Front-wheel Drive,Gasoline,51-48,Black,,0.0,0.0,1.0,Modern Classic Motors,4.2,4.6,297.0,1000.0,10494.0
+RAM,1500 Classic SLT,2020,100297.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Billet Silver Metallic Clearcoat,Black,0.0,1.0,0.0,Show Me Auto Mall,3.9,4.7,20.0,579.0,27900.0
+Chevrolet,Bolt EUV Premier,2022,3002.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Summit White,Jet Black,0.0,1.0,1.0,Mercedes-Benz of Oakland,,4.2,6.0,1000.0,34986.0
+Mercedes-Benz,CL-Class CL 63 AMG,2008,80473.0,518.0HP 6.3L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Rear-wheel Drive,Gasoline,,Black,Black,,,,,,4.9,13.0,,25000.0
+Ford,Mustang GT,2010,188886.0,4.6L V8 24V MPFI SOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,16-24,,,1.0,0.0,1.0,Top Motors LLC,,4.7,138.0,,9495.0
+Ford,Edge Titanium,2017,94626.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,20-29,Black,,0.0,0.0,0.0,Fiesta Motors,4.0,4.7,293.0,,19900.0
+BMW,430 Gran Coupe i,2022,8525.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,25-34,Alpine White,Black,0.0,0.0,0.0,Tulley Automotive Group,4.4,5.0,2.0,1000.0,41995.0
+RAM,ProMaster City SLT,2015,80554.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,21-29,White,Black,0.0,1.0,1.0,Done Deal Motors,4.3,4.2,11.0,,17990.0
+Honda,Fit Sport,2018,51609.0,1.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,31-36,Gray,Black,1.0,0.0,1.0,Gee NW Auto Lending,,4.7,96.0,486.0,18749.0
+Volkswagen,Jetta 1.4T SEL,2021,14376.0,1.4L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,29-39,Platinum Gray Metallic,Black,0.0,1.0,1.0,Volkswagen of Cool Springs,2.2,4.4,24.0,139.0,26853.0
+Nissan,Frontier PRO-4X,2018,48216.0,4.0L V6 24V MPFI DOHC Flexible Fuel,5-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,15-21,Black,Gray,0.0,0.0,1.0,Efkamp Auto Sales Urbandale,,4.6,110.0,2000.0,27500.0
+Lexus,RX 400h,2007,186666.0,3.3L V6 24V MPFI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,31-27,White,Tan,1.0,0.0,1.0,Let's Go Auto of Columbia,,4.7,34.0,,7600.0
+Dodge,Charger Scat Pack,2020,21883.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,Indigo Blue,Black,0.0,1.0,1.0,Apollo Auto Sales,4.6,4.8,57.0,,47997.0
+Porsche,Panamera 4S,2017,35070.0,"2.9L V-6 gasoline direct injection, DOHC, VarioCam Plus variable",Automatic,All-wheel Drive,Gasoline,21-28,Black,Black,0.0,0.0,1.0,AutoQ Car & Truck Sales,,4.8,10.0,400.0,69591.0
+Chevrolet,Trax LT,2015,21200.0,"Ecotec 1.4L I-4 DOHC, variable valve control, intercooled turbo,",Automatic,All-wheel Drive,Gasoline,24-31,Blaze Red,Jet Black,0.0,1.0,1.0,Bob Robinson Chevrolet Buick GMC Cadillac,,4.2,96.0,,17778.0
+Chevrolet,Trax LT,2020,22368.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-31,Mosaic Black Metallic,Jet Black,1.0,0.0,1.0,Golden Circle Chevrolet,5.0,4.5,105.0,365.0,21178.0
+INFINITI,Q50 Sport,2014,120721.0,3.7L V6 24V MPFI DOHC,7-Speed Automatic,All-wheel Drive,Gasoline,19-27,Malbec Black,Graphite,0.0,0.0,1.0,Ken Ganley Chrysler Dodge Jeep Ram Aurora,4.6,4.5,138.0,634.0,15436.0
+Audi,A3 Premium Plus,2023,4201.0,I4,Automatic,All-wheel Drive,Gasoline,,Florett Silver Metallic,Black,0.0,1.0,0.0,Audi North Scottsdale,4.8,,0.0,1263.0,45690.0
+Mercedes-Benz,S-Class S 580 4MATIC,2021,8352.0,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,,designo Diamond White,Black,0.0,0.0,1.0,Luxury Auto Collection,,,0.0,2500.0,109500.0
+Lexus,ES 350 Luxury,2020,16061.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,22-32,Silver,Black,1.0,1.0,1.0,Alpha Motorsports Fredericksburg,4.6,4.9,54.0,500.0,38500.0
+Nissan,Maxima 3.5 SV,2022,25738.0,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-30,Black,Charcoal,0.0,1.0,0.0,Hertz Car Sales Bonita Springs,,4.6,1.0,1359.0,26169.0
+Kia,Forte LX,2023,1160.0,2.0L I4 16V MPFI DOHC,Automatic,Front-wheel Drive,Gasoline,,Blue,Black,0.0,1.0,0.0,CarMax Danvers - Offering Express Pickup and Home Delivery,,4.9,5.0,,23998.0
+Toyota,Camry XSE,2019,36495.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,28-39,Wind Chill Pearl,Black,0.0,0.0,1.0,AutoNation Toyota Cerritos,4.5,4.8,313.0,798.0,28997.0
+Honda,Ridgeline Sport,2021,16191.0,"3.5L V-6 gasoline direct injection, i-VTEC variable valve contro",Automatic,All-wheel Drive,Gasoline,18-24,Radiant Red Metallic II,Black,0.0,1.0,1.0,Tuscaloosa Mazda,,4.7,28.0,213.0,34988.0
+Kia,Optima LX,2020,71369.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,24-32,Sparkling Silver,Black,0.0,1.0,0.0,Dale Spradley Kia,,4.8,69.0,,20590.0
+Land Rover,Range Rover Sport HSE,2019,42839.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Byron Blue,Ebony/Ebony/Ebony/Ebony,0.0,1.0,1.0,Audi Central Houston,4.1,4.7,11.0,,53999.0
+BMW,135 i,2010,40029.0,3.0L I6 24V GDI DOHC Twin Turbo,6-Speed Automatic,Rear-wheel Drive,Gasoline,17-26,Alpine White,Savanna Beige,0.0,0.0,1.0,BMW of Palm Springs,4.8,4.5,14.0,,17988.0
+Volkswagen,Jetta 1.4T S,2021,47585.0,1.4L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,29-39,Tornado Red,Titan Black,0.0,0.0,1.0,CarMax Jacksonville - Offering Express Pickup and Home Delivery,,4.4,24.0,1000.0,21998.0
+Chevrolet,Corvette,2022,2432.0,,,,,,Red,,0.0,0.0,1.0,Grieco Chevrolet Delray,3.7,4.4,9.0,200.0,98275.0
+Toyota,Tacoma SR,2022,871.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,18-22,White,Cement,0.0,1.0,1.0,Ressler Chevrolet,,4.6,8.0,999.0,39992.0
+Mercedes-Benz,C-Class C300 4MATIC,2008,123976.0,3.0L V6 OHV,7-Speed Automatic,All-wheel Drive,Gasoline,17-25,Blue,Beige,0.0,0.0,1.0,BG Motorcars,3.9,4.5,96.0,500.0,8999.0
+Honda,Odyssey,2019,60614.0,,9 Speed Automatic,,,,White Diamond Pearl,Beige,0.0,0.0,0.0,Randy Kuehl Honda,4.8,4.6,135.0,,30899.0
+BMW,M4 Competition xDrive,2022,6005.0,3.0L I6 24V GDI DOHC Twin Turbo,8-Speed Automatic with Overdrive,All-wheel Drive,Gasoline,,Brilliant White Metallic,Black,0.0,1.0,1.0,D-Patrick Motoplex,4.7,,0.0,,86995.0
+BMW,X3 sDrive30i,2020,59376.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,25-29,Jet Black,Black,0.0,1.0,0.0,Car Revolution,3.6,4.9,51.0,3114.0,26946.0
+Mercedes-Benz,GL-Class GL 450 4MATIC,2007,142560.0,4.6L V8 32V MPFI DOHC,7-Speed Automatic,All-wheel Drive,Gasoline,14-18,Black,Black,0.0,0.0,1.0,BG Motorcars,3.9,4.3,42.0,,7998.0
+Lexus,RX 350 Base,2014,30652.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,FWD,Gasoline,18-25,Gold,Cream,1.0,1.0,1.0,CarMax Miami (International Mall) - Offering Express Pickup and Home Delivery,,4.7,61.0,,26998.0
+Jeep,Grand Cherokee Limited,2021,17362.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,18-25,Granite Crystal Clearcoat Metallic,Black,0.0,1.0,1.0,Dover Dodge Route 15 Used Car Center,4.9,4.6,61.0,2107.0,44995.0
+RAM,1500 Classic Big Horn,2019,88261.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-22,Bright White Clearcoat,Diesel Gray / Black,0.0,0.0,0.0,Johnson Hyundai of Cary,3.9,4.7,143.0,789.0,26988.0
+Jeep,Wrangler Rubicon,2016,47046.0,3.6L V6 24V MPFI DOHC,6-Speed Manual,Four-wheel Drive,Gasoline,17-21,Bright White Clearcoat,Black,0.0,0.0,1.0,Chilson Dodge Chrysler Jeep RAM,4.8,4.6,78.0,,34000.0
+Honda,CR-V LX,2020,46702.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,FWD,Gasoline,28-34,White,Beige,0.0,1.0,1.0,Honda of Serramonte,4.6,4.8,274.0,,24999.0
+Jeep,Compass Latitude,2019,34169.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,22-31,Granite Crystal Metallic,Black,0.0,1.0,1.0,Global Auto Mall,4.1,4.5,164.0,100.0,22780.0
+RAM,1500 SLT,2013,87788.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Silver,Diesel Gray / Black,0.0,0.0,1.0,CV Wholesale,,4.6,165.0,4000.0,22990.0
+Lexus,RX 350 F Sport,2017,77829.0,3.5L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,19-26,Atomic Silver,Rioja Red,0.0,1.0,1.0,BMW of Bowling Green,,4.7,265.0,300.0,33288.0
+Audi,Q5 40 Premium Plus,2020,46585.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,22-28,Brilliant Black,Black,0.0,1.0,0.0,ALM Hyundai of Florence,3.9,4.7,31.0,,33895.0
+Volvo,XC90 T6 Inscription,2021,22813.0,"Drive-E 2L I-4 gasoline direct injection, DOHC, variable valve c",Automatic,All-wheel Drive,Gasoline,19-28,Crystal White Metallic,Blond,0.0,1.0,0.0,Parkway Hyundai of Wilmington,,5.0,21.0,,52999.0
+Subaru,Crosstrek Limited,2021,14992.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-34,Plasma Yellow Pearl,Black,1.0,1.0,1.0,Nate Wade Subaru,4.8,4.8,81.0,200.0,29500.0
+Toyota,Sienna LE,2008,186100.0,3.5L V6 24V MPFI DOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,19-26,Teal,Gray,0.0,0.0,1.0,Flying Wheels Inc,,4.6,69.0,,6500.0
+Volkswagen,Golf TSI S 4-Door,2017,81714.0,1.8L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,,Platinum Gray Metallic,Titan Black,1.0,0.0,0.0,Midway Auto Group,2.8,4.9,42.0,,14550.0
+Audi,Q3 2.0T Sport Premium,2018,59296.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,20-28,Cortina White,Chestnut Brown,0.0,0.0,1.0,Bomnin Chevrolet West Kendall,4.9,4.8,52.0,1000.0,21490.0
+Jeep,Gladiator Rubicon,2020,15495.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Hydro Blue Pearlcoat,Black,0.0,1.0,1.0,Sands Chevrolet - Surprise,4.0,4.6,155.0,1008.0,54750.0
+Porsche,Panamera E-Hybrid 4,2023,4623.0,2.9L V6 24V GDI DOHC Twin Turbo Hybrid,8-Speed Automatic,All-wheel Drive,Hybrid,,Gentian Blue Metallic,Black,0.0,1.0,1.0,Porsche Tysons Corner,4.5,,0.0,5000.0,117500.0
+Dodge,Ram 1500 SLT,2011,138734.0,"HEMI 5.7L V-8 variable valve control, engine with cylinder deact",Automatic,Four-wheel Drive,Gasoline,13-18,Deep Cherry Red Crystal Pearlcoat,Dark Slate/Medium Graystone,,,,Simms Auto Sales,,4.6,291.0,,12495.0
+Toyota,Corolla S,2009,130652.0,"1.8L I-4 DOHC, VVT-i variable valve control, engine with 132HP",Automatic,Front-wheel Drive,Gasoline,27-35,RED,Dark Charcoal,0.0,1.0,1.0,A & J Auto Group,,4.3,157.0,,10000.0
+Chevrolet,Tahoe High Country,2021,48971.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-19,White,Mojave,0.0,1.0,0.0,Runde Chevrolet-Buick-GMC,4.8,4.4,41.0,369.0,66820.0
+Cadillac,SRX Performance Collection,2015,98662.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,16-23,Black Raven,Ebony,0.0,0.0,1.0,Widrick Auto Sales,,4.7,112.0,,17499.0
+Dodge,Durango GT,2021,28357.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-25,DB Black Clearcoat,Black,0.0,1.0,0.0,Gulf Auto Direct,4.9,4.7,28.0,300.0,35990.0
+Jeep,Gladiator Rubicon,2021,33958.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Black Clearcoat,Black,1.0,0.0,1.0,Sewell Ford Lincoln,4.3,4.9,59.0,,48500.0
+Jeep,Wrangler JK Unlimited Sport,2018,38876.0,3.6L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,16-21,Black Clearcoat,Black,0.0,0.0,0.0,Don Vance Chrysler Dodge Jeep Ram,4.1,4.8,197.0,,29975.0
+BMW,X5 sDrive35i,2015,55720.0,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,19-27,Black,Canberra Beige,0.0,0.0,1.0,CarMax Modesto - Offering Express Pickup and Home Delivery,,4.7,98.0,1000.0,28998.0
+Audi,Q7 3.0T Premium,2011,112242.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,AWD,Gasoline,16-22,Teak Brown Metallic,,0.0,0.0,1.0,Hawthorne Motors Express,4.4,4.5,17.0,,11900.0
+Ford,F-250 Lariat,2022,13865.0,6.7L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Agate Black Metallic,Black Onyx,0.0,0.0,0.0,Huntley Ford,3.5,4.7,2.0,,76976.0
+Nissan,Altima 2.5 SR,2019,99296.0,2.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,27-37,White,Sport Interior,0.0,1.0,1.0,Y2K Auto Sales,,4.7,153.0,509.0,17442.0
+Toyota,Sequoia Limited,2017,82414.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,White,,1.0,0.0,1.0,Auto Buying Service,3.3,4.6,16.0,1000.0,35995.0
+BMW,328 i xDrive,2011,70209.0,3.0L,Automatic 6-Speed,All-wheel Drive,Gasoline,26-26,White,Black,0.0,0.0,0.0,Absolute Auto Solutions,1.9,4.5,229.0,,11600.0
+Dodge,Grand Caravan SXT,2020,70514.0,"Pentastar 3.6L V-6 DOHC, VVT variable valve control, engine with",Automatic,Front-wheel Drive,Gasoline,17-25,Brilliant Black Crystal Pearlcoat,Black/Light Graystone,0.0,1.0,0.0,Kayser Chrysler Center Watertown,4.7,4.5,7.0,244.0,20962.0
+Toyota,Highlander Hybrid Limited,2020,39604.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,35-34,Opulent Amber,Black,1.0,1.0,1.0,Gettel Toyota of Charlotte County,4.6,4.6,26.0,770.0,44286.0
+Kia,K5 GT-Line,2021,74778.0,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,26-34,Ebony Black,Black,0.0,1.0,1.0,Kia of Cleveland,3.9,4.6,71.0,,28981.0
+Jeep,Cherokee Latitude Plus,2018,125952.0,3.2L V6 24V MPFI DOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,21-28,Billet Silver Metallic Clearcoat,Black,0.0,0.0,1.0,Tom Wood Honda,4.1,4.7,277.0,770.0,19715.0
+Chrysler,Voyager LXI,2021,57879.0,3.6L V6 24V MPFI DOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,19-28,Bright White Clearcoat,Black,0.0,1.0,0.0,AMG Auto,2.4,5.0,1.0,,19800.0
+Volkswagen,Tiguan 2.0T SE R-Line Black,2022,35360.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,23-30,Deep Black Pearl Effect,Gray,0.0,1.0,0.0,Mercedes-Benz of North Orlando,4.7,3.6,8.0,791.0,30990.0
+BMW,X5 3.0si,2008,139319.0,3.0L I6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,15-21,Champagne,Tan,0.0,0.0,1.0,East Coast Motors of New Jersey,,4.3,61.0,1000.0,6990.0
+Land Rover,Range Rover Sport 3.0L Supercharged SE,2017,56684.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Santorini Black,Almond / Espresso / Ivory,0.0,0.0,1.0,Santa Monica Suvs,,4.8,38.0,,37995.0
+Honda,HR-V EX,2020,22291.0,Regular Unleaded I-4 1.8 L/110,Variable,All-wheel Drive,Gasoline,26-31,Lunar Silver Metallic   Si,Black   Bk,0.0,1.0,0.0,Honda of Freehold,4.7,4.8,65.0,,24982.0
+Ford,Bronco Sport Big Bend,2022,10540.0,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,25-28,Bronze Smoke Metallic,Ebony,0.0,1.0,1.0,Fairway Ford Henderson,,4.6,10.0,,32992.0
+Lexus,RX 350 Base,2013,102948.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,18-25,Claret Mica,Parchment,1.0,1.0,1.0,M Sport Motors,,4.7,118.0,748.0,20988.0
+Lincoln,Continental Reserve,2017,33337.0,3.0L V6 24V GDI DOHC Twin Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,17-25,White,Black,,,,CarMax Dulles - Offering Express Pickup and Home Delivery,,4.8,100.0,,32998.0
+Land Rover,Range Rover Evoque Pure Plus,2012,66068.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,18-28,Fuji White,Ebony,1.0,1.0,1.0,AutoNation Honda Costa Mesa,4.8,4.4,26.0,,17998.0
+Honda,Civic EX,2012,150911.0,1.8L I4 16V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,28-39,Gray,Beige,0.0,0.0,1.0,Stan's Auto Sales LLC,,4.5,336.0,,10488.0
+GMC,Yukon Denali,2015,149035.0,6.2L V8 16V GDI OHV,Automatic,Four-wheel Drive,Gasoline,15-21,White Diamond Tri-Coat,Cocoa / Shale,1.0,0.0,0.0,Copple Chevrolet GMC,5.0,4.4,82.0,200.0,27495.0
+Volkswagen,Tiguan 2.0T SEL Premium R-Line,2021,9564.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-27,Stone Blue,Black,0.0,1.0,1.0,Reydel Volkswagen of Linden,4.6,4.7,16.0,1000.0,35999.0
+RAM,1500 Big Horn,2020,54539.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,19-24,Diamond Black,Black,0.0,0.0,1.0,Gandrud Dodge-Chrysler-Jeep-RAM,4.7,4.8,207.0,,38990.0
+GMC,Sierra 2500 SLE,2020,42898.0,6.6L V8 16V GDI OHV,Automatic,Four-wheel Drive,Gasoline,,White,,0.0,0.0,1.0,Kendall Chevrolet of Marysville,,4.8,23.0,740.0,64999.0
+Mercedes-Benz,C-Class C 300,2019,39217.0,,,,Gasoline,,Selenite Grey Metallic,Ash Leather Seating Inserts,0.0,1.0,1.0,Park Place Motorcars Dallas,,4.8,41.0,,33854.0
+Chevrolet,Express 2500 LT,2020,53837.0,6.0L V8 16V MPFI OHV,6-Speed Automatic,Rear-wheel Drive,Gasoline,,White,Gray,0.0,,1.0,Amazing Auto Center,,5.0,1.0,,26750.0
+Hyundai,Veloster RE:FLEX w/Black,2015,95224.0,1.6L I4 16V GDI DOHC,6-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,27-36,Boston Red,Black,0.0,0.0,0.0,Greg May Honda,4.7,4.7,43.0,,10874.0
+BMW,M4,2020,20061.0,,,,,,Special Order Color,,1.0,1.0,1.0,BMW of Humboldt Bay,,4.9,1.0,1000.0,63995.0
+Jeep,Grand Cherokee Laredo,2015,72473.0,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,17-24,Granite Crystal Clearcoat Metallic,Black,0.0,1.0,0.0,Village Pointe Toyota,4.6,4.8,297.0,499.0,21900.0
+Lincoln,Nautilus Select,2019,25228.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,21-26,Ingot Silver,Cappuccino,0.0,1.0,1.0,Parks Ford of Wesley Chapel,4.7,4.7,104.0,1487.0,32511.0
+Ford,Fusion SE,2016,105682.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,22-31,Oxford White,Dune,0.0,1.0,1.0,Torrington Ford,3.5,4.6,296.0,,12995.0
+Buick,Envision Essence,2020,55914.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-29,Summit White,Light Neutral,1.0,1.0,1.0,Nimnicht Chevrolet,4.8,4.9,43.0,600.0,26980.0
+Chevrolet,Malibu LT,2021,61219.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,29-36,Silver Ice Metallic,Jet Black,0.0,1.0,0.0,Classic Chrysler Dodge Jeep Ram Fiat,4.5,4.9,8.0,,21991.0
+Porsche,Macan Base,2022,7647.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,All-wheel Drive,Gasoline,19-25,White,,0.0,1.0,0.0,Porsche Brooklyn,,4.4,1.0,,62999.0
+Mercedes-Benz,Sprinter 3500 170 WB High Roof Extended Cargo,2022,4601.0,3.0L V6 24V DDI DOHC Turbo Diesel,7-Speed Automatic,Rear-wheel Drive,Diesel,,Arctic White,,0.0,1.0,0.0,Car Revolution,3.6,,0.0,,64995.0
+Ford,Fusion S,2020,9526.0,2.5L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,21-31,Oxford White,Ebony,0.0,1.0,1.0,Al Piemonte Ford,2.8,4.8,73.0,1400.0,20477.0
+BMW,430 i,2017,82000.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-34,White,,0.0,0.0,1.0,Ted Russell Ford Kingston Pike,3.1,4.9,13.0,1995.0,23995.0
+Volvo,S60 Momentum,2020,5215.0,4,Automatic,,Gasoline,,Gray,,0.0,1.0,1.0,Cherry Hill Volvo Cars,4.3,4.9,24.0,,33997.0
+Acura,TL Type S w/Navigation,2008,192913.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,17-26,Black,Beige,1.0,0.0,1.0,Paniagua Automotive,,4.7,111.0,1000.0,6995.0
+Ford,EcoSport SES,2020,48413.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,23-29,Silver,Black,0.0,0.0,0.0,Courtesy Autopark,,4.7,65.0,,23990.0
+GMC,Acadia SLT-1,2015,100857.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,16-23,Iridium Metallic,Ebony,1.0,0.0,1.0,Luther Cadillac,4.7,4.6,123.0,1000.0,16997.0
+Honda,CR-V EX-L,2017,73533.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,28-34,Lunar Silver Metallic,Gray,1.0,0.0,1.0,Sewell Cadillac Grapevine,2.7,4.8,805.0,,19999.0
+Hyundai,Santa Fe Limited,2011,74109.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,20-26,Moonstone Silver,Cocoa Black,0.0,1.0,1.0,Germain Mazda West,,4.5,93.0,525.0,11450.0
+BMW,750 i xDrive,2020,21296.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,17-25,Black Sapphire Metallic,Cognac,,,,North Coast Auto Mall of Akron,4.3,5.0,3.0,120.0,62993.0
+Cadillac,Escalade ESV Premium,2013,66316.0,6.2L V8 16V MPFI OHV,6-Speed Automatic,All-wheel Drive,Gasoline,13-18,Black,Ebony / Ebony,1.0,0.0,1.0,M Auto Group,,4.8,8.0,490.0,24495.0
+Jeep,Wrangler Unlimited 4xe Rubicon,2021,11714.0,2.0L I4 16V GDI DOHC Turbo Hybrid,8-Speed Automatic,Four-wheel Drive,Hybrid,,Black Clearcoat,Black,0.0,1.0,1.0,ALM Roswell,2.2,4.0,12.0,1000.0,51490.0
+Chevrolet,Cruze LS,2018,69754.0,1.4L I4 16V GDI DOHC Turbo,6-Speed Automatic,FWD,Gasoline,29-40,Silver,Gray,,,,DriveTime of Live Oak,,4.6,281.0,,17595.0
+Kia,Soul LX,2020,36006.0,2.0L I4 16V MPFI DOHC,IVT,Front-wheel Drive,Gasoline,,Mars Orange,Black,1.0,1.0,1.0,Ken Ganley Kia Mentor,4.7,4.7,213.0,190.0,17800.0
+BMW,X1 sDrive28i,2019,23114.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,23-32,Glacier Silver Metallic,Black,0.0,1.0,1.0,BMW MINI of Clear Lake,4.7,4.7,18.0,,29800.0
+RAM,1500 Classic SLT,2022,111.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,,Billet Silver Metallic Clearcoat,Black,0.0,0.0,0.0,Chrysler World,4.9,4.6,1.0,439.0,44990.0
+Jeep,Gladiator Sport,2022,2298.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Black Clearcoat,Black,0.0,1.0,0.0,Crown Chrysler Dodge Jeep Ram,,4.9,8.0,,43626.0
+Chevrolet,Bolt EV Premier,2017,51997.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Kinetic Blue,Dark Galvanized Gray,0.0,0.0,0.0,Bill Luke Tempe,4.7,4.5,134.0,1514.0,22987.0
+Mazda,CX-5 Touring,2021,41999.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,24-30,Deep Crystal Blue Mica,Black,0.0,1.0,0.0,NY Luxury Motors,3.9,4.8,89.0,505.0,18998.0
+Lexus,IS 250 Base,2014,107716.0,2.5L V6 24V PDI DOHC,6-Speed Automatic,RWD,Gasoline,21-30,White,Red,1.0,0.0,1.0,Mega Auto Outlet,1.3,4.7,70.0,100.0,16795.0
+BMW,750 i xDrive,2020,28005.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,17-25,Donington Gray Metallic,Black,0.0,1.0,1.0,Sewell BMW of Grapevine,3.3,5.0,3.0,,62867.0
+Toyota,Highlander Hybrid XLE,2022,17232.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,36-35,Celestial Silver Metallic,Graphite,0.0,1.0,1.0,Sun Toyota,4.8,4.5,6.0,705.0,45990.0
+Hyundai,Elantra SEL,2021,39848.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,31-41,Shimmering Silver Pearl,Black,0.0,1.0,0.0,Dyer & Dyer Volvo Cars,4.8,4.8,33.0,2001.0,18997.0
+Nissan,350Z NISMO,2007,16721.0,3.5L V6 24V MPFI DOHC,6-Speed Manual,Rear-wheel Drive,Gasoline,20-27,Magnetic Black,Black / Red,0.0,0.0,1.0,House of Cars Arizona,,4.7,41.0,,42998.0
+Mazda,CX-5 Grand Touring,2019,55780.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,24-30,Jet Black Mica,Parchment,1.0,1.0,1.0,Ourisman Fairfax Kia,1.5,4.8,231.0,633.0,24333.0
+GMC,Canyon Denali,2022,8156.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-24,Onyx Black,Jet Black,0.0,1.0,0.0,Bob Allen Motor Mall,4.9,4.4,7.0,314.0,42994.0
+Jeep,Wrangler Unlimited Sport Altitude,2020,26476.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Billet Silver Metallic Clearcoat,Black,0.0,1.0,1.0,Arrigo Dodge Chrysler Jeep Ram Sawgrass,4.9,4.8,79.0,543.0,38700.0
+Acura,TSX Technology,2012,111733.0,"2.4L I-4 DOHC, i-VTEC variable valve control, engine with 201HP",Automatic,Front-wheel Drive,Gasoline,22-31.0,Crystal Black Pearl,Ebony,0.0,1.0,1.0,Land Rover Jaguar Naperville,,4.7,51.0,2000.0,11990.0
+Mitsubishi,Outlander Sport 2.4 GT,2016,77256.0,2.4L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,23-28,Mercury Gray Metallic,Black,1.0,0.0,1.0,HGreg.com Orlando,4.8,4.6,47.0,500.0,15998.0
+BMW,X1 sDrive28i,2018,79303.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,23-32,Mineral Gray Metallic,Black,1.0,0.0,1.0,BMW of Rochester Hills,,4.8,79.0,382.0,20000.0
+Lincoln,Nautilus Black Label,2019,42342.0,2.7L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-25,Infinite Black Metallic,Cashmere,0.0,1.0,0.0,Keller Bros Ford Lititz,4.9,4.7,104.0,3012.0,41491.0
+Mercedes-Benz,E-Class E 350,2022,100.0,2.0L I4 16V GDI DOHC Turbo,Automatic,Rear-wheel Drive,Gasoline,,Polar White,Black,0.0,1.0,0.0,Topline Automotive Inc.,,3.7,1.0,,63610.0
+Land Rover,Range Rover Velar R-Dynamic S,2022,23563.0,I4,Automatic,Four-wheel Drive,Gasoline,21-27,Fuji White,Ebony,1.0,1.0,0.0,Hertz Car Sales Lynn,,5.0,1.0,1758.0,56134.0
+Toyota,Venza Limited,2022,32645.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,40-37,Blizzard,Black,0.0,1.0,0.0,Hertz Car Sales Torrance,,4.1,10.0,2493.0,43999.0
+Chrysler,Aspen Limited,2008,169442.0,5.7L V8 16V MPFI OHV,Automatic,Four-wheel Drive,Gasoline,13-17,Blue,Black,0.0,0.0,0.0,CRS 1 LLC,1.7,4.8,45.0,,3999.0
+Toyota,Prius LE,2020,26640.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,54-50,Gray,Black,0.0,1.0,1.0,Gardena Nissan,3.5,4.7,18.0,1659.0,32437.0
+Chevrolet,Corvette Stingray w/1LT,2021,25000.0,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,Rear-wheel Drive,Gasoline,,White,Red,,,,,,4.9,15.0,,82999.0
+RAM,1500 Laramie,2021,33989.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,19-24,Flame Red Clearcoat,Black,0.0,1.0,1.0,Legacy Nissan,,4.8,99.0,830.0,45000.0
+Ford,EcoSport SES,2018,43395.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,23-29,Diamond White,Ebony Black,0.0,0.0,1.0,Ken Pollock Ford,4.8,4.5,204.0,151.0,18848.0
+BMW,530 i xDrive,2021,16902.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,23-32,Bluestone Metallic,Black,0.0,1.0,0.0,BMW of Anchorage,,5.0,3.0,789.0,43999.0
+Ford,F-250 XLT,2020,19138.0,7.3L V8 16V MPFI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,,Oxford White,Medium Earth Gray,0.0,1.0,1.0,Golden Circle Ford,4.4,4.7,46.0,495.0,57324.0
+Ford,F-150 XLT,2016,78113.0,5.0L V8 32V MPFI DOHC Flexible Fuel,6-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,15-21,Black,Black,0.0,0.0,1.0,Bob Rohrman Hyundai,,4.6,393.0,116.0,28900.0
+Ford,Transit-250 Base,2021,43300.0,"3.5L V-6 port/direct injection, DOHC, variable valve control, en",Automatic,Rear-wheel Drive,Gasoline,0-0,White,Black,0.0,1.0,0.0,Heath Attaway Auto Sales,,,0.0,,46995.0
+Toyota,Prius III,2011,74080.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,51-48,Silver,Gray,1.0,1.0,1.0,Bob's Auto Ranch,3.9,4.5,152.0,,13995.0
+BMW,X1 sDrive28i,2018,100546.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,23-32,Alpine White,Black,1.0,1.0,1.0,The Trading Post,,4.8,79.0,,19350.0
+Jeep,Wrangler Unlimited Sport,2020,34262.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Billet Silver Metallic Clearcoat,Black,0.0,1.0,1.0,Manchester Mazda,4.4,4.8,79.0,800.0,32499.0
+Mercedes-Benz,S-Class S 500 4MATIC,2021,8806.0,,,All-wheel Drive,Hybrid,,Cirrus Silver Metallic,Black Nappa Leather,0.0,0.0,1.0,Mercedes-Benz of Beverly Hills,4.5,,0.0,,94850.0
+Honda,Civic Sport,2020,25349.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,29-37,Aegean Blue Metallic,Black,0.0,1.0,1.0,Hamilton Honda,4.7,4.9,171.0,100.0,24324.0
+Kia,Forte EX,2012,104932.0,2.0L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,26-36,Black,Black,0.0,0.0,0.0,Best Buy Auto Sales,2.9,4.4,62.0,1000.0,7995.0
+Ford,Transit Connect XL,2013,79427.0,2.0L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,21-27,Frozen White,Dark Gray,1.0,0.0,1.0,East Coast Auto Source,1.8,4.0,19.0,,8795.0
+Mercedes-Benz,C-Class C 300 4MATIC,2018,33063.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-29,Black,Black,1.0,0.0,1.0,Marquardt of Barrington Buick-GMC,4.7,4.8,66.0,897.0,37705.0
+BMW,M4 Competition,2021,2205.0,3.0L I6 24V GDI DOHC Twin Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,16-23,Sao Paulo Yellow,Black,0.0,1.0,0.0,Century West BMW,4.4,5.0,3.0,1000.0,88895.0
+GMC,Yukon XL 1500 SLE,2015,195315.0,5.3L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,15-22,Champagne Silver,Cocoa / Dune,0.0,1.0,1.0,M. J. Goss Motor Co.,,4.6,58.0,,21988.0
+Chevrolet,Express 2500 Work Van,2021,70562.0,4.3L V6 12V GDI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,,Summit White,Neutral,1.0,1.0,0.0,Gossett Chrysler Dodge Jeep Ram Fiat,2.6,3.8,2.0,730.0,35955.0
+Dodge,Grand Caravan SXT,2020,68620.0,3.6L V6 24V MPFI DOHC,Automatic,Front-wheel Drive,Gasoline,17-25,Brilliant Black Crystal Pearlcoat,Black,0.0,1.0,0.0,Joe Myers Ford,4.8,4.5,7.0,,17297.0
+Toyota,Tundra TRD Pro,2021,33170.0,5.7L,6 Speed Automatic Transmission,,Gasoline,,ICE CAP,LF20,0.0,1.0,0.0,Toyota South,4.8,4.8,37.0,,58990.0
+Chevrolet,Equinox Premier w/2LZ,2020,35000.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-28,Pacific Blue Metallic,Jet Black,0.0,0.0,1.0,Schwieters Chevrolet of Willmar,3.8,4.7,285.0,,28999.0
+Chrysler,Town & Country Touring,2012,136539.0,3.6L V6 24V MPFI DOHC,Automatic,Front-wheel Drive,,17-25,Champagne,Frost Beige,0.0,0.0,1.0,Evolution Autos,4.1,4.5,95.0,500.0,8490.0
+Mercedes-Benz,Sprinter 2500 144 WB,2021,14690.0,2.0L I4 16V DDI DOHC Turbo Diesel,7-Speed Automatic,Rear-wheel Drive,Diesel,,Gray,Black,0.0,1.0,0.0,Pacific Auto Center - Fontana,3.1,,0.0,2000.0,52995.0
+Lexus,GX 460 Luxury,2020,,4.6L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,15-19,Black Onyx,Black,0.0,1.0,1.0,Metro Lexus,4.9,4.9,23.0,552.0,54957.0
+Lincoln,Navigator L Reserve,2019,89285.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,,Ceramic White,Cappuccino,0.0,0.0,1.0,Mark Allen Buick GMC,4.8,4.5,6.0,668.0,52103.0
+Land Rover,Range Rover Evoque S,2020,26848.0,I4,Automatic,All-wheel Drive,Gasoline,20-27,Fuji White,Deep Garnet,0.0,1.0,1.0,J & S Autohaus,4.1,4.1,16.0,500.0,38995.0
+Ford,Edge ST,2022,10516.0,2.7L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,19-25,Agate Black Metallic,Ebony,0.0,1.0,0.0,AutoNation Ford Miami,4.6,4.7,10.0,496.0,43999.0
+Jeep,Grand Cherokee SRT,2019,35137.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,13-19,Diamond Black,Black,0.0,,1.0,Rainier Dodge & Ram Of Olympia,3.9,4.8,227.0,380.0,64981.0
+Nissan,Altima 2.5 S,2020,95209.0,2.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,28-39,Super Black,Charcoal,0.0,1.0,0.0,Madera Ford,3.4,4.7,92.0,100.0,17900.0
+Kia,Sorento LX,2013,80900.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,20-26,Gray,Black,0.0,0.0,1.0,A Better Way Wholesale,1.8,4.2,156.0,1500.0,10495.0
+Subaru,XV Crosstrek 2.0i Premium,2014,93620.0,2.0L H4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-33,Venetian Red Pearl,Taupe,1.0,0.0,0.0,Autonet,1.5,4.4,58.0,,12590.0
+Volkswagen,Tiguan SE,2012,118163.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,22-27,White,Beige,1.0,0.0,1.0,AW Auto and Truck Wholesalers,4.1,4.5,54.0,,8995.0
+Nissan,Altima 2.5 SL,2013,69129.0,2.5L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,27-38,Metallic Slate,Charcoal,0.0,0.0,1.0,Terre Haute Chevrolet,3.7,4.4,374.0,375.0,14440.0
+BMW,330,2020,25897.0,,,,,,Glacier Silver Metallic,,0.0,1.0,0.0,Circle BMW,4.9,4.6,26.0,,36051.0
+Ford,Bronco Sport Big Bend,2021,38539.0,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,25-28,Iconic Silver Metallic,,0.0,1.0,0.0,Byers Ford,4.7,4.7,63.0,156.0,28799.0
+Mazda,CX-5 Grand Touring,2020,22817.0,Regular Unleaded I-4 2.5 L/152,Automatic,All-wheel Drive,Gasoline,24-30,Soul Red Crystal Metallic,Black,0.0,1.0,1.0,Stevenson-Hendrick Honda Wilmington,4.9,4.9,140.0,,29917.0
+Subaru,Crosstrek Sport,2021,48565.0,2.0L,Automatic CVT,All-wheel Drive,Gasoline,27-34,Crystal Black Silica,Gray,0.0,1.0,1.0,W & L Subaru,4.8,4.8,81.0,1739.0,29991.0
+Cadillac,Escalade Premium Luxury,2017,83380.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-20,Dark Granite Metallic,Black,1.0,0.0,0.0,Mark Wahlberg Buick GMC,3.8,4.4,37.0,,39777.0
+Volkswagen,Passat 1.8T Auto Wolfsburg Ed,2014,106590.0,1.8L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,24-34,White,Black,1.0,0.0,0.0,Autos Direct of Fredericksburg - Lafayette,4.4,4.5,137.0,,9995.0
+Porsche,Cayenne Base,2012,68000.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,16-23,Silver,Cream,1.0,0.0,1.0,Best Western Motors,4.2,4.8,40.0,,16900.0
+Ford,Expedition Max Platinum,2018,45127.0,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,17-23,Shadow Black,Ebony,0.0,1.0,1.0,Tommie Vaughn Ford,4.6,4.9,37.0,,43688.0
+Mazda,CX-5 Select,2023,1831.0,2.5L I4 16V,6-Speed Automatic,All-wheel Drive,Gasoline,,Sonic Silver Metallic,Black,0.0,1.0,1.0,Capitol Hyundai,4.1,,0.0,2503.0,29488.0
+GMC,Sierra 2500 SLE,2016,63521.0,Turbocharged Diesel V8 6.6L/403,Automatic,Four-wheel Drive,Diesel,0-0,Quicksilver Metallic,Jet Black,0.0,0.0,1.0,Selman Chevrolet,,4.7,31.0,,47458.0
+Subaru,WRX Premium,2019,28955.0,2.0L H4 16V GDI DOHC Turbo,6-Speed Manual,All-wheel Drive,Gasoline,21-27,Crystal White Pearl,Black,0.0,0.0,1.0,Evolution Cars,2.6,4.5,27.0,105.0,28690.0
+Nissan,GT-R Premium,2023,538.0,3.8L V6 24V MPFI DOHC Twin Turbo,6-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,,Pearl White Tri-Coat,Black,0.0,1.0,1.0,Crossroads Hyundai of Loveland,1.8,,0.0,6016.0,159000.0
+Chrysler,Pacifica Limited,2020,38707.0,3.6L V6 24V MPFI DOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,19-28,Brilliant Black Crystal Pearlcoat,Black,0.0,1.0,0.0,Garavel Chrysler Jeep Dodge Ram,4.9,4.7,64.0,,33000.0
+Dodge,Durango Crew,2013,89278.0,5.7L V8 16V MPFI OHV,6-Speed Automatic,All-wheel Drive,Gasoline,16-23,Brilliant Black Crystal Pearlcoat,Black,0.0,0.0,1.0,Imperial Chrysler Dodge Jeep RAM,4.6,4.7,70.0,230.0,17977.0
+Toyota,Sienna XSE 7 Passenger,2021,42231.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,36-36,White,Black,0.0,1.0,1.0,Pacific Auto Center - Fontana,3.1,4.3,30.0,1000.0,48995.0
+Ford,EcoSport SE,2022,2166.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,23-29,Smoke Metallic,Black,0.0,1.0,0.0,"Downs Ford, Inc.",4.9,2.9,2.0,300.0,26597.0
+Nissan,Altima 2.5 SL,2019,70063.0,2.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,28-39,Gray,Black,0.0,0.0,0.0,GTX Auto Group INC,3.4,4.7,153.0,500.0,18497.0
+Chevrolet,Equinox 1LT,2019,43471.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-32,White,Gray,1.0,0.0,1.0,CarMax Jensen Beach - Offering Express Pickup and Home Delivery,,4.5,419.0,1000.0,22998.0
+Hyundai,Kona SEL,2018,95186.0,4 Cylinder,Automatic,All-wheel Drive,Gasoline,25-30,Chalk White,Black,1.0,1.0,1.0,Mercedes-Benz of North Haven,4.8,4.7,205.0,1118.0,15876.0
+Toyota,Sequoia Limited,2016,87376.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,Magnetic Gray Metallic,Graphite,0.0,1.0,1.0,Performance Ford Lincoln Bountiful,3.2,4.8,15.0,926.0,34980.0
+Cadillac,Escalade Luxury,2018,99980.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-21,Black,Black,0.0,1.0,1.0,Shelbyville Auto Sales,,4.7,36.0,1000.0,38999.0
+Kia,Forte LX,2015,122171.0,1.8L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,26-39,Snow White Pearl,Black,0.0,1.0,1.0,Escondido Auto Super Center,,4.5,92.0,,10999.0
+Chevrolet,Tahoe LT,2019,71054.0,8 Cylinder Engine,6-SPEED A/T,Four-wheel Drive,Gasoline,15-21,Black,Jet Black,0.0,1.0,0.0,Parks Chevrolet,4.5,4.6,70.0,1217.0,46557.0
+GMC,Sierra 1500 SLT,2021,45749.0,5.3L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,14-20,Onyx Black,Jet Black,0.0,0.0,0.0,Klein Chrysler Dodge Jeep Ram,,4.0,48.0,491.0,46996.0
+Honda,Civic LX,2018,32529.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,31-40,Aegean Blue Metallic,Black,0.0,0.0,1.0,EchoPark Automotive Syracuse (Cortland),4.9,4.8,547.0,420.0,19689.0
+Kia,Optima EX,2012,80258.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,24-35,White,Gray,0.0,0.0,1.0,"Prime Auto, LLC",,4.5,185.0,,11499.0
+BMW,530 i xDrive,2021,37854.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,23-32,Black Sapphire Metallic,Black,0.0,1.0,0.0,Chapman BMW on Camelback,4.7,5.0,3.0,,38111.0
+Hyundai,Elantra SEL,2019,93843.0,2.0L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,28-37,Scarlet Red,Beige,1.0,0.0,1.0,Toyota West Ohio,4.4,4.7,133.0,387.0,15794.0
+Mitsubishi,Mirage ES,2021,1975.0,1.2L I3 12V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Blue,Gray,1.0,1.0,0.0,West Chicago Auto Mall,3.3,5.0,1.0,400.0,15599.0
+Ford,Expedition EL XLT,2016,185232.0,3.5L V6 24V GDI DOHC Twin Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,14-20,Blue,,1.0,0.0,0.0,Vehicle City Motors,2.9,4.3,15.0,182.0,13768.0
+Subaru,Crosstrek 2.0i Premium,2019,20079.0,2.0L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-33,Dark Gray Metallic,Black,0.0,1.0,0.0,Burke Motor Group,4.9,4.7,206.0,608.0,24855.0
+GMC,Sierra 1500,2021,52425.0,5.3L V8 16V GDI OHV,6-Speed Automatic,Rear-wheel Drive,Gasoline,16-21,Summit White,Jet Black,0.0,1.0,0.0,Dixie Buick GMC Truck Inc.,3.7,4.0,48.0,,35960.0
+Land Rover,Range Rover 5.0 Supercharged Autobiography,2022,4037.0,V8,Automatic,Four-wheel Drive,Gasoline,16-21,Santorini Black,Pimento / Ebony,0.0,1.0,0.0,INFINITI Stuart,4.7,,0.0,1000.0,137900.0
+Toyota,Prius Prime,2022,5968.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,Blizzard Pearl,Black,0.0,1.0,1.0,Toyota Escondido,4.5,4.2,2.0,,37998.0
+Toyota,Tundra SR5,2020,26464.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,Super White,Black,0.0,1.0,1.0,Corwin Toyota of Fargo,4.6,4.8,67.0,1184.0,40808.0
+Dodge,Charger SXT,2022,10949.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-27,Granite Pearlcoat,Black,0.0,0.0,0.0,EchoPark Automotive Colorado Springs,4.9,5.0,2.0,420.0,31989.0
+Nissan,Versa 1.6 SV,2022,9801.0,1.6L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,32-40,Gun Metallic,Graphite,0.0,1.0,0.0,Advantage GMC of Adel,,5.0,2.0,,18991.0
+Mercedes-Benz,SL-Class SL500 Roadster,2003,60989.0,5.0L V8 24V MPFI SOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,15-22,Silver,,0.0,0.0,1.0,Skyline Auto Group LLC,,4.4,43.0,,15495.0
+Toyota,Tacoma TRD Off Road,2020,51059.0,3.5L V6 24V PDI DOHC,,Four-wheel Drive,Gasoline,,Silver Sky Metallic,Cement,1.0,0.0,0.0,United BMW,4.6,4.7,125.0,500.0,30495.0
+Ford,Escape SE,2016,78863.0,"EcoBoost 1.6L I-4 gasoline direct injection, DOHC, variable valv",Automatic,Four-wheel Drive,Gasoline,22-29,Red,Tan,0.0,0.0,1.0,Redding Car and Truck Center,4.6,4.6,265.0,,13995.0
+Mercedes-Benz,E-Class E 300,2019,20401.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,21-30,Iridium Silver,Black,0.0,0.0,0.0,Mercedes-Benz of Jackson,3.9,4.7,48.0,282.0,41335.0
+Lexus,NX 300h Base,2018,22081.0,Gas/Electric I-4 2.5 L/152,Variable,All-wheel Drive,Hybrid,33-30,Matador Red Mica,Creme,0.0,0.0,1.0,Freeman Lexus,,5.0,8.0,3392.0,39499.0
+Jeep,Cherokee Trailhawk,2019,79090.0,3.2L V6 24V MPFI DOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,18-24,Diamond Black,Black,1.0,0.0,0.0,Midwest Auto Store,2.4,4.6,573.0,400.0,23499.0
+Nissan,Rogue Sport SL,2019,40149.0,2.0L I4 16V GDI DOHC,Automatic CVT,All-Wheel Drive with Locking and Limited-Slip Differential,,,White,Light Gray,0.0,1.0,0.0,Fred Beans Nissan of Flemington,,4.6,74.0,,23996.0
+Land Rover,Range Rover Sport HSE Dynamic,2020,30892.0,5.0L V8 32V GDI DOHC Supercharged,8-Speed Automatic,4WD,Gasoline,17-22,Yulong White,Ivory / Ebony,,,,Land Rover Denver,4.3,4.5,12.0,,75990.0
+GMC,Yukon Denali,2017,110695.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-21,Crimson Red Tintcoat,Cocoa,1.0,1.0,1.0,Uftring Weston Chevrolet Cadillac,3.6,4.7,79.0,996.0,36955.0
+Jeep,Wrangler Unlimited Rubicon,2020,37824.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Black Clearcoat,Black,0.0,1.0,0.0,Hill-Kelly Dodge Chrysler Jeep RAM,4.5,4.8,79.0,2350.0,47750.0
+GMC,Canyon Denali,2018,83465.0,"3.6L V-6 gasoline direct injection, DOHC, variable valve control",Automatic,Four-wheel Drive,Gasoline,17-24,Summit White,Jet Black,0.0,0.0,1.0,Auto Mart USA,,4.7,73.0,,31761.0
+BMW,M340 i xDrive,2022,6638.0,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,23-32,Alpine White,Black,0.0,1.0,1.0,INFINITI of Chattanooga,4.3,,0.0,,59999.0
+Cadillac,XT5 Premium Luxury FWD,2017,86722.0,Gas V6 3.6L/222.6,Automatic,Front-wheel Drive,Gasoline,19-27,Stellar Black Metallic,Jet Black,0.0,0.0,1.0,Rick Hendrick Chevrolet of Buford,4.7,4.6,201.0,196.0,24402.0
+GMC,Sierra 1500 Limited Elevation,2022,15916.0,5.3L V8 16V GDI OHV,Automatic,Rear-wheel Drive,Gasoline,19-22,Pacific Blue Metallic,Jet Black,0.0,1.0,1.0,AutoNation Honda Hollywood,4.7,,0.0,259.0,48981.0
+Subaru,Forester Touring,2021,17638.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Horizon Blue Pearl,Black,0.0,1.0,1.0,EchoPark Automotive Centennial,4.8,4.9,110.0,1000.0,32789.0
+Mercedes-Benz,C-Class C 450 AMG 4MATIC,2016,89086.0,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,21-29,Black,Black,1.0,0.0,1.0,Prestige Wholesale,,4.7,106.0,,25995.0
+RAM,3500 Longhorn,2019,16349.0,"Cummins High Output 6.7L I-6 diesel direct injection, VVT interc",Aisin 6-Speed Automatic,Four-wheel Drive,Gasoline,0-0,Delmonico Red Pearlcoat,Cattle Tan/Black,0.0,1.0,1.0,Brandon Reeves Auto World,3.3,4.4,23.0,1956.0,70970.0
+Buick,Encore GX,2022,10643.0,,,,,,Gray,,0.0,1.0,1.0,Chevrolet Buick Marble Falls,5.0,4.5,5.0,,25795.0
+Nissan,Sentra SV,2021,21562.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,29-39,Electric Blue Metallic,Charcoal,1.0,1.0,0.0,Napleton Kia of Carmel,4.4,4.8,26.0,,20569.0
+Toyota,Highlander XLE,2023,378.0,2.4L I4 16V PDI DOHC Turbo,Automatic,All-wheel Drive,Gasoline,,Celestial Silver Metallic,Graphite,0.0,1.0,0.0,Kenosha Toyota,5.0,3.6,3.0,1000.0,45990.0
+Jeep,Gladiator Rubicon,2022,3465.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Bright White Clearcoat,Black,0.0,1.0,0.0,Coronet of Peru,,4.9,8.0,500.0,54489.0
+BMW,X5 xDrive40i,2020,46328.0,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-26,Jet Black,Black,0.0,1.0,1.0,BMW of Rochester,4.5,4.7,55.0,,48930.0
+Cadillac,XT5 Luxury,2019,12950.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-25,Stellar Black Metallic,Jet Black,0.0,1.0,1.0,Germain Cadillac of Easton,4.0,4.6,97.0,1000.0,36995.0
+Kia,EV6 Wind,2022,14049.0,Electric,Automatic,Rear-wheel Drive,Electric,,Glacier,Charcoal,0.0,0.0,1.0,Ken Garff Kia Bell Road,4.5,4.7,13.0,9278.0,44882.0
+Chevrolet,Equinox 2LT,2020,32777.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-28,Silver Ice Metallic,Jet Black,0.0,1.0,1.0,Jim Butler Chevrolet,4.4,4.7,285.0,136.0,28333.0
+Lexus,NX 250 Premium,2022,6983.0,2.5L I4 16V PDI DOHC,Automatic,Front-wheel Drive,Gasoline,,Gray,Black,0.0,1.0,1.0,Red McCombs Hyundai Northwest,3.1,,0.0,,44967.0
+Toyota,RAV4 XLE,2019,30209.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,25-33,Gray,Black,1.0,0.0,0.0,Atlantic Toyota,4.7,4.5,450.0,,29708.0
+Jeep,Wrangler Sport,2016,92821.0,3.6L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,17-21,Black Clearcoat,Black,1.0,1.0,1.0,Fair Oaks Chrysler Jeep Dodge RAM,4.7,4.6,78.0,1200.0,22764.0
+Honda,Odyssey EX-L,2011,118199.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,18-27,Celestial Blue Metallic,Beige,0.0,0.0,1.0,Drive Direct,2.2,4.6,111.0,,12495.0
+Toyota,Prius Touring,2007,159247.0,76.0HP 1.5L 4 Cylinder Engine Gas/Electric Hybrid,A/T,Front-wheel Drive,Hybrid,,Red,Beige,,,,,,4.4,144.0,,6450.0
+Kia,Rio EX,2014,46085.0,1.6L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,27-37,Bright Silver,Black,0.0,0.0,1.0,BMW of Fremont,4.7,4.1,29.0,312.0,12887.0
+Jeep,Patriot Sport,2014,156387.0,"2L I-4 DOHC, variable valve control, engine with 158HP",Automatic,Front-wheel Drive,Gasoline,23-0,Black Clearcoat,Dark Slate Gray,1.0,0.0,1.0,Auto Discount Mall,,4.3,145.0,302.0,8399.0
+Mercedes-Benz,S-Class S 550,2014,71964.0,4.7L V8 32V GDI DOHC Twin Turbo,7-Speed Automatic,Rear-wheel Drive,Gasoline,17-25,Gray,Black,1.0,0.0,0.0,Car Loft,2.8,4.7,27.0,,33995.0
+Jeep,Wrangler Unlimited Sport,2018,35083.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Mojito! Clearcoat,Black,1.0,1.0,1.0,Dan Goben Cars,4.4,4.6,208.0,,34995.0
+Land Rover,Range Rover 5.0L Supercharged,2016,89453.0,5.0L V8 32V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,14-19,Mariana Black,Cirrus / Ebony,1.0,0.0,1.0,WBM of Arlington,3.2,4.8,29.0,1100.0,34895.0
+GMC,Sierra 3500 H/D,2011,189814.0,6.6L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,White,,1.0,0.0,0.0,Salmon River Motors/Quality Motors,,4.1,11.0,2000.0,26995.0
+Honda,Odyssey Touring,2005,155693.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,20-28,Black,Gray,0.0,0.0,1.0,Car Planet,1.3,4.6,84.0,,4999.0
+Mazda,Mazda3 AWD w/Premium Package,2021,2660.0,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,23-31,Machine Gray Metallic,Beige,0.0,1.0,1.0,Bergstrom Subaru of Green Bay,,4.9,18.0,342.0,32314.0
+Mazda,CX-3 Sport,2020,15394.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,27-32,Jet Black Mica,Black,1.0,1.0,1.0,Driver's Village,2.7,4.8,12.0,,22281.0
+Hyundai,Palisade Limited,2020,79698.0,3.8L V6 24V GDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,19-26,Becketts Black,Black,1.0,0.0,1.0,Mall of Georgia Ford,4.3,4.7,219.0,1500.0,35995.0
+Lexus,GX 460 Base,2021,3634.0,4.6L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,15-19,Nightfall Mica,Sepia,0.0,1.0,1.0,Pohanka Lexus,3.7,4.6,9.0,250.0,54250.0
+BMW,Z3 3.0i Roadster,2001,69114.0,3.0L I6 24V MPFI DOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,21-28,Blue,Black,0.0,0.0,1.0,S & S Motors,,4.7,43.0,1100.0,10995.0
+Ford,F-250 Lariat,2017,75118.0,"Powerstroke 6.7L V-8 diesel direct injection, intercooled turbo,",Automatic,Four-wheel Drive,Diesel,0-0,Ingot Silver Metallic,Black,1.0,0.0,1.0,Bosco Auto Group,2.1,4.6,163.0,,66995.0
+Chevrolet,Spark LS,2019,57702.0,1.4L I4 16V MPFI DOHC,Automatic CVT,FWD,Gasoline,30-38,Silver,Black,0.0,0.0,0.0,DriveTime of Plano,4.4,4.5,72.0,,18795.0
+RAM,1500 Classic SLT,2021,17885.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Diamond Black,Black,1.0,0.0,0.0,HGreg.com Orlando,4.8,5.0,10.0,1000.0,33998.0
+Nissan,Murano S,2019,44942.0,3.5L V6 24V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-28,White,,1.0,0.0,1.0,Car Factory Outlet Miami,4.1,4.9,97.0,1290.0,19301.0
+Jeep,Wrangler Rubicon,2017,31664.0,3.6L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,17-21,,,0.0,0.0,0.0,Beaver Toyota Cumming,4.6,4.7,114.0,500.0,36500.0
+Volkswagen,Tiguan 2.0T Sport,2017,122975.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,20-24,Pure White,Black,0.0,0.0,0.0,Southern Motor Company,,4.8,94.0,,14789.0
+Kia,Carnival LX,2023,16643.0,3.5L V6 24V PDI DOHC,Automatic,Front-wheel Drive,Gasoline,,Gray,Gray,0.0,1.0,1.0,CarMax Miami Lakes - Offering Express Pickup and Home Delivery,,4.9,1.0,,37998.0
+Nissan,Leaf S,2013,43612.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Blue,Black,1.0,0.0,1.0,Midway Autohaus,3.4,4.2,59.0,499.0,9991.0
+Subaru,Outback Premium,2020,18441.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Ice Silver Metallic,Black,0.0,1.0,1.0,Koeppel Subaru,4.8,4.7,223.0,200.0,26998.0
+Dodge,Durango GT,2019,67731.0,"Pentastar 3.6L V-6 DOHC, variable valve control, engine with 295",Automatic,Rear-wheel Drive,Gasoline,19-26,Granite Clearcoat,Black,1.0,0.0,0.0,Connell Country Used Cars,,4.7,61.0,,26980.0
+Ford,Escape SEL,2019,62911.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,22-28,Blue,,1.0,1.0,0.0,Taylor Kia of Lima,4.0,4.7,266.0,,20105.0
+Toyota,Sequoia TRD Pro,2023,4165.0,3.5L V6 24V PDI DOHC Twin Turbo Hybrid,10-Speed Automatic,Four-wheel Drive,Hybrid,,Solar,Black,0.0,1.0,1.0,Toyota of Dallas,3.6,4.3,5.0,,109999.0
+Honda,Pilot EX-L w/ Navigation,2016,93746.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,19-27,NO COLOR,Sport,0.0,1.0,1.0,Ace Motors,,4.6,200.0,,22995.0
+Mercedes-Benz,SL 450 Base,2017,46123.0,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,20-28,Gray Metallic,Porcelain / Black,0.0,0.0,0.0,Chapman BMW on Camelback,4.7,4.8,6.0,1485.0,49460.0
+Chevrolet,Spark LS,2018,34416.0,1.4L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,30-38,SPLASH,Jet Black,0.0,1.0,1.0,Pat McGrath Chevyland,4.4,4.6,41.0,,14498.0
+Kia,Sportage LX,2020,12424.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,22-26,Clear White,Black,0.0,1.0,1.0,Chrysler Dodge Jeep RAM of Walla Walla,4.8,4.8,179.0,1000.0,23999.0
+Mazda,CX-5 Grand Touring,2020,62946.0,2.5L I4 16V,6-Speed Automatic,All-wheel Drive,Gasoline,24-30,Deep Crystal Blue Mica,Black,0.0,1.0,0.0,Jeff Schmitt Mazda,4.8,4.9,140.0,,26424.0
+Chevrolet,Colorado WT,2018,35756.0,2.5L I4 16V GDI DOHC,Automatic,Rear-wheel Drive,Gasoline,20-26,Summit White,Jet Black / Dark Ash,1.0,1.0,0.0,Family Motors,,4.6,248.0,1000.0,21995.0
+Jeep,Compass Sport,2020,41764.0,2.4L I4 16V MPFI SOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,23-32,Blue,Black,1.0,1.0,0.0,Doug Justus Auto Center,3.1,4.8,78.0,1000.0,20995.0
+Nissan,Leaf S PLUS,2021,7205.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Glacier White,Black,0.0,1.0,1.0,Ron Bouchard's Nissan,4.3,,0.0,1589.0,28441.0
+Ford,Expedition XLT,2014,146563.0,5.4L V8 24V MPFI SOHC Flexible Fuel,6-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,13-18,Blue Jeans Metallic,Camel,0.0,0.0,1.0,Eide Ford-Lincoln Inc,4.7,4.6,24.0,,14000.0
+Ford,Escape SE,2020,90450.0,1.5L I3 12V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,26-31,Blue,Gray,0.0,1.0,1.0,iDrive Auto Group,,4.6,235.0,,17995.0
+Ford,Edge ST,2020,13465.0,2.7L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,19-26,Red,Ebony,0.0,1.0,1.0,Tustin Buick GMC,2.8,4.9,145.0,653.0,33449.0
+Subaru,XV Crosstrek 2.0i Limited,2015,94157.0,2.0L H4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-34,Ice Silver Metallic,Black,0.0,1.0,1.0,Columbia Motors,2.9,4.6,42.0,500.0,13491.0
+Toyota,Sequoia SR5,2002,126497.0,4.7L V8 32V MPFI DOHC,4-Speed Automatic,Four-wheel Drive,Gasoline,14-17,Burgundy,Tan,0.0,0.0,0.0,KAS Auto Sales,,4.5,34.0,,12995.0
+Nissan,Pathfinder SV,2020,62612.0,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-27,Brilliant Silver,Charcoal,0.0,1.0,0.0,Lithia Subaru of Fresno,4.3,4.9,36.0,111.0,20445.0
+Acura,ILX 2.0L w/Premium Package,2013,59121.0,2.0L I4 16V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,,Diamond White Pearl,Ebony,1.0,0.0,0.0,Serra Honda Grandville,4.9,4.6,47.0,250.0,16300.0
+Toyota,Corolla S,2004,167970.0,"1.8L I-4 DOHC, variable valve control, engine with 130HP",Automatic 4-Speed,Front-wheel Drive,Gasoline,34-34,Black,Black,1.0,0.0,1.0,83 Autos LLC,,4.4,75.0,1000.0,4950.0
+Toyota,Tacoma SR5,2019,54801.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Rear-wheel Drive,Gasoline,19-24,Cavalry Blue,Gray,0.0,0.0,1.0,Pedersen Toyota,3.2,4.5,254.0,2000.0,30489.0
+Subaru,Forester Limited,2022,3814.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Autumn Green Metallic,Black,0.0,1.0,1.0,CarMax Myrtle Beach - Offering Express Pickup and Home Delivery,,4.9,12.0,1000.0,36998.0
+GMC,Terrain SLT,2020,61422.0,1.5L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,25-28,Blue Emerald Metallic,Jet Black,1.0,1.0,0.0,Landers McLarty Dodge Chrysler Jeep Ram - Huntsville,4.8,4.6,81.0,101.0,23399.0
+Mercedes-Benz,GLA 250 Base,2017,46787.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,24-33,Citrus White,Shara Beige,0.0,0.0,0.0,Mercedes-Benz of Hilton Head,4.6,4.5,61.0,,24313.0
+Lincoln,MKZ Reserve,2020,1643.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,20-29,White Platinum Tri-Coat Metallic,Ebony,0.0,1.0,0.0,Dave Smith Ford,2.9,4.8,13.0,1002.0,34067.0
+INFINITI,QX80 Luxe,2021,60875.0,5.6L V8 32V GDI DOHC,7-Speed Automatic,Four-wheel Drive,Gasoline,13-19,Liquid Platinum,Graphite,0.0,1.0,0.0,Hertz Car Sales Smithtown,,4.3,2.0,248.0,38109.0
+Ford,F-250 XLT,2021,17306.0,6.2L V8 16V MPFI SOHC Flexible Fuel,6-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,,Gray,Medium Earth Gray,0.0,1.0,1.0,Hoffman Ford Lincoln,4.2,4.5,20.0,500.0,49495.0
+Kia,Soul +,2016,101440.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,FWD,Gasoline,24-31,Red,Black,0.0,0.0,1.0,CarMax Town Center - Offering Express Pickup and Home Delivery,,4.6,337.0,,14998.0
+Ford,Expedition Eddie Bauer,2005,170000.0,5.4L V8 24V MPFI SOHC,4-Speed Automatic,Four-wheel Drive,Gasoline,14-18,Black,Medium Parchment,0.0,0.0,0.0,NJ Exotic Motors,3.8,4.3,44.0,,2795.0
+Buick,Enclave Essence,2019,69819.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,18-26,Ebony Twilight Metallic,Dark Galvanized,0.0,1.0,0.0,"Estle Chevrolet-Buick,LLC.",,4.6,63.0,,28988.0
+Audi,A7 3.0T Premium Plus,2019,91854.0,3.0L V6 24V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,22-29,Glacier White Metallic,Black,0.0,1.0,1.0,Mark Wahlberg Chevrolet,2.9,4.8,8.0,800.0,42790.0
+RAM,1500 Big Horn,2020,50252.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,19-24,Granite Crystal Clearcoat Metallic,Black,0.0,0.0,0.0,Northway Automotive Newton,3.1,4.8,207.0,,40497.0
+Honda,Odyssey Touring,2019,35621.0,3.5L V6 24V GDI SOHC,10-Speed Automatic,Front-wheel Drive,Gasoline,19-28,Lunar Silver Metallic,Gray,0.0,1.0,1.0,Jeff Wyler Superior Honda,3.1,4.6,135.0,,38428.0
+Chevrolet,Colorado WT,2020,62968.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,,Red,Jet Black / Dark Ash,0.0,1.0,1.0,Gateway Chevrolet Cadillac,4.8,4.4,55.0,,25331.0
+Subaru,Outback Limited,2020,40832.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Autumn Green Metallic,Ivory,0.0,0.0,1.0,Maguire Honda of Ithaca,,4.7,223.0,696.0,28895.0
+Lincoln,Nautilus Reserve,2022,3651.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-25,Pristine White,Sandstone,0.0,1.0,1.0,Haggerty Ford,4.8,4.5,2.0,1000.0,50995.0
+Dodge,Ram 2500 Laramie,2006,81184.0,5.7L V8 16V MPFI OHV,Automatic,Four-wheel Drive,Gasoline,,Blue,Tan,0.0,1.0,1.0,Crown Motors PDX,,4.5,41.0,,25995.0
+BMW,650 Gran Coupe i,2017,62861.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,17-24,Special,White,0.0,0.0,1.0,Lease Return Center,2.8,4.1,1.0,,29777.0
+Subaru,Legacy,2017,122004.0,3.6L H6 24V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,20-28,Twilight Blue Metallic,Ivory,1.0,0.0,0.0,Lexus of Omaha,4.8,4.8,126.0,500.0,17000.0
+Ford,Explorer Limited,2020,51632.0,"EcoBoost 2.3L I-4 gasoline direct injection, DOHC, variable valv",Automatic,Four-wheel Drive,Gasoline,20-0,Oxford White,Ebony,0.0,1.0,1.0,CarPoint Auto Group,4.6,4.5,254.0,,32889.0
+Buick,Envision Preferred,2019,88122.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,21-27,Ebony Twilight Metallic,Light Neutral,0.0,1.0,1.0,Cole Nissan,4.9,4.7,72.0,990.0,19998.0
+BMW,430 Gran Coupe i,2018,48901.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,Rear-wheel Drive,Gasoline,24-34,Glacier Silver Metallic,Black w/Dark Oyster Highlight,0.0,0.0,0.0,Prestige Cars,,4.9,24.0,,28990.0
+Chevrolet,Suburban LS,2007,148286.0,5.3L V8 16V MPFI OHV,4-Speed Automatic,Rear-wheel Drive,,,Black,Gray,0.0,1.0,1.0,United Sports & Autos,1.8,4.5,70.0,,10950.0
+BMW,330 i,2020,64955.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,26-36,Alpine White,Black,0.0,1.0,0.0,Team Kia Of Bend,4.9,4.6,26.0,841.0,28244.0
+Jeep,Grand Cherokee Limited,2022,11636.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,,Metallic,Beige / Black,0.0,1.0,0.0,Family Ford Chrysler Dodge Jeep Ram,,4.6,4.0,1500.0,40999.0
+Ford,Mustang Mach-E GT,2022,1089.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Shadow Black,Black Onyx,0.0,1.0,1.0,Don McGill Toyota of Houston,4.5,4.9,4.0,,58983.0
+Mercedes-Benz,GLA 250 Base 4MATIC,2020,32799.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,22-30,Midnight Black,Black,0.0,0.0,0.0,Mercedes-Benz of Goldens Bridge,4.4,4.9,13.0,209.0,31991.0
+Ford,Fusion Titanium,2016,140760.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,22-33,Burgundy,Black,1.0,0.0,0.0,Ridgeway's Auto Sales,,4.6,296.0,,10900.0
+Nissan,Versa 1.6 SV,2019,69942.0,1.6L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Black,Black,0.0,1.0,0.0,DriveTime of NW Cincinnati,,4.4,49.0,100.0,16995.0
+Chevrolet,Camaro LT,2020,56336.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,20-30,Red,Black,1.0,0.0,0.0,DriveTime of Raleigh,,4.9,28.0,300.0,27897.0
+BMW,750 i xDrive,2022,6763.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,17-24,Black Sapphire Metallic,Black,0.0,1.0,0.0,Bergstrom Luxury on Victory Lane,4.2,,0.0,,99121.0
+Honda,Civic LX,2019,61720.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,30-38,Aegean Blue Metallic,Black,0.0,1.0,1.0,Inver Grove Honda,4.8,4.9,277.0,,20490.0
+Hyundai,Genesis 3.8,2016,106107.0,"Lambda 3.8L V-6 gasoline direct injection, DOHC, D-CVVT variable",Automatic,Rear-wheel Drive,Gasoline,18-29,Santiago Silver,Grey,1.0,0.0,1.0,Courtesy Chrysler Dodge Jeep Ram,4.8,4.8,58.0,2000.0,17969.0
+Kia,EV6 GT-Line,2022,15258.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Steel,Black,0.0,1.0,1.0,Buerkle Hyundai,3.8,4.7,13.0,501.0,51699.0
+Toyota,Camry XSE,2022,27720.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,27-38,Celestial Silver Metallic,Black,0.0,1.0,1.0,AutoNation Honda at Bel Air Mall,4.7,5.0,2.0,510.0,32477.0
+Jaguar,F-TYPE Base,2020,21421.0,I4,Automatic,Rear-wheel Drive,Gasoline,23-30,Caldera Red,Cirrus / Ebony,1.0,0.0,0.0,CarMax Tupelo - Offering Express Pickup and Home Delivery,,5.0,1.0,1000.0,45998.0
+Nissan,Pathfinder Platinum,2020,32184.0,3.5L V6 24V GDI DOHC,Automatic CVT,Four-wheel Drive,Gasoline,19-26,Glacier White,Almond,0.0,1.0,1.0,Wood City Motors,3.0,4.9,36.0,500.0,37491.0
+Honda,CR-V EX,2012,100692.0,2.4L I4 16V MPFI DOHC,5-Speed Automatic,All-wheel Drive,Gasoline,22-30,Gray,Black,0.0,1.0,1.0,Hi Lo Auto Sales of Frederick,2.4,4.5,213.0,198.0,14799.0
+Toyota,Land Cruiser,1990,150605.0,4.0L I6 12V OHV,4-Speed Automatic,Four-wheel Drive,Gasoline,,Blue,Gray,0.0,0.0,0.0,Southern Trust Auto Group,,,0.0,,49999.0
+BMW,X3 3.0i,2005,158352.0,3.0L,Automatic 5-Speed,All-wheel Drive,Gasoline,17-25,Silver,Gray,0.0,0.0,1.0,Mudarri Motorsports,2.5,4.6,31.0,,5999.0
+Ford,Focus Titanium,2015,85008.0,2.0L I4 16V GDI DOHC Flexible Fuel,6-Speed Automatic with Auto-Shift,Front-wheel Drive,E85 Flex Fuel,26-38,Gray,,0.0,1.0,1.0,J Brinks Motor Sales,,4.1,172.0,,12200.0
+Nissan,Sentra 2.0 S,2012,73970.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,27-34,Magnetic Gray,Charcoal,0.0,0.0,1.0,Del Toro Auto Sales,4.9,4.3,72.0,,9999.0
+Lexus,NX 300 F Sport,2020,28106.0,2.0L I4 16V PDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,22-28,Black,Red,0.0,1.0,1.0,CarMax Jacksonville - Offering Express Pickup and Home Delivery,,4.8,39.0,2000.0,36998.0
+Toyota,Avalon Hybrid Limited,2018,52873.0,2.5L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,40-39,Celestial Silver Metallic,Light Gray,0.0,1.0,1.0,Fort's Toyota of Pekin,4.7,4.7,18.0,1500.0,28000.0
+Toyota,Corolla Hatchback SE,2019,36194.0,2.0L,Continuously Variable Transmission,,Gasoline,,OXIDE BRONZE ME.,FA20,0.0,0.0,1.0,Hamer Toyota,4.7,4.8,54.0,,24972.0
+Audi,A5 2.0T Premium Plus,2016,57560.0,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,8-Speed Automatic,All-wheel Drive,E85 Flex Fuel,21-29,Ibis White w/ Black Roof,Brown,1.0,0.0,1.0,"Dougherty Auto Sales, Inc.",,4.8,25.0,2000.0,27950.0
+BMW,X5 M50i,2023,2622.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,,Alpine White,Cognac,0.0,1.0,1.0,Tulley Automotive Group,4.4,,0.0,278.0,88715.0
+Jeep,Wrangler Sport,2023,1992.0,3.0L V6 24V DDI DOHC Turbo Diesel,Automatic,Four-wheel Drive,Diesel,,Sarge Green Clearcoat,Heritage Tan,0.0,1.0,1.0,Hendrick Chevrolet Hoover,4.9,5.0,3.0,,46985.0
+Volvo,S60 T6 Momentum,2020,18747.0,2.0L I4 16V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,21-32,Denim Blue,,0.0,1.0,1.0,Gorges Volvo Cars,4.8,4.9,24.0,100.0,32455.0
+Mazda,Mazda3 i SV,2014,89683.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,,Meteor Gray Mica,Black,0.0,0.0,0.0,Southwest Motors,4.2,4.6,134.0,,13985.0
+Nissan,Altima 2.5,2017,132361.0,2.5L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Black,Black,1.0,0.0,0.0,Metro Auto,2.7,4.7,316.0,,12995.0
+BMW,X6 M Competition,2020,12479.0,Twin Turbo Premium Unleaded V-8 4.4 L/268,Automatic,All-wheel Drive,Gasoline,13-18,Marina Bay Blue Metallic,Black,1.0,1.0,1.0,BMW of Tyler,3.8,4.0,2.0,,94672.0
+INFINITI,FX35,2009,123721.0,3.5L V6 24V MPFI DOHC,7-Speed Automatic,Rear-wheel Drive,Gasoline,16-23,Platinum Graphite Metallic,Graphite,1.0,0.0,1.0,Vandergriff Chevrolet,3.8,4.7,24.0,,12219.0
+Lexus,LS 460 Base,2014,112058.0,4.6L V8 32V PDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,16-23,,,0.0,0.0,1.0,Premium Auto Collection,,4.9,33.0,1100.0,21995.0
+Subaru,Impreza Sport,2020,43277.0,Regular Unleaded H-4 2.0 L/122,Manual,All-wheel Drive,Gasoline,22-30,Crystal Black Silica,Black,0.0,1.0,1.0,Rick Hendrick Chevrolet of Buford,4.7,4.7,34.0,200.0,23485.0
+Chevrolet,Suburban Z71,2022,16670.0,6.2L V8 16V GDI OHV,Automatic,Four-wheel Drive,Gasoline,,Black,Jet Black,1.0,1.0,1.0,FREDERICKSBURG CHEVROLET BUICK GMC,,5.0,3.0,,74500.0
+Audi,S6 2.9T Premium Plus,2021,19292.0,2.9L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,18-28,Daytona Gray Pearl Effect,Black,0.0,1.0,1.0,Lake Norman Chrysler Dodge Jeep Ram,4.7,5.0,1.0,1000.0,63000.0
+Volkswagen,Tiguan 2.0T SE,2021,57236.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-27,Deep Black Pearl Effect,Black,0.0,1.0,0.0,Armstrong VW,1.7,4.7,16.0,200.0,24790.0
+Cadillac,Escalade ESV Premium Luxury,2019,29098.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Rear-wheel Drive,Gasoline,14-23,Crystal White Tri-Coat,Kona Brown,1.0,1.0,1.0,HGreg.com Doral,4.8,5.0,6.0,2000.0,50998.0
+GMC,Sierra 1500 Denali,2017,92597.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-21,White Frost Tri-Coat,Cocoa,0.0,0.0,1.0,Laura Ford of Sullivan,4.2,4.6,190.0,,34995.0
+RAM,ProMaster 2500 Base,2021,47796.0,3.6L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,,White,,0.0,1.0,0.0,Charbonneau Car Center,,,0.0,,39999.0
+GMC,Yukon Denali,2015,70998.0,6.2L V8 16V GDI OHV,Automatic,Rear-wheel Drive,Gasoline,15-22,Champagne Silver,Cocoa,0.0,0.0,1.0,Lou Bachrodt Pompano Chevrolet,2.5,4.4,82.0,800.0,25600.0
+Ford,Fusion Hybrid SE,2019,35648.0,2.0L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,43-41,White,Ebony,1.0,1.0,0.0,Russ Darrow Waukesha Mitsubishi,4.4,4.8,54.0,761.0,19994.0
+Honda,Accord LX,2013,129726.0,2.4L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,27-36,White,Black,0.0,0.0,1.0,Penske Honda,4.7,4.5,389.0,248.0,12501.0
+Ford,Edge SE,2017,74393.0,"EcoBoost 2L I-4 gasoline direct injection, DOHC, variable valve",Automatic,All-wheel Drive,Gasoline,20-0,GRAY,,0.0,0.0,0.0,Bulldog Motors,,4.7,293.0,,17888.0
+Land Rover,Range Rover Velar P380 S,2018,52391.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,18-24,Narvik Black,Ebony,0.0,0.0,1.0,Ultimate Motorsports Inc.,4.6,4.0,82.0,,37480.0
+Ford,F-250,2001,186636.0,7.3L V8 16V DDI OHV Turbo Diesel,4-Speed Automatic,Rear-wheel Drive,Diesel,,Gold,Tan,0.0,0.0,1.0,Advanced Auto Wholesale,,4.5,33.0,,16995.0
+Chevrolet,Bolt EV LT,2019,26852.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Mosaic Black Metallic,Dark Galvanized,0.0,1.0,1.0,Molye Chevrolet,4.9,4.5,49.0,4001.0,24999.0
+Ford,Expedition Platinum,2018,98271.0,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Shadow Black,Ebony,0.0,1.0,1.0,Dahl Ford of Onalaska,4.8,4.7,65.0,100.0,37800.0
+Ford,Edge SEL,2020,22195.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-28,Iconic Silver Metallic,Dune,1.0,1.0,1.0,Gateway Toyota,4.1,4.9,145.0,738.0,27041.0
+Volkswagen,GTI 2-Door,2012,78186.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Manual,Front-wheel Drive,Gasoline,21-31,Blue,Black,0.0,1.0,1.0,"Cars Of Tampa, Inc",3.9,4.5,55.0,,16995.0
+Ford,Expedition Max XLT,2022,13329.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,,Black Metallic,Black Onyx,,,,Twin Pine Ford,4.7,,0.0,3831.0,60900.0
+Honda,Pilot EX-L,2018,47842.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-26,Deep Scarlet Pearl,Beige,0.0,0.0,1.0,AutoLenders Voorhees,4.5,4.6,225.0,250.0,28366.0
+Jeep,Cherokee High Altitude,2020,28798.0,3.2L V6 24V MPFI DOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,19-27,Velvet Red Pearlcoat,Black,0.0,1.0,1.0,Napleton Kia of Carmel,4.4,4.8,153.0,762.0,28998.0
+Mercedes-Benz,E-Class E 63 AMG S-Model 4MATIC,2015,55800.0,5.5L V8 32V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,15-22,designo Magno Alanite Gray,Gray / Dark Gray,0.0,0.0,1.0,Kia of Riverdale,4.0,4.8,61.0,6109.0,46780.0
+GMC,Sierra 1500 Denali,2020,67819.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,16-22,Onyx Black,Jet Black,0.0,1.0,1.0,Zimbrick Buick GMC Eastside,3.7,4.8,67.0,1500.0,47000.0
+Mercedes-Benz,GLE 350 Base 4MATIC,2022,19480.0,,,,Gasoline,,Black,Black MB-Tex,0.0,1.0,0.0,Mercedes-Benz of Huntsville,4.7,5.0,2.0,,74995.0
+Hyundai,Santa Fe Limited 2.0T,2020,43444.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-26,Stormy Sea,Black,0.0,0.0,0.0,Don Franklin of Somerset Hyundai,,4.8,207.0,300.0,30988.0
+Toyota,RAV4 Hybrid SE,2018,22165.0,2.5L I4 16V MPFI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,34-30,,,0.0,0.0,1.0,Dolan Toyota,4.5,4.8,115.0,996.0,32991.0
+GMC,Terrain SLT,2022,38272.0,1.5L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,25-28,Quicksilver Metallic,Medium Ash Gray,0.0,1.0,0.0,Gates of Granger,4.7,4.1,10.0,677.0,33223.0
+Subaru,Outback 2.5i Premium,2019,90516.0,2.5L H4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Crystal Black Silica,Ivory,0.0,1.0,0.0,Big City Motors / 12th Street Auto Mart,,4.7,264.0,,20995.0
+Jeep,Wrangler Unlimited Sport,2019,41348.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Bright White Clearcoat,Black,0.0,1.0,1.0,Holz Motors,4.4,4.6,110.0,500.0,32494.0
+Ford,E250 E-250,2001,162063.0,5.4L V8 16V MPFI SOHC,4-Speed Automatic,Rear-wheel Drive,Gasoline,,White,Gray,0.0,1.0,0.0,Delta Auto Sales Inc.,,4.6,2.0,,12995.0
+Chevrolet,Silverado 2500 LTZ,2020,36334.0,6.6L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,,Silver Ice Metallic,Jet Black,0.0,1.0,0.0,Randy Marion Chevrolet Buick of Mooresville,3.1,4.6,22.0,910.0,53988.0
+Jeep,Wrangler Unlimited Sport,2020,17798.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Sarge Green Clearcoat,Black,0.0,1.0,1.0,Zeigler Subaru of Merrillville,4.4,4.8,79.0,500.0,40500.0
+INFINITI,QX50 SENSORY,2021,28925.0,2.0L I4 16V PDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,23-29,Graphite Shadow,Graphite,0.0,1.0,1.0,INFINITI of South Atlanta,4.2,4.3,24.0,,37887.0
+Nissan,Rogue SL,2017,83846.0,2.5L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Caspian Blue,Almond,1.0,0.0,0.0,Alliance Motor Group,,4.7,550.0,,19997.0
+Chevrolet,Silverado 1500 Custom,2020,42622.0,4.3L V6 12V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,15-20,Summit White,Black,0.0,1.0,1.0,Serra Ford Rochester Hills,4.6,4.6,139.0,,32321.0
+Jeep,Wrangler Rubicon,2020,24062.0,3.6L V6 24V MPFI DOHC,6-Speed Manual,Four-wheel Drive,Gasoline,17-25,Granite Crystal Clearcoat Metallic,Dark Saddle / Black,0.0,1.0,0.0,Castle Chrysler Dodge Jeep Ram of Naperville,3.9,4.7,56.0,1900.0,40977.0
+Ford,Explorer XLT,2021,36292.0,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,20-27,Infinite Blue Metallic Tinted Clearcoat,Ebony,0.0,1.0,1.0,Atchinson Ford,4.9,4.7,66.0,,32000.0
+Dodge,Durango Citadel,2012,78412.0,5.7L V8 16V MPFI OHV,Automatic,,Gasoline,16-23,Black,Black,,,,CarMax Colorado Springs - Offering Express Pickup and Home Delivery,,4.4,70.0,,22998.0
+BMW,X7 xDrive40i,2019,74556.0,3.0L I6 24V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-25,Black Sapphire Metallic,Black,0.0,0.0,1.0,BMW of Houston North,4.6,4.1,22.0,,48759.0
+Ford,F-450 Platinum,2022,1658.0,6.7L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Star White,Black Onyx,0.0,1.0,1.0,Seth Wadley Ford of Perry,4.7,4.4,1.0,800.0,139191.0
+Chrysler,300 Limited,2019,64000.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-27,Gloss Black,Black,0.0,0.0,0.0,T&L Auto Sales,4.6,4.8,57.0,,27451.0
+GMC,Sierra 2500 SLT,2016,64323.0,397.0HP 6.6L 8 Cylinder Engine Diesel Fuel,A/T,Four-wheel Drive,Diesel Fuel,,Black,Black,,,,,,4.7,31.0,,56800.0
+Nissan,Pathfinder SV,2018,49372.0,3.5L V6 24V MPFI DOHC,Automatic CVT,4WD,Gasoline,19-26,Gun Metallic,Black,0.0,1.0,1.0,CarMax Brooklyn Park - Offering Express Pickup and Home Delivery,,4.7,85.0,1000.0,25998.0
+GMC,Yukon XL Denali,2021,68729.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Rear-wheel Drive,Gasoline,14-20,Summit White,Dark Walnut,0.0,1.0,0.0,Ourisman Chevrolet of Rockville - Curbside pickup and home delivery available,3.6,4.9,3.0,742.0,67331.0
+Jeep,Renegade Sport,2019,77686.0,Regular Unleaded I-4 2.4 L/144,Automatic,Four-wheel Drive,Gasoline,21-29,Alpine White Clearcoat,Black,0.0,1.0,1.0,Superior Nissan of Conway,,4.4,67.0,791.0,17982.0
+Ford,Bronco Big Bend,2022,13686.0,2.3L I4 16V GDI DOHC Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,20-21,Race Red,Dark Space Gray,0.0,0.0,1.0,Kendall Ford of Eugene,4.4,4.6,10.0,1000.0,52981.0
+Ford,Transit-150 Base,2016,133284.0,3.7L V6 24V MPFI DOHC,6-Speed Automatic,Rear-wheel Drive,,,Oxford White,Pewter,1.0,1.0,1.0,East Coast Auto Source,1.8,4.5,7.0,,17795.0
+Toyota,4Runner TRD Pro,2021,29345.0,4.0L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,16-19,Magnetic Gray Metallic,Black / Graphite,0.0,0.0,1.0,Toyota West Ohio,4.4,4.9,42.0,100.0,55985.0
+Lincoln,Nautilus Reserve,2020,42050.0,"2L I-4 gasoline direct injection, DOHC, Ti-VCT variable valve co",Automatic,Front-wheel Drive,Gasoline,21-26,Mocha,Cappuccino,0.0,0.0,1.0,Capital Chevrolet of Shallotte,,4.8,40.0,,36464.0
+Toyota,Tundra Limited,2021,34384.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,Super White,Graphite,0.0,1.0,1.0,Fred Anderson Toyota,4.5,4.8,37.0,3300.0,51000.0
+Nissan,Leaf SV 40 kWh,2020,9154.0,0.0,Automatic,Front-wheel Drive,Electric,,Gun Metallic,Black,0.0,1.0,1.0,Honda of El Cerrito,4.5,4.3,8.0,510.0,23488.0
+Kia,Forte LXS,2022,8590.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,29-39,Deep Sea Blue,Black,0.0,1.0,1.0,Stuckey Subaru,4.0,4.8,11.0,500.0,20997.0
+Jeep,Cherokee Limited,2019,75451.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Four-wheel Drive,Gasoline,19-27,Gray,Black,1.0,0.0,0.0,Billion Auto - Southtown (Chevrolet Buick),,4.6,573.0,,25995.0
+Ford,F-150 XL,2022,15539.0,2.7L V6 24V PDI DOHC Twin Turbo,Automatic,Rear-wheel Drive,Gasoline,,Oxford White,Black,1.0,1.0,1.0,Sunland Park Chrysler Jeep Dodge RAM,4.8,4.8,5.0,,43995.0
+Ford,Escape S,2013,183982.0,2.5L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-31,Black,Black,1.0,1.0,1.0,Ron Motor Inc.,,4.1,475.0,260.0,5340.0
+Chevrolet,Colorado ZR2,2018,57345.0,3.6L V6 24V GDI DOHC,Automatic,Four-wheel Drive,Gasoline,16-18,Black,Black,0.0,0.0,1.0,Perkins Motor Plex,4.6,4.6,248.0,2000.0,34995.0
+Toyota,Prius Prime LE,2021,32035.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,Blue Magnetism,Black,0.0,1.0,1.0,DCH Freehold Toyota,4.5,4.8,10.0,2988.0,28000.0
+Volvo,XC90 T6 Momentum 6 Passenger,2021,36969.0,2.0L I4 16V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,19-28,Ice White,Blond,0.0,1.0,0.0,Lorenzo Buick GMC,4.4,5.0,21.0,,40990.0
+Jeep,Renegade Latitude,2019,22178.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,21-29,Alpine White Clearcoat,Black,0.0,1.0,1.0,Seaview Jeep Chrysler Dodge RAM,,4.4,67.0,,24810.0
+Dodge,Durango Citadel,2020,36211.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-25,White Knuckle Clearcoat,Black,0.0,1.0,1.0,Fitzgerald Chrysler Jeep Dodge RAM Lexington Park,4.5,4.8,47.0,112.0,36500.0
+Volvo,XC60 3.2L Premier,2013,140700.0,3.2L DOHC 24-valve I6 engine,Automatic,Front-wheel Drive,Gasoline,19-25,Seashell Metallic,Sandstone Beige,1.0,0.0,1.0,European Motors,,4.8,38.0,,10000.0
+Chevrolet,Silverado 2500 High Country,2022,4240.0,6.6L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,,Black,Jet Black,0.0,1.0,1.0,Classic Chevrolet Mentor,4.8,,0.0,2955.0,71995.0
+Chevrolet,Trax LT,2020,56968.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-31,Pacific Blue Metallic,Jet Black,0.0,1.0,1.0,Kia of Wesley Chapel,4.8,4.5,105.0,554.0,17003.0
+Chevrolet,Traverse LT Leather,2020,16025.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,17-25,Cajun Red Tintcoat,Jet Black,0.0,1.0,1.0,Cadillac of Mahwah,4.1,4.8,118.0,1000.0,34777.0
+Lexus,GX 460 Base,2017,58968.0,4.6L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,15-18,Black Onyx,Sepia,1.0,0.0,1.0,Amazing Luxury Cars - Snellville,,4.3,39.0,,34599.0
+Toyota,Highlander Limited,2021,52705.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,20-27,Silver,Black,0.0,1.0,1.0,Toyota of Newnan,,4.8,97.0,250.0,45700.0
+Kia,Forte GT,2023,6866.0,1.6L I4 16V GDI DOHC Turbo,Automatic,Front-wheel Drive,Gasoline,,Aurora Black,Black,0.0,1.0,1.0,Centennial Hyundai,4.4,4.9,5.0,,25500.0
+Dodge,Grand Caravan AVP/SE,2016,60572.0,3.6L V6 24V MPFI DOHC Flexible Fuel,Automatic,Front-wheel Drive,E85 Flex Fuel,17-25,Bright White Clearcoat,Black,0.0,0.0,0.0,Shelor Motor Mile,4.8,4.4,105.0,,34989.0
+Cadillac,XT6,2020,34441.0,,,,,,Black,Black,0.0,1.0,1.0,Huber Cadillac of Omaha,,4.6,53.0,,46995.0
+Chevrolet,Corvette Stingray w/1LT,2022,3465.0,6.2L V8 16V GDI OHV,,Rear-wheel Drive,Gasoline,,Red,Adrenaline Red,0.0,1.0,1.0,Phillips Buick GMC,4.7,4.4,9.0,2280.0,83500.0
+Chevrolet,Silverado 1500 Limited LT,2022,10858.0,2.7L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,,Silver Ice Metallic,Black,0.0,1.0,1.0,Richardson Chevrolet Buick,4.6,,0.0,150.0,39900.0
+Audi,Q5 2.0T Premium Plus,2019,29348.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,22-27,Moonlight Blue Metallic,Black,0.0,1.0,1.0,Wellesley Volkswagen,4.9,4.7,43.0,500.0,36495.0
+Honda,Civic Si,2022,3694.0,,6 Speed Manual,,,,Sonic Gray Pearl,Black/Red,0.0,1.0,1.0,Northtown Honda,,4.5,4.0,,34500.0
+Volkswagen,Jetta GLI,2013,100442.0,2.0L I4 16V GDI DOHC Turbo,6-Speed,Front-wheel Drive,Gasoline,,Deep Black Metallic,Titan Black,0.0,0.0,1.0,"Frankman Motor Company, Inc.",4.2,4.4,152.0,1328.0,13462.0
+Chrysler,Pacifica Touring-L,2018,48818.0,3.6L V6 24V MPFI DOHC Flexible Fuel,9-Speed Automatic,Front-wheel Drive,E85 Flex Fuel,19-28,Velvet Red Pearlcoat,Black,0.0,1.0,0.0,Greenway Chrysler Dodge Jeep RAM of Florence,4.3,4.7,227.0,298.0,23997.0
+Chevrolet,Tahoe LT,2017,119166.0,5.3L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,16-22,Black,Jet Black,0.0,0.0,0.0,Hardee Auto Sales,4.4,4.7,131.0,1372.0,31900.0
+Cadillac,Escalade ESV Premium Luxury,2021,25009.0,"EcoTec3 6.2L V-8 gasoline direct injection, variable valve contr",10-Speed Automatic with Overdrive,Four-wheel Drive,Gasoline,14-19,Crystal White Tricoat,Black,0.0,0.0,0.0,"Lenz Truck - Fond du Lac, WI",4.5,5.0,2.0,1501.0,99998.0
+Honda,Odyssey EX-L,2011,185652.0,"3.5L V-6 i-VTEC variable valve control, engine with cylinder dea",Automatic,Front-wheel Drive,Gasoline,18-27,White,Other,0.0,0.0,1.0,Woodbridge Public Auto Auction,3.9,4.6,111.0,850.0,6450.0
+Buick,LaCrosse CXL,2009,210438.0,3.8L V6 12V MPFI OHV,4-Speed Automatic,Front-wheel Drive,Gasoline,17-28,Midnight Blue Metallic,Titanium,0.0,0.0,1.0,McDonald GMC Cadillac,4.9,4.6,20.0,500.0,4500.0
+Acura,ILX Base,2020,12530.0,2.4L I4 16V GDI DOHC,8-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,24-34,Modern Steel Metallic,Ebony,0.0,1.0,1.0,Phil Smith Acura,4.8,4.6,17.0,217.0,23670.0
+Toyota,Tundra Hybrid TRD Pro,2022,7566.0,437.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,A/T,Four-wheel Drive,Hybrid,,Orange,Black,,,,,,3.5,3.0,,79995.0
+GMC,Sierra 1500 SLT,2017,98265.0,"EcoTec3 5.3L V-8 gasoline direct injection, variable valve contr",8-Speed Automatic with Overdrive,Four-wheel Drive,Gasoline,15-22,Crimson Red Tintcoat,Jet Black/Spice Red,1.0,0.0,1.0,Busam Ford,,4.6,190.0,3097.0,33368.0
+Mercedes-Benz,CLA 250 Base,2017,59147.0,2.0L I4 16V GDI DOHC Turbo Flexible Fuel,7-Speed Automatic with Auto-Shift,Front-wheel Drive,E85 Flex Fuel,24-36,Citrus White,Black,0.0,0.0,0.0,Amko Auto Temple Hills,4.4,4.7,65.0,,18995.0
+Tesla,Model 3 Performance,2022,2191.0,Electric,Automatic,All-wheel Drive,Electric,,Deep Blue Metallic,Black,0.0,1.0,1.0,Boch Hyundai,4.5,4.7,5.0,1289.0,53988.0
+Toyota,Yaris Sedan L,2019,62459.0,1.5L I4 16V GDI DOHC,6-Speed Manual,Front-wheel Drive,Gasoline,30-39,Sapphire,Gray,,,,Mullinax Ford of Olympia,4.7,4.7,17.0,390.0,15983.0
+BMW,530 i xDrive,2019,29417.0,2.0L 4-Cylinder,8-Speed Automatic,All-wheel Drive,Gasoline,23-33,Black Sapphire Metallic,Black,0.0,1.0,1.0,Autonomous,,4.8,15.0,,34800.0
+Hyundai,Santa Fe Sport 2.4L,2015,83468.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,19-25,Marlin Blue,Gray,,,,CarMax Serramonte - Offering Express Pickup and Home Delivery,,4.6,63.0,,15998.0
+Ford,Maverick XLT,2022,6000.0,250.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,All-wheel Drive,Gasoline,,Black,,,,,,,4.5,32.0,,46000.0
+Lexus,IS 200t Base,2016,88091.0,2.0L I4 16V PDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,22-33,Black,Brown,1.0,0.0,1.0,Fort Lauderdale Auto Sales,,4.8,30.0,,19499.0
+Nissan,Murano SL Intelligent AWD,2020,39564.0,"3.5L V-6 DOHC, variable valve control, engine with 260HP",CVT with Xtronic,All-wheel Drive,Gasoline,20-28,Pearl White Tricoat,Graphite,0.0,1.0,1.0,Empire Mazda of Huntington,4.8,4.9,76.0,400.0,27597.0
+Hyundai,Sonata Hybrid Base,2015,89933.0,2.4L I4 16V MPFI DOHC Hybrid,6-Speed Automatic,Front-wheel Drive,Hybrid,36-40,Eclipse Black,Gray,1.0,0.0,1.0,AutoNation Honda Sanford,4.7,4.4,30.0,,13495.0
+Toyota,Tacoma TRD Off Road,2021,13113.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,18-22,Super White,Cement,0.0,1.0,1.0,Exclusive Auto Wholesale,4.5,4.8,89.0,4000.0,49997.0
+Ford,Fusion SE,2019,64220.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,FWD,Gasoline,23-34,Black,Black,,,,DriveTime of Fort Myers,,4.6,98.0,,19995.0
+Chevrolet,Trax LS,2020,23046.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-31,Summit White,Black,0.0,1.0,1.0,Mike Castrucci Chevrolet,4.9,4.5,105.0,224.0,20736.0
+Cadillac,CT5 Sport,2022,7394.0,Turbocharged Gas I4 2.0L/,Automatic,Rear-wheel Drive,Gasoline,22-30,Satin Steel Metallic,Jet Black with Jet Black Accents,0.0,1.0,0.0,Justin Flynn,4.3,4.4,4.0,,55995.0
+Toyota,Highlander Hybrid XLE,2020,50094.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,35-34,Blizzard Pearl,Beige,1.0,0.0,1.0,Berlin City Auto Group,4.6,4.6,26.0,200.0,39828.0
+Buick,Enclave Premium,2019,74551.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,17-25,Dark Slate Metallic,Dark Galvanized,0.0,1.0,1.0,Bill Walsh GM Superstore,,4.6,63.0,1000.0,26985.0
+Lincoln,Town Car Signature Limited,2008,69806.0,4.6L V8 16V MPFI SOHC Flexible Fuel,4-Speed Automatic,Rear-wheel Drive,E85 Flex Fuel,15-23,Silver Birch Clearcoat Metallic,Medium Light Stone,1.0,0.0,1.0,Gordie Boucher Lincoln of West Allis,4.8,4.9,18.0,,19184.0
+Cadillac,XT5 Luxury,2017,45615.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-26,Silver Moonlight Metallic,Jet Black,1.0,1.0,1.0,Napleton Cadillac Rockford,3.8,4.6,201.0,500.0,26995.0
+Mercedes-Benz,E-Class E 300 4MATIC,2019,21507.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,21-29,designo Cardinal Red,,0.0,0.0,0.0,Certified Used Cars by Pollard,,4.7,48.0,,40990.0
+Lexus,LC 500 Base,2019,5324.0,5.0L V8 32V PDI DOHC,10-Speed Automatic,Rear-wheel Drive,Gasoline,16-25,White,Black,0.0,1.0,1.0,Woodfield Lexus,4.8,5.0,4.0,1000.0,88977.0
+Honda,Pilot Touring,2009,201000.0,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Four-wheel Drive,Gasoline,,Black,Black,,,,,,4.5,86.0,,9999.0
+Nissan,Murano Platinum,2022,8229.0,3.5L V6 24V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,White,Graphite Leather,0.0,1.0,0.0,Casa Nissan,3.6,,0.0,,39888.0
+Volkswagen,CC Lux Plus,2012,97086.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic with Auto-Shift,FWD,Gasoline,22-31,Island Gray Metallic,Black,1.0,0.0,1.0,Budget Motors,4.3,4.6,90.0,,10990.0
+Buick,Encore Preferred,2020,15710.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,25-30,Summit White,Ebony,0.0,1.0,1.0,Dave Arbogast Buick GMC,4.5,4.9,21.0,,22498.0
+Cadillac,Escalade Platinum,2016,103799.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-21,Black Raven,Jet Black,1.0,0.0,0.0,Greater Chicago Motors,4.4,4.4,28.0,2218.0,37995.0
+GMC,Yukon XL Denali,2001,0.0,6.0L V8 16V MPFI OHV,4-Speed Automatic,All-wheel Drive,Gasoline,12-16,Black,Beige,1.0,0.0,1.0,507 Motorsports,2.2,4.3,13.0,,5995.0
+Audi,A5 2.0T Premium,2019,24624.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,23-34,Brilliant Black w/ Black Roof,Black,1.0,1.0,1.0,Candy Cars,5.0,4.9,16.0,666.0,41222.0
+Ford,Transit Connect Base,2013,85441.0,"Duratec 2L I-4 DOHC, engine with 136HP",Automatic,Front-wheel Drive,Gasoline,21-27,White,Dark Gray,0.0,0.0,0.0,Dream Work Automotive,,4.0,19.0,,13995.0
+Honda,Civic EX-L,2020,25127.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,Front-wheel Drive,Gasoline,32-42,,,0.0,1.0,1.0,Sussex Honda,5.0,4.9,171.0,,24500.0
+GMC,Acadia Denali,2016,73166.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,15-22,White Frost Tri-Coat,Ebony,0.0,1.0,1.0,Gateway Toyota,4.1,4.5,72.0,243.0,21940.0
+Ford,Transit-350 XLT,2015,105659.0,3.7L V6 24V MPFI DOHC Flexible Fuel,6-Speed Automatic,Rear-wheel Drive,E85 Flex Fuel,,White,Charcoal,0.0,0.0,0.0,John Hinderer Ford Lincoln,,4.0,18.0,329.0,27082.0
+BMW,X5 M Base,2021,7345.0,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,13-18,Mineral White Metallic,Sakhir Orange,0.0,1.0,1.0,AutoNation Honda Dulles,4.7,4.9,3.0,1009.0,98551.0
+Ford,Focus S,2016,48831.0,2.0L I4 16V GDI DOHC Flexible Fuel,6-Speed Automatic with Auto-Shift,Front-wheel Drive,E85 Flex Fuel,26-36,Black,Black,0.0,0.0,1.0,CarMax Capitol Expressway - Offering Express Pickup and Home Delivery,,4.4,193.0,,15998.0
+Cadillac,Escalade Sport Platinum,2023,1422.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,,Sandstone Metallic,Whisper Beige,0.0,1.0,1.0,Beck & Masten North,4.0,,0.0,,126995.0
+Jeep,Wrangler Unlimited Sport,2012,124641.0,"3.6L V-6 DOHC, variable valve control, engine with 285HP",5-Speed Automatic,Four-wheel Drive,Gasoline,16-20,Bright White Clearcoat,Black,0.0,0.0,0.0,Tenn Motors,4.8,4.6,86.0,221.0,19900.0
+Jeep,Compass Latitude,2019,28238.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,22-31,Billet Silver Metallic Clearcoat,Black,0.0,0.0,1.0,Ben Davis Chevrolet Buick,4.8,4.5,164.0,,25997.0
+Volkswagen,e-Golf SEL Premium,2015,33390.0,Electric,1-Speed Automatic,Front-wheel Drive,Electric,,Night Blue Metallic,Titan Black,1.0,1.0,1.0,Mike Castrucci of Alexandria,4.7,4.8,9.0,1000.0,17987.0
+Volvo,S60 Inscription T5,2018,57585.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,25-36,Gray,,0.0,0.0,0.0,Integrity Auto Sales,,4.9,11.0,,21999.0
+RAM,1500 Big Horn,2021,27142.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,19-24,Bright White Clearcoat,Black,0.0,1.0,1.0,AutoNation Volkswagen Hilton Head,4.6,4.8,99.0,,45494.0
+Kia,K5 EX,2021,47320.0,1.6L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,27-37,Ebony Black,Black,0.0,0.0,1.0,Barnes Crossing Kia,2.7,4.6,71.0,,26998.0
+Mercedes-Benz,GLC 300 Base,2019,45894.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,22-27,Black,Black,0.0,0.0,1.0,Lute Riley Honda,4.9,4.6,73.0,,31999.0
+Volvo,XC60 T6 R-Design,2019,38079.0,2.0L I4 16V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,19-27,Crystal White Pearl Metallic,Charcoal,0.0,1.0,1.0,Patrick Volvo Cars Auburn,4.7,4.9,84.0,500.0,34990.0
+Lincoln,MKZ Base,2015,112124.0,3.7L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-33,Luxe Metallic,Ebony,1.0,0.0,0.0,Ourisman Fairfax Kia,1.5,4.8,57.0,,13786.0
+Land Rover,Discovery Sport HSE,2017,39818.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Four-wheel Drive,Gasoline,20-25,Santorini Black,Almond / Ebony,0.0,0.0,1.0,Atlantic Subaru,4.8,4.6,25.0,112.0,25900.0
+Chevrolet,Trax LT,2017,25434.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,25-33,Summit White,Jet Black,1.0,0.0,1.0,HGreg.com Doral,4.8,4.5,185.0,1000.0,15498.0
+Toyota,Sienna XLE,2015,85438.0,"3.5L V-6 DOHC, variable valve control, engine with 266HP",Automatic,All-wheel Drive,Gasoline,16-23,Predawn Gray Mica,Ash,0.0,0.0,1.0,St. Charles Toyota,4.7,4.7,113.0,1000.0,24000.0
+BMW,430 i,2018,63719.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,Rear-wheel Drive,Gasoline,24-34,Black,Black,0.0,0.0,0.0,"City Auto Sales, LLC",4.2,4.8,34.0,,27995.0
+Mitsubishi,Lancer ES,2017,58270.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Labrador Black Pearl,Black,0.0,0.0,1.0,K&R Auto Sales,4.9,4.6,42.0,1042.0,16588.0
+Lincoln,MKZ Select,2017,77561.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,21-31,Silver,,0.0,1.0,0.0,Hyundai of Venice,2.0,4.8,152.0,1630.0,19834.0
+Kia,Sorento LX,2016,90261.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,21-29,Ebony Black,Satin Black,1.0,0.0,1.0,Toyota of Greenville,3.0,4.6,274.0,100.0,15991.0
+Chevrolet,Equinox 1LT,2015,88183.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,22-32,Sea Grass Metallic,Jet Black,1.0,0.0,1.0,Jeff Wyler Springfield Chrysler Dodge Jeep RAM,,4.6,297.0,1445.0,15084.0
+Porsche,911 Carrera 4S,1997,42562.0,3.6L H6 12V MPFI SOHC,6-Speed Manual,All-wheel Drive,Gasoline,16-23,Black,Black,0.0,0.0,1.0,Randy Curnow Buick GMC,3.8,4.8,8.0,,185993.0
+Nissan,Pathfinder SL,2020,30727.0,3.5L V6 24V GDI DOHC,Automatic CVT,Four-wheel Drive,Gasoline,20-27,Magnetic Black,Charcoal,0.0,1.0,1.0,Crest Nissan,4.7,4.9,36.0,,30874.0
+Mercedes-Benz,SL-Class,2003,90601.0,5L V-8 engine with 302HP,Automatic,Rear-wheel Drive,Gasoline,15-24,Black,,1.0,0.0,1.0,City Wide Auto and Truck Sales,,4.4,43.0,,16877.0
+Kia,Forte LXS,2020,41994.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Silky Silver,Black,1.0,0.0,0.0,Northway Automotive Newton,2.8,4.7,89.0,,18997.0
+INFINITI,QX50 ESSENTIAL,2020,20995.0,2.0L I4 16V PDI DOHC Turbo,Automatic CVT,All-wheel Drive,Gasoline,22-28,Black Obsidian,Graphite,0.0,1.0,0.0,Infiniti of Clearwater,4.1,4.6,23.0,510.0,35989.0
+Audi,S4 3.0T Premium,2019,25718.0,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-30,Brilliant Black,Black,0.0,1.0,1.0,Brooklyn Mitsubishi,3.9,4.8,4.0,,38832.0
+Porsche,Cayenne S,2021,17920.0,2.9L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,18-22,Black,,0.0,1.0,1.0,"Ray Catena Porsche, Jaguar, Land Rover of Edison",4.6,4.3,6.0,,85900.0
+Toyota,Sienna LE,2022,43947.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,36-36,Sunset Bronze,Graphite,0.0,1.0,0.0,McDonough Pre-Owned,,4.7,8.0,432.0,38987.0
+Mercedes-Benz,E-Class E 350 4MATIC,2021,18398.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-30,Silver,Black,0.0,1.0,1.0,Mercedes-Benz of Alexandria,3.7,4.7,7.0,,54963.0
+Land Rover,Range Rover Sport Supercharged HSE,2014,131223.0,3.0L V6 24V GDI DOHC Supercharged,8-Speed Automatic,4WD,Gasoline,17-23,Fuji White,Almond / Espresso / Ivory,,,,BMW of Denver Downtown,3.9,4.7,26.0,,18999.0
+Ford,Expedition Max Limited,2021,43321.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,17-23,Oxford White,Black,0.0,1.0,0.0,Hertz Car Sales Costa Mesa,,,0.0,3598.0,46250.0
+Audi,A3 2.0T Premium,2020,16602.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,27-36,Glacier White Metallic,Black,0.0,1.0,0.0,Donohooauto LLC,,5.0,9.0,,27995.0
+Kia,Forte GT,2023,4171.0,,7-Speed Automatic,Front-wheel Drive,,,Aurora Black,Black,0.0,1.0,1.0,World Car Kia New Braunfels,,4.9,5.0,,28500.0
+Subaru,WRX Limited,2020,34790.0,2.0L H4 16V GDI DOHC Turbo,6-Speed Manual,All-wheel Drive,Gasoline,21-27,Crystal White Pearl,Black,0.0,0.0,1.0,Grubbs Volvo Cars Grapevine,4.3,4.8,13.0,,32600.0
+Porsche,Taycan 4S,2020,44100.0,Electric,2-Speed Automatic,All-wheel Drive,Electric,,Dolomite Silver Metallic,Black,0.0,0.0,1.0,Porsche Orland Park,4.7,4.0,2.0,400.0,101490.0
+Chevrolet,Trax LT,2019,19205.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,24-29,Mosaic Black,Jet Black,0.0,0.0,1.0,Spitzer Chevrolet North Canton,4.7,4.3,152.0,110.0,20275.0
+Dodge,Grand Caravan AVP/SE,2014,113385.0,3.6L V6 24V MPFI DOHC Flexible Fuel,Automatic,Front-wheel Drive,E85 Flex Fuel,17-25,Bright White Clearcoat,Black / Light Graystone,0.0,1.0,0.0,Tacoma Dodge Chrysler Jeep RAM,2.8,4.4,93.0,1000.0,12000.0
+GMC,Sierra 1500 Denali,2018,56231.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-20,Onyx Black,Jet Black,1.0,1.0,1.0,Schaumburg Ford,4.1,4.8,169.0,2043.0,39407.0
+Volvo,XC60 T5 Momentum,2021,21625.0,I-4 cyl,Automatic with Geartronic,All-wheel Drive,Gasoline,,Crystal White Metallic,Blond,0.0,1.0,0.0,Volvo Cars Oklahoma City,,4.9,26.0,400.0,41000.0
+Honda,HR-V,2021,14203.0,,Continuously Variable Transmission,,Gasoline,,Modern Steel Metallic,Black,0.0,1.0,1.0,Vic Bailey Honda,4.8,4.7,45.0,851.0,25422.0
+Subaru,Forester 2.0XT Premium,2015,86776.0,2.0L H4 16V GDI DOHC Turbo,Automatic CVT,All-wheel Drive,Gasoline,23-28,Quartz Blue Pearl,Black,0.0,0.0,1.0,Ultimate Motor Cars,2.8,4.5,255.0,500.0,17000.0
+Subaru,WRX Limited,2015,86438.0,2.0L H4 16V GDI DOHC Turbo,6-Speed Manual,All-wheel Drive,Gasoline,21-28,WR Blue Pearl,Black,1.0,0.0,1.0,Suburban Chrysler Dodge Jeep RAM of Troy,4.3,4.6,86.0,,21500.0
+Toyota,Tacoma TRD Sport,2020,25701.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,18-22,Burgundy,,1.0,1.0,0.0,Sundance Chevrolet,4.8,4.7,125.0,,36000.0
+Ford,Taurus Limited,2019,74836.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,17-24,Black,,0.0,1.0,0.0,Greve Chrysler Dodge Jeep RAM,3.4,4.9,11.0,1005.0,23134.0
+Ford,EcoSport S,2020,34865.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,23-29,Smoke,Medium Light Stone,0.0,1.0,1.0,Donley Ford - Shelby,4.8,4.7,65.0,200.0,17999.0
+GMC,Terrain SLE,2021,27087.0,1.5L I4 16V GDI DOHC Turbo,9-Speed Automatic,Front-wheel Drive,Gasoline,25-30,Ebony Twilight Metallic,Jet Black,0.0,1.0,1.0,Bruner Chrysler Dodge Jeep Ram,,4.6,22.0,,26995.0
+Nissan,Rogue SV,2015,46919.0,2.5L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,Brilliant Silver,Charcoal,0.0,0.0,0.0,Royal Auto Center,,4.4,263.0,,17995.0
+Kia,Sedona LX,2015,133882.0,3.3L V6 24V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,18-24,Bright Silver,Gray,1.0,1.0,1.0,Best Auto,,4.5,42.0,,11999.0
+Mitsubishi,Outlander Sport SP,2020,83677.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,24-30,Silver,Black,,,,DriveTime of Escondido,,4.9,36.0,,20195.0
+Toyota,Yaris Base,2010,43418.0,"1.5L I-4 DOHC, variable valve control, engine with 106HP",Automatic,Front-wheel Drive,Gasoline,29-35,White,Gray,0.0,0.0,0.0,Bracken Motors,4.4,4.4,51.0,,12500.0
+Ford,Expedition KING RANCH,2022,6260.0,3.5L ECOBOOST V6 ENGINE,10SPD AUTO TRANS W/SLCTSHFT,,,,AGATE BLACK METALLIC,JAVA DEL RIO LTH-TRM SEATS,0.0,1.0,1.0,Krause Family Ford Woodstock,3.4,,0.0,1250.0,75500.0
+Ford,Transit-250 Base,2022,15048.0,3.5L V6 24V PDI DOHC Flexible Fuel,10-Speed Automatic with Overdrive,Rear-wheel Drive,E85 Flex Fuel,,Oxford White,Dark Palazzo Gray,1.0,1.0,1.0,Bill Currie Ford,4.6,,0.0,103.0,55295.0
+Nissan,Frontier SV,2021,19430.0,3.8L V6 24V GDI DOHC,9-Speed Automatic,Rear-wheel Drive,Gasoline,18-24,Glacier White,Graphite,0.0,1.0,1.0,Gary Yeomans Ford Palm Bay,4.4,4.5,9.0,1000.0,28285.0
+Volvo,V60 T5 R-Design,2020,23978.0,I-4 cyl,Automatic with Geartronic,Front-wheel Drive,Gasoline,,Denim Blue Metallic,Charcoal,0.0,1.0,0.0,Mitchell Volvo Cars of Simsbury,,5.0,2.0,,38282.0
+Ford,Fusion SE,2019,47506.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,23-34,,,1.0,0.0,0.0,Evo Motors,4.5,4.6,98.0,1000.0,15894.0
+Toyota,Sienna XLE,2023,5105.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,Wind Chill Pearl,Chateau,0.0,1.0,1.0,Fred Anderson Toyota,4.5,5.0,1.0,1000.0,55000.0
+Honda,Odyssey EX-L,2012,180563.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,18-27,Taffeta White,Truffle,0.0,0.0,1.0,Nalley Honda,3.3,4.6,114.0,201.0,10427.0
+Lincoln,Aviator Black Label AWD,2020,46727.0,3.0L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,All-wheel Drive,Gasoline,17-24,Infinite Black Metallic,Luggage Tan,0.0,1.0,0.0,Key Ford of Hazleton,5.0,4.0,88.0,1600.0,54695.0
+Kia,Sorento X-Line EX,2022,36719.0,2.5L I4 16V PDI DOHC Turbo,8-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,22-27,Aruba Green,Gray,0.0,1.0,1.0,Kings Toyota,3.1,4.1,4.0,1340.0,38875.0
+Ford,Fusion Hybrid Titanium,2017,61639.0,2.0L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,43-41,Magnetic,Medium Soft Ceramic,1.0,0.0,0.0,Automax Atlanta,4.0,4.8,67.0,1001.0,16975.0
+Land Rover,Range Rover Sport 5.0L Supercharged SVR,2021,18870.0,V8,Automatic,Four-wheel Drive,Gasoline,15-20,Santorini Black,Pimento / Ebony,0.0,0.0,1.0,Sullivan Motor Company Inc.,,4.8,6.0,,115977.0
+Subaru,Crosstrek Base,2020,37822.0,2.0L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-33,Magnetite Gray Metallic,Black,0.0,1.0,1.0,EchoPark Automotive Thornton,4.8,4.8,60.0,430.0,25739.0
+Subaru,Forester Premium,2020,80390.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Magnetite Gray Metallic,Black,1.0,0.0,0.0,Crown Chrysler Dodge Jeep Ram,,4.8,224.0,200.0,25610.0
+Kia,Soul +,2015,100930.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,Front-wheel Drive,Gasoline,23-31,Red,Black,0.0,0.0,0.0,E Smart Auto Group,,4.6,227.0,505.0,9995.0
+Dodge,Dart SXT,2015,106104.0,"MultiAir 2.4L I-4 variable valve control, engine with 184HP",Manual,Front-wheel Drive,Gasoline,22-35,Gray,Black,0.0,0.0,0.0,"Anthony's Auto Sales Of Texas, LLC",,4.3,109.0,,12995.0
+Jeep,Grand Cherokee L Limited,2023,11031.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,,Amber,Beige / Black,0.0,1.0,1.0,Lithia Chrysler Dodge Jeep Ram Fiat of Santa Fe,3.0,4.3,5.0,,53990.0
+Buick,Envision Preferred,2019,25955.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,21-27,Ebony Twilight Metallic,Light Neutral,1.0,1.0,0.0,North Coast Auto Mall of Bedford,4.5,4.7,72.0,300.0,22593.0
+Chevrolet,Silverado 2500 WT,2022,56246.0,6.6L V8 16V GDI OHV,Automatic,Rear-wheel Drive,Gasoline,,Summit White,Jet Black,0.0,1.0,1.0,Rick Hendrick Chevrolet Charleston,4.9,,0.0,439.0,42983.0
+Jeep,Grand Cherokee Overland,2019,58614.0,"Pentastar 3.6L V-6 DOHC, variable valve control, engine with 295",Automatic,Four-wheel Drive,Gasoline,18-25,Sangria Metallic Clearcoat,Black,1.0,0.0,0.0,Midway Dodge,4.3,4.8,227.0,,34949.0
+Chevrolet,Malibu 1LT,2017,80423.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,27-36,White,Jet Black,1.0,0.0,1.0,Patriot Chevrolet Limerick,4.0,4.7,284.0,397.0,16521.0
+Toyota,Camry SE,2020,59511.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,28-39,Silver,Ash,0.0,1.0,1.0,Principle Toyota of Hernando,4.4,4.7,147.0,318.0,28949.0
+Mercedes-Benz,Metris Base,2016,105449.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic,Rear-wheel Drive,Gasoline,20-23,White,Black,0.0,1.0,1.0,Mercedes-Benz & Chevrolet in San Luis Obispo,,4.8,10.0,500.0,24490.0
+GMC,Yukon XL Denali,2018,78322.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,14-21,Quicksilver Metallic,Jet Black,1.0,1.0,1.0,Ingersoll Auto of Danbury,4.2,4.8,24.0,3302.0,43413.0
+Ford,Transit-350 XL,2018,47844.0,3.7L V6 24V MPFI DOHC,6-Speed Automatic,Rear-wheel Drive,,,Blue Jeans Metallic,Pewter,0.0,0.0,0.0,Hoselton AutoMall,4.5,4.2,9.0,,37995.0
+Volkswagen,Jetta 1.4T S,2019,34430.0,1.4L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,30-40,Habanero Orange Metallic,Storm Gray,0.0,0.0,1.0,Volkswagen of Alamo Heights,3.9,4.5,259.0,,21000.0
+Volvo,XC90 T6 Momentum,2019,44386.0,2.0L I4 16V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,19-26,Crystal White Pearl Metallic,Amber,0.0,0.0,1.0,Mercedes-Benz of Santa Rosa,,4.7,69.0,3260.0,38498.0
+Toyota,Prius Four,2016,38001.0,"1.8L I-4 DOHC, VVT-i variable valve control, engine with 95HP",Automatic,Front-wheel Drive,Gasoline,54-50,,,0.0,1.0,1.0,Castle Chevrolet Buick GMC McHenry,4.7,4.8,98.0,,23771.0
+Nissan,Frontier SV,2017,99353.0,4.0L V6 DOHC,Automatic,Rear-wheel Drive,Gasoline,22,Glacier White,Steel,1.0,0.0,0.0,Hoblit Chrysler Dodge Jeep RAM,3.9,4.6,119.0,,19600.0
+Cadillac,XT5 Luxury,2019,30086.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-25,Dark Mocha Metallic,Shara Beige,0.0,1.0,1.0,Romain Cross Pointe Auto Park,4.5,4.6,97.0,,34995.0
+INFINITI,QX60 Base,2017,88859.0,3.5L V6 24V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,19-26,Black Obsidian,Graphite,1.0,0.0,0.0,Feldman Chevrolet of Highland,4.0,4.7,78.0,,19995.0
+Ford,Escape Titanium,2016,63404.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,22-29,White,Charcoal Black,0.0,1.0,0.0,Don Hinds Ford,4.6,4.6,265.0,100.0,17800.0
+Jaguar,F-PACE SVR,2021,33339.0,V8,Automatic,All-wheel Drive,Gasoline,15-22,Fuji White,Ebony,0.0,1.0,1.0,Harper Maserati,4.2,4.4,6.0,,71795.0
+Volkswagen,ID.4 Pro S,2021,1902.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Blue Dusk,Black,1.0,1.0,1.0,LeSueur Car Company,5.0,4.2,15.0,,43977.0
+Ford,Expedition Limited,2019,60754.0,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Blue Metallic,Ebony,0.0,0.0,1.0,Eide Ford Mandan,,4.8,63.0,2000.0,42500.0
+Toyota,Prius Prime Premium,2018,97738.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,,White,Black,0.0,1.0,0.0,Norwalk Toyota,3.3,4.6,48.0,300.0,21888.0
+Land Rover,Defender V8-COLLECTOR SERIES,1984,1.0,8,4-Speed Manual,,,,Blue,Charcoal,0.0,,1.0,World Imports USA,,,0.0,,23999.0
+Chevrolet,Suburban 1500 LT,2008,215572.0,5.3L V8 16V MPFI OHV Flexible Fuel,4-Speed Automatic,Rear-wheel Drive,E85 Flex Fuel,,Maroon,,0.0,0.0,1.0,Broadway Auto Mall,,4.6,36.0,,7980.0
+GMC,Sierra 1500 Elevation,2020,18141.0,5.3L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,19-22,White,Jet Black,0.0,0.0,0.0,Bidleman Chevrolet GMC,4.4,4.8,67.0,,45923.0
+Mercedes-Benz,CL-Class CL 550 4MATIC,2012,33103.0,4.7L V8 32V GDI DOHC Twin Turbo,7-Speed Automatic,All-wheel Drive,Gasoline,15-24,Black,,0.0,0.0,0.0,Priceless of Odenton,,4.9,4.0,,34988.0
+Nissan,Murano SL,2018,51633.0,3.5L V6 24V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,21-28,Cayenne Red Metallic,Cashmere,0.0,0.0,0.0,Don Vance Chrysler Dodge Jeep Ram,4.1,4.8,173.0,,25990.0
+Jeep,Wrangler Sport,2015,20470.0,3.6L V6 24V MPFI DOHC,6-Speed Manual,Four-wheel Drive,Gasoline,17-21,Black,Black,0.0,0.0,1.0,J-Rus Inc.,,4.6,95.0,200.0,29790.0
+BMW,530e iPerformance,2020,35266.0,2.0L I4 16V GDI DOHC Turbo Hybrid,8-Speed Automatic,Rear-wheel Drive,Hybrid,,Alpine White,Ivory White,0.0,1.0,1.0,Beemer Haus,4.5,,0.0,,39998.0
+Ford,Fusion Hybrid SEL,2020,22453.0,2.0L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,43-41,Rapid Red Metallic Tinted Clearcoat,Ebony,0.0,1.0,1.0,West Herr Ford of Hamburg,4.9,4.9,7.0,200.0,25922.0
+Toyota,Highlander XLE,2018,29486.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,20-26,Black,Tan,0.0,1.0,0.0,CarMax Chattanooga - Offering Express Pickup and Home Delivery,,4.8,420.0,2000.0,36998.0
+Ford,Mustang GT Premium,2015,50312.0,5.0L V8 32V MPFI DOHC,6-Speed Automatic,Rear-wheel Drive,Gasoline,15-25,Magnetic Metallic,Black,1.0,0.0,1.0,AutoNation Hyundai Mall of Georgia,4.5,4.8,276.0,1019.0,30948.0
+Mercedes-Benz,SL-Class SL550 Roadster,2007,79432.0,5.5L V8 32V MPFI DOHC,7-Speed Automatic,Rear-wheel Drive,Gasoline,14-22,Black,,1.0,0.0,1.0,Coda Motors,1.6,4.5,25.0,500.0,13990.0
+Ford,F-150 XLT,2020,48681.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,,Agate Black Metallic,Medium Earth Gray,0.0,0.0,0.0,Zeigler Subaru of Merrillville,4.4,4.8,222.0,800.0,33700.0
+Subaru,Legacy Premium,2020,11847.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-35,Crystal White Pearl,Black,0.0,0.0,1.0,Bellingham Nissan,4.5,4.9,34.0,200.0,27797.0
+Lincoln,MKX Base,2011,209000.0,305.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Front-wheel Drive,Gasoline,,Black,Beige,,,,,,4.5,63.0,,8000.0
+Nissan,Rogue SL,2020,35768.0,2.5L I4 16V MPFI DOHC,Automatic CVT,All-wheel Drive,Gasoline,25-32,White,Charcoal,0.0,1.0,1.0,Serpentini Chevrolet - Strongsville,3.4,4.8,136.0,421.0,24568.0
+Mercedes-Benz,M-Class ML 350 4MATIC,2015,83779.0,3.5L V6 24V GDI DOHC Flexible Fuel,7-Speed Automatic,All-wheel Drive,E85 Flex Fuel,17-22,Black,Almond Beige,1.0,0.0,1.0,Sam Pack's 5 Star Chevrolet,4.9,4.7,62.0,,19000.0
+Nissan,Rogue Sport S,2021,9705.0,2.0L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,25-32,Brilliant Silver Metallic,Charcoal,0.0,1.0,1.0,Lorenzo Nissan Ft Lauderdale,4.5,4.8,15.0,,22880.0
+Jeep,Wrangler S,1993,163411.0,2.5L I-4 engine with 130HP,5 Speed Manual,Four-wheel Drive,Gasoline,18-20,Blue,Gray,1.0,0.0,1.0,Gateway Classic Cars,,4.3,7.0,,14500.0
+Toyota,Corolla L,2015,86991.0,1.8L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,White,Gray,0.0,1.0,1.0,Auto Gallery Mitsubishi - Corona,3.1,4.6,241.0,475.0,14500.0
+Buick,Envision Essence,2021,18346.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-29,Summit White,Ebony,0.0,1.0,1.0,Yemm Chevrolet Buick GMC Chrysler Dodge Jeep Ram,4.5,4.8,26.0,1450.0,38443.0
+Kia,Cadenza Premium,2018,21201.0,3.3L V6 24V GDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,20-28,Gravity Blue,Black,0.0,1.0,1.0,Plaza Auto Mall,4.1,5.0,7.0,741.0,23494.0
+Ford,Bronco Sport Badlands,2022,7974.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Four-wheel Drive,Gasoline,21-26,Bronze Smoke Metallic,Ebony,0.0,1.0,1.0,AutoNation Ford South Fort Worth,4.6,4.6,10.0,,37995.0
+Toyota,RAV4 Hybrid XLE,2021,48852.0,2.5L I4 16V PDI DOHC Hybrid,Automatic CVT,All-wheel Drive,Hybrid,41-38,Magnetic Gray Metallic,Black,0.0,1.0,1.0,Toyota of Nashua,4.4,4.8,55.0,500.0,37900.0
+Jeep,Renegade Jeepster,2021,28354.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Front-wheel Drive,Gasoline,22-30,Metallic,Black,0.0,1.0,1.0,Kia of Wesley Chapel,4.8,4.4,24.0,214.0,22705.0
+Toyota,Tacoma TRD Sport,2019,30289.0,3.5L V6 24V PDI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,18-22,Cement,Graphite,0.0,0.0,1.0,Round Rock Toyota,4.9,4.5,254.0,,39549.0
+Subaru,WRX Limited,2019,45722.0,"Engine: 2.0L DOHC Intercooled Turbocharged -inc: Dual Active Valve Control System (DAVCS), variable valve timing, Electronic Throttle Control (ETC) and SI-DRIVE engine performance management (automatic transmission models only)",Auto,,,,WR Blue Pearl,Carbon Black,1.0,1.0,1.0,Matt Slap Subaru,4.7,4.5,27.0,,29984.0
+Porsche,911 GT3,2018,4156.0,4.0L H6 24V GDI DOHC,6-Speed Manual,Rear-wheel Drive,Gasoline,15-20,Racing Yellow,Black,0.0,0.0,0.0,Ferrari of Palm Beach,4.4,4.8,33.0,4900.0,194795.0
+Chevrolet,Silverado 1500 ZR2,2023,10877.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,,Red,Jet Black,0.0,1.0,1.0,Four Stars Ford,4.9,5.0,1.0,,68995.0
+Toyota,Prius II,2011,89409.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,51-48,Classic Silver Metallic,Gray,0.0,1.0,1.0,Lithia Hyundai of Fresno,4.9,4.5,152.0,387.0,13549.0
+Toyota,4Runner SR5 Premium,2019,39672.0,4.0L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,17-20,Magnetic Gray Metallic,Black Graphite,0.0,1.0,1.0,Atlanta Toyota,4.8,4.8,190.0,,42980.0
+Ford,Edge Titanium,2015,93229.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,20-28,Ruby Red Metallic Tinted Clearcoat,Ebony,0.0,0.0,1.0,Beechmont Subaru,4.2,4.7,152.0,293.0,16495.0
+Toyota,Sienna LE,2022,27768.0,2.5L,Continuously Variable Transmission,,B,,ICE CAP,FA10,0.0,1.0,0.0,Family Toyota of Arlington,4.6,4.7,8.0,,42420.0
+Chevrolet,Cruze LTZ,2015,80838.0,1.4L I4 16V MPFI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-38,Black Granite Metallic,Jet Black,0.0,1.0,0.0,Scott Honda of West Chester,4.9,4.3,194.0,370.0,12591.0
+Volkswagen,Atlas 3.6L SEL,2022,23431.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,17-23,Platinum Gray Metallic,Titan Black,1.0,1.0,1.0,Volkswagen of South Charlotte,4.9,4.1,5.0,200.0,44471.0
+Toyota,C-HR XLE,2022,16890.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,27-31,Gray Metallic,Black,0.0,1.0,1.0,Sarasota Toyota,3.1,4.6,1.0,534.0,28411.0
+Toyota,Yaris L,2016,75518.0,1.5L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,30-36,Super White,Black,1.0,0.0,0.0,Davis Toyota of Orangeburg,,4.2,11.0,263.0,15284.0
+Toyota,Sequoia Platinum,2019,42563.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,White,Tan,,,,CarMax West Broad - Offering Express Pickup and Home Delivery,,4.7,16.0,,56998.0
+Mercedes-Benz,E-Class,2021,14683.0,,,,Gasoline,,Polar White,Artico Almond Beige,0.0,1.0,1.0,Mercedes-Benz of Paramus,4.4,4.7,7.0,,53829.0
+Mazda,CX-5 Touring,2020,32275.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,25-31,Soul Red Crystal Metallic,Silk Beige,0.0,0.0,1.0,EchoPark Automotive Houston,4.6,4.9,140.0,,25289.0
+Toyota,Camry LE,2005,182840.0,2.4L I4 16V MPFI DOHC,5-Speed Automatic,Front-wheel Drive,Gasoline,24-34,Lunar Mist Metallic,Stone,1.0,0.0,1.0,Shamrock Motors,,4.6,130.0,,5995.0
+GMC,Acadia AT4,2020,78816.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,18-25,Summit White,Kalahari,0.0,1.0,1.0,Grand Prairie Ford,4.3,4.8,71.0,,28499.0
+Toyota,Camry LE,2019,27910.0,2.5L I4 16V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,28-39,Red,Macadamia,0.0,1.0,1.0,Passport INFINITI of Alexandria,4.5,4.8,313.0,,23985.0
+Kia,Optima SX Turbo,2018,64814.0,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,22-31,White,Black,0.0,0.0,0.0,Billion Auto - Buick GMC,3.4,4.8,327.0,1000.0,22995.0
+Honda,HR-V Sport,2022,8131.0,1.8L I4 16V MPFI SOHC,Automatic CVT,Front-wheel Drive,Gasoline,28-34,Milano Red,Black,0.0,0.0,0.0,Classic Honda of Midland,4.9,3.8,5.0,,26800.0
+Lincoln,MKZ Reserve I,2018,29899.0,"2L I-4 gasoline direct injection, DOHC, variable valve control,",Automatic,Front-wheel Drive,Gasoline,21-31,White Platinum Metallic Tri-Coat,Cappuccino,1.0,1.0,0.0,Greenwood Automotive,3.0,4.9,46.0,1000.0,25995.0
+Mazda,Mazda3 FWD w/Select Package,2020,33611.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,26-35,Machine Gray Metallic,Black,0.0,1.0,1.0,Balise Toyota,4.0,4.6,29.0,294.0,21886.0
+BMW,430 Gran Coupe i xDrive,2018,17183.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,23-33,Glacier Silver Metallic,Black / Dark Oyster,0.0,1.0,1.0,Tulley Automotive Group,4.4,4.9,24.0,193.0,33802.0
+Ford,F-250 Lariat,2011,183778.0,6.7L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Black,Black,0.0,0.0,0.0,Imports of Tidewater,,4.5,59.0,,29800.0
+Hyundai,Sonata Hybrid Limited,2015,65800.0,2.4L I4 16V MPFI DOHC Hybrid,6-Speed Automatic,Front-wheel Drive,Hybrid,36-40,Venetian Red Pearl,Camel,1.0,0.0,0.0,Happy Car Sales Oakland Park,,4.4,30.0,,15991.0
+Hyundai,Santa Fe Limited 2.0T,2019,70825.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,19-24,Machine Gray,Black / Beige,0.0,1.0,0.0,Michigan City Hyundai,,4.8,207.0,,25490.0
+Dodge,Durango R/T,2021,11692.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,All-wheel Drive,Gasoline,14-22,Destroyer Gray Clearcoat,Black,0.0,1.0,0.0,Landers Toyota of Northwest Arkansas,4.6,4.7,28.0,945.0,48000.0
+Hyundai,Elantra GT Base,2013,99558.0,1.8L I4 16V MPFI DOHC,6-Speed Automatic,FWD,Gasoline,27-37,Shimmering Silver Metallic,Blue,0.0,0.0,1.0,People's Choice Auto,,4.5,94.0,,9995.0
+Dodge,Journey GT,2019,41481.0,3.6L V6 24V MPFI DOHC,Automatic,All-wheel Drive,Gasoline,16-24,Pitch Black Clearcoat,Red,0.0,0.0,0.0,Ray Skillman Buick GMC South,4.3,4.3,83.0,2000.0,27988.0
+Volkswagen,Atlas Cross Sport 2.0T SE w/Technology,2023,609.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,,Deep Black Pearl Effect,Titan Black,0.0,1.0,1.0,Bomnin Chevrolet West Kendall,4.9,5.0,1.0,1000.0,38990.0
+BMW,M4 Base,2018,60800.0,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Rear-wheel Drive,Gasoline,,Black,Red,,,,,,4.6,16.0,,39500.0
+Mercedes-Benz,GLC 300 Base,2022,8070.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,,Cirrus Silver Metallic,Silk Beige / Black,0.0,1.0,0.0,Mercedes-Benz of Naples,4.7,4.5,3.0,1253.0,45822.0
+BMW,328 i,2014,78504.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-35,White,Black,0.0,0.0,1.0,Elite Auto Wholesale Inc.,,4.6,111.0,2000.0,16908.0
+Mercedes-Benz,GLC 300 Base,2022,8696.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,,Polar White,Silk Beige / Black,0.0,0.0,0.0,Mercedes-Benz of Austin,4.8,4.5,3.0,,48050.0
+Mercedes-Benz,GLE-Class GLE 350,2016,68185.0,3.5L V6 24V GDI DOHC,7-Speed Automatic,Rear-wheel Drive,Gasoline,18-24,Black,Black,0.0,0.0,1.0,North State Auto,,4.7,11.0,2500.0,25500.0
+Dodge,Challenger R/T Scat Pack,2021,13059.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,14-23,Hellraisin,Black,1.0,1.0,1.0,Bob Poynter Chrysler Dodge Jeep Ram Fiat Ford of Seymour,1.9,4.9,26.0,,48925.0
+Chrysler,300 Limited,2020,57445.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-27,White,Black,0.0,1.0,0.0,Levis Auto Sales,,4.8,12.0,,26998.0
+Porsche,911 GT3 RS,2007,6919.0,3.6L,Manual,Rear-wheel Drive,Gasoline,,Orange,Black,0.0,,1.0,Grand Prix Motors,,4.8,40.0,,299900.0
+Cadillac,Escalade Luxury,2016,103267.0,6.2L V8 16V GDI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,15-21,White,Black,0.0,1.0,1.0,Genuine Motor Company,4.3,4.4,28.0,,33900.0
+BMW,X7,2019,39948.0,,,,,,Jet Black,,0.0,1.0,0.0,Rick Hendrick BMW Charleston,4.9,4.1,22.0,,67219.0
+GMC,Sierra 1500 AT4,2020,40769.0,6.2L V8 16V GDI OHV,10-Speed Automatic,Four-wheel Drive,Gasoline,16-21,Summit White,Jet Black,0.0,1.0,0.0,Preston Superstore,5.0,4.8,67.0,,51000.0
+RAM,ProMaster 2500 High Roof,2021,20292.0,3.6L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,,Bright White Clearcoat,Black,0.0,1.0,0.0,Central Chrysler Jeep Dodge of Norwood,4.6,,0.0,,47977.0
+Jaguar,F-PACE 20d Prestige,2019,29985.0,2.0L I4 16V DDI DOHC Turbo Diesel,Automatic,All-wheel Drive,Diesel,26-33,Corris Grey,Light Oyster / Ebony,0.0,1.0,1.0,Jaguar Land Rover South Shore,4.2,4.7,21.0,1099.0,38900.0
+Chrysler,300 Limited,2019,74627.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,18-27,Velvet Red Pearlcoat,Black,1.0,0.0,0.0,Planet Ford 59,4.5,4.8,57.0,,23521.0
+Ford,Explorer Platinum,2018,60353.0,3.5L V6 24V GDI DOHC Twin Turbo,6-Speed Automatic,Four-wheel Drive,Gasoline,16-22,Cinnamon Glaze,Medium Soft Ceramic,0.0,0.0,1.0,VanDevere Buick Kia,4.6,4.8,266.0,121.0,28479.0
+Honda,Ridgeline Sport,2019,15019.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,19-26,Platinum White Pearl,Black,0.0,1.0,0.0,Germain Honda of Beavercreek,4.7,4.8,169.0,,35795.0
+Land Rover,Range Rover Evoque HSE,2016,109928.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Four-wheel Drive,Gasoline,21-30,Loire Blue,Ebony / Ivory,0.0,0.0,0.0,Jack Carroll's Skagit Hyundai,,4.2,24.0,1209.0,17734.0
+Buick,Enclave Avenir,2020,97787.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,17-25,Satin Steel Metallic,Ebony,0.0,0.0,0.0,Holiday Chevrolet Buick GMC Dealership,4.9,4.8,42.0,,30998.0
+Chevrolet,Tahoe LT,2016,140087.0,Gas/Ethanol V8 5.3L/325,Automatic,Rear-wheel Drive,E85 Flex Fuel,16-23,Black,Cocoa/Dune,0.0,0.0,0.0,Serra Gardendale Kia,2.3,4.6,84.0,,26998.0
+Nissan,Rogue Sport SV,2022,2997.0,2.0L I4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,,Magnetic Black,Charcoal,0.0,1.0,0.0,Nissan of Lewisville,4.1,4.5,7.0,,29997.0
+Volkswagen,Jetta TDI,2011,92000.0,140.0HP 2.0L 4 Cylinder Engine Diesel Fuel,6-Speed M/T,Front-wheel Drive,Diesel,,Black,Beige,,,,,,4.4,129.0,,9000.0
+Jeep,Compass Trailhawk,2022,3402.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,22-30,Diamond Black,Black,0.0,1.0,1.0,Bell Ford,4.2,4.6,13.0,,33250.0
+Mazda,Mazda6 Carbon Edition,2021,39256.0,2.5L I4 16V,6-Speed Automatic,Front-wheel Drive,Gasoline,23-31,Polymetal Gray Metallic,Red,0.0,1.0,1.0,Heritage Mazda Bel Air,4.8,5.0,5.0,200.0,28500.0
+Jeep,Wrangler Unlimited Rubicon,2015,109472.0,"3.6L V-6 DOHC, variable valve control, engine with 285HP",Automatic,Four-wheel Drive,Gasoline,16-21,Billet Silver Metallic Clearcoat,Black,1.0,1.0,1.0,Canyon Auto Sales,,4.6,138.0,,27000.0
+Jeep,Grand Cherokee Laredo,2020,37840.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,18-25,Granite Crystal Clearcoat Metallic,Black,0.0,1.0,1.0,Fox Hills Chrysler Jeep,,4.8,152.0,200.0,26795.0
+RAM,1500 ST,2018,39000.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,17-25,Brilliant Black Crystal,Black,0.0,0.0,1.0,Phillip Hawkins Motor Company,,4.7,279.0,,33980.0
+Chevrolet,Blazer 2LT,2019,73233.0,3.6L V6 24V GDI DOHC,9-Speed Automatic,All-wheel Drive,Gasoline,18-25,Red,Jet Black,0.0,1.0,1.0,Bookwalter Chevrolet Buick,,4.4,118.0,,29000.0
+Nissan,Titan LE Crew Cab,2006,122877.0,5.6L V8 32V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,14-18,Galaxy,Graphite,1.0,0.0,0.0,All American Motors,4.3,4.5,37.0,,14977.0
+BMW,M4 Base,2021,9804.0,3.0L I6 24V GDI DOHC Twin Turbo,6-Speed Manual,Rear-wheel Drive,Gasoline,16-23,Alpine White,Black,0.0,0.0,1.0,Chapman BMW on Camelback,4.7,5.0,3.0,2570.0,76111.0
+Jeep,Wrangler Unlimited Sahara,2021,20618.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-23,Granite Crystal Clearcoat Metallic,Black,0.0,0.0,1.0,Hendrick Chevrolet Hoover,4.9,4.9,50.0,,42879.0
+Kia,Niro EX,2018,36474.0,1.6L I4 16V GDI DOHC Hybrid,6-Speed Automatic with Auto-Shift,Front-wheel Drive,Hybrid,51-46,Deep Cerulean,Charcoal,0.0,0.0,1.0,Kia of Frisco,2.2,4.7,138.0,,24999.0
+Mazda,Mazda3 2.5 Turbo AWD,2021,21798.0,2.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,All-wheel Drive,Gasoline,23-32,Snowflake White Pearl,Black / Navy Blue,0.0,1.0,1.0,Mazda Roseville,4.6,4.9,18.0,919.0,28480.0
+Dodge,Charger Scat Pack,2021,12903.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,Frostbite,Black,,,,Woodhouse.com,,4.9,23.0,,53816.0
+Mitsubishi,Lancer SE,2017,64717.0,2.4L I4 16V MPFI DOHC,Automatic CVT,Four-wheel Drive,Gasoline,23-30,Gray,Black,1.0,0.0,1.0,Acura of Ellicott City,4.3,4.6,42.0,230.0,15550.0
+Lexus,RC 350 Base,2018,20837.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,20-28,Ultra White,Black,0.0,0.0,1.0,Oxmoor Mazda,4.6,4.9,5.0,100.0,44500.0
+BMW,M440 i xDrive,2022,8348.0,3.0L I6 24V GDI DOHC Turbo,Automatic,All-wheel Drive,Gasoline,,Gray Metallic,Cognac,1.0,1.0,0.0,MacIntyre Chevrolet Buick,5.0,,0.0,,68946.0
+RAM,2500 Laramie,2013,76511.0,6.7L I6 24V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Bright White,Black,0.0,1.0,1.0,Boulevard Ford Lincoln,,4.4,39.0,300.0,41480.0
+Kia,Forte Koup SX,2012,83695.0,2.4L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,23-31,Silver / Bright Silver,Black,0.0,1.0,1.0,Metro Auto,2.7,4.4,31.0,,11995.0
+Jeep,Patriot Sport,2015,104353.0,2.4L I4 16V MPFI DOHC,Automatic,Front-wheel Drive,Gasoline,23-30,Red,,,,,Golden Oldies Auto Sales,3.7,4.4,117.0,899.0,12889.0
+Dodge,Journey SE,2015,97621.0,2.4L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,19-26,,,1.0,1.0,0.0,Smart Chevrolet Buick GMC,,4.6,114.0,200.0,12500.0
+Chevrolet,Suburban 1500 LTZ,2008,187087.0,5.3L V8 16V MPFI OHV Flexible Fuel,4-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,,Summit White,Ebony,0.0,0.0,1.0,Findlay Chrysler Dodge Jeep Ram,4.4,4.6,36.0,498.0,10000.0
+RAM,1500 Big Horn,2019,18565.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Four-wheel Drive,Gasoline,19-24,Maximum Steel Metallic,Black,0.0,1.0,1.0,Four Stars Toyota,4.9,4.7,478.0,1999.0,41210.0
+Hyundai,Veloster Base,2017,36740.0,"1.6L I-4 gasoline direct injection, DOHC, variable valve control",Automatic,Front-wheel Drive,Gasoline,28-34,Pacific Blue Pearl,Black,0.0,0.0,0.0,Intellicar,4.1,4.4,62.0,,16989.0
+Volkswagen,ID.4 Pro S,2021,48515.0,Electric,1-Speed Automatic,Rear-wheel Drive,Electric,,Blue Dusk,Black,0.0,1.0,1.0,Mercedes-Benz of Columbia,5.0,4.2,15.0,787.0,30688.0
+Kia,Optima LX,2019,36094.0,2.4L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,24-33,Sparkling Silver,Black,1.0,0.0,1.0,Cronin Toyota & Nissan of Richmond,1.9,4.8,151.0,200.0,19799.0
+Hyundai,Elantra SE,2013,97576.0,1.8L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,27-37,Shimmering Silver,Gray,0.0,0.0,1.0,Cherokee Auto Sales,3.0,4.4,330.0,1000.0,9995.0
+Hyundai,Elantra GT Base,2016,92459.0,2.0L I4 16V GDI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,24-33,Black Noir Pearl,Black,0.0,0.0,1.0,Frontier Auto Sales Inc.,4.9,4.4,42.0,100.0,13154.0
+Jeep,Compass Latitude,2019,14799.0,4,Automatic,Four-wheel Drive,Gasoline,,Redline Pearlcoat,Black,0.0,1.0,1.0,Beaver County Chrysler Jeep Dodge RAM,,4.5,164.0,500.0,24998.0
+Chrysler,Pacifica Limited,2018,102644.0,3.6L V6 24V MPFI DOHC Flexible Fuel,9-Speed Automatic,Front-wheel Drive,E85 Flex Fuel,19-28,Jazz Blue Pearlcoat,Black,0.0,1.0,1.0,Sheehy Hyundai of Waldorf,3.9,4.7,227.0,1245.0,21353.0
+Toyota,Prius LE,2021,38466.0,1.8L I4 16V MPFI DOHC Hybrid,Automatic CVT,Front-wheel Drive,Hybrid,54-50,Red,Moonstone,0.0,1.0,0.0,Vandergriff Toyota,3.8,4.6,18.0,,25985.0
+Jeep,Patriot Latitude,2012,97000.0,2.4L I4 16V MPFI DOHC,Automatic CVT,FWD,Gasoline,23-29,Bright White Clearcoat,Dark Slate Gray,1.0,1.0,1.0,Navarre GMC,,3.8,65.0,,11700.0
+Volkswagen,Taos 1.5T SE,2022,14688.0,1.5L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,25-32,Deep Black Pearl Effect,Black,0.0,1.0,0.0,Volkswagen SouthTowne,4.5,3.8,21.0,,30995.0
+Dodge,Charger Scat Pack,2019,72742.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,Destroyer Gray Clearcoat,Black,1.0,0.0,1.0,All In Auto Group,1.0,4.9,107.0,2000.0,34950.0
+Acura,RDX Technology Package,2019,39561.0,2.0L I4 16V GDI DOHC Turbo,10-Speed Automatic,All-wheel Drive,Gasoline,21-27,Majestic Black Pearl,Ebony,0.0,1.0,0.0,Niello Acura,1.8,4.3,220.0,780.0,37989.0
+Ford,Escape S,2021,15380.0,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,Front-wheel Drive,Gasoline,28-34,Desert Gold,Ebony,0.0,1.0,1.0,Zeigler Ford of North Riverside,4.3,4.4,16.0,307.0,23900.0
+Nissan,Altima 2.5 S,2013,92647.0,2.5L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,23-32,Metallic Slate,Charcoal,0.0,0.0,0.0,Toyota of Murray,4.9,4.4,374.0,200.0,12799.0
+Audi,Q7 2.0T Premium Plus,2017,45992.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,20-25,Night Black,Pistachio Beige,0.0,0.0,1.0,Audi Marietta,4.8,4.7,72.0,1000.0,31490.0
+Chrysler,300 Limited,2012,37400.0,3.6L V6 24V MPFI DOHC Flexible Fuel,8-Speed Automatic,All-wheel Drive,E85 Flex Fuel,18-27,Bright White Clearcoat,Black,0.0,0.0,1.0,David Chevrolet Buick,4.7,4.8,63.0,1645.0,16890.0
+Honda,Pilot EX-L,2016,63028.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-26,Green,Beige,0.0,1.0,1.0,VIP Honda,4.5,4.6,200.0,,27995.0
+Subaru,Legacy,2020,22727.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-35,Magnetite Gray Metallic,Gray,0.0,1.0,1.0,Audi Mentor,5.0,4.9,34.0,,29850.0
+Ford,F-350 King Ranch,2017,139790.0,6.7L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,White,Brown,0.0,1.0,1.0,"Everest Motors, Inc.",4.2,4.8,90.0,,49990.0
+Subaru,Crosstrek 2.0i Limited,2019,29511.0,2.0L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,27-33,Crystal Black Silica,Black,0.0,1.0,1.0,CarMax Canoga Park - Offering Express Pickup and Home Delivery,,4.7,206.0,,28998.0
+GMC,Canyon All Terrain,2018,15847.0,3.6L V6 24V GDI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,17-24,Black,Black,0.0,1.0,1.0,Theilen Auto Sales,,4.7,73.0,,35990.0
+Lincoln,MKZ Base,2012,139673.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,17-25,Black,Black,1.0,0.0,1.0,Auto Spot LLC,3.5,4.5,47.0,500.0,7999.0
+Toyota,Tundra SR5,2022,7840.0,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,18-23,Magnetic Gray Metallic,Black,0.0,1.0,1.0,Hampton Toyota,4.8,4.4,9.0,,49999.0
+Honda,Pilot EX-L,2013,113350.0,250.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Front-wheel Drive,Gasoline,,Silver,Gray,,,,,,4.5,127.0,,16000.0
+Ford,Transit-250 Base,2020,21131.0,"3.5L V-6 port/direct injection, DOHC, variable valve control, en",10-Speed Automatic with Overdrive,Rear-wheel Drive,Gasoline,0-0,Oxford White,Dark Palazzo,0.0,0.0,0.0,CarMart,4.7,5.0,5.0,495.0,42646.0
+Chevrolet,Colorado WT,2019,108008.0,2.5L I4 16V GDI DOHC,Automatic,Rear-wheel Drive,Gasoline,20-26,White,Gray,0.0,1.0,0.0,S&M Auto Sales,2.6,4.5,162.0,,19988.0
+Ford,Expedition XLT,2019,30733.0,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Magnetic,Ebony,0.0,1.0,1.0,J&S Autohaus Six,4.5,4.8,63.0,,46999.0
+Toyota,Corolla L,2014,67445.0,1.8L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,27-36,Super White,Ash,1.0,0.0,1.0,Affordable Autos of Tucson,,4.5,215.0,,16995.0
+Jeep,Gladiator Overland,2022,27627.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Four-wheel Drive,Gasoline,16-23,Sarge Green Clearcoat,Heritage Tan,0.0,1.0,1.0,Bomnin Chevrolet Dadeland,4.9,4.9,8.0,,44990.0
+Ford,F-350 Limited,2020,21029.0,6.7L V8 32V DDI OHV Turbo Diesel,10-Speed Automatic,Four-wheel Drive,Diesel,,Agate Black Metallic,Highland Tan,0.0,0.0,1.0,Peoria Ford,2.0,4.5,18.0,,88988.0
+Acura,RLX Sport Hybrid Advance Package,2018,42982.0,3.5L V6 24V GDI SOHC Hybrid,7-Speed Automatic with Auto-Shift,All-wheel Drive,Hybrid,28-29,White,Ebony,1.0,1.0,1.0,CarMax Norcross - Offering Express Pickup and Home Delivery,,4.8,3.0,1000.0,35998.0
+Mercedes-Benz,CLA 250 Base,2018,28045.0,2.0L I4 16V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,Front-wheel Drive,Gasoline,24-37,White,Beige,1.0,0.0,1.0,Autos Direct of Fredericksburg - Lafayette,4.4,4.5,54.0,,23995.0
+Dodge,Journey SE,2014,150500.0,2.4L I4 16V MPFI DOHC,4-Speed Automatic,Front-wheel Drive,Gasoline,19-26,Bright Silver Clearcoat Metallic,Black,0.0,1.0,1.0,Tyme Auto Sales,,4.3,105.0,,7200.0
+Ford,F-150 XLT,2016,136827.0,5.0L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,17-23,White,Gray,1.0,1.0,0.0,Great Lakes Sales & Service,,4.6,393.0,1000.0,23495.0
+Toyota,Tundra Grade,2013,205372.0,4.6L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,14-19,Black,Black,1.0,0.0,1.0,Driven Pre-Owned,,4.6,79.0,1000.0,18900.0
+BMW,330 i,2019,38967.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,26-36,Mineral White Metallic,Mocha,0.0,1.0,1.0,Beverly Hills BMW,4.7,4.9,31.0,1001.0,29998.0
+GMC,Yukon XL Denali,2002,207201.0,320.0HP 6.0L 8 Cylinder Engine Gasoline Fuel,A/T,All-wheel Drive,Gasoline,,Purple,Gray,,,,,,4.6,6.0,,6500.0
+Audi,Q5 45 S line Premium Plus,2022,6733.0,2.0L I4 16V GDI DOHC Turbo,Automatic,All-wheel Drive,Gasoline,23-28,Ultra Blue Metallic,Rock Gray,0.0,1.0,1.0,Audi Albany,,4.9,2.0,4297.0,49203.0
+Porsche,Macan Turbo,2015,39627.0,3.6L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,17-23,Black,Black,0.0,0.0,1.0,CarMax Bakersfield - Offering Express Pickup and Home Delivery,,4.7,32.0,1000.0,45998.0
+Cadillac,CT4 Premium Luxury,2020,6786.0,2.7L I4 16V GDI DOHC Turbo,10-Speed Automatic,Rear-wheel Drive,Gasoline,23-34,Wave Metallic,Jet Black,0.0,1.0,0.0,Hennessy Cadillac,3.7,4.7,9.0,300.0,33900.0
+BMW,X3,2021,21114.0,,,,,,Dark Graphite Metallic,,0.0,1.0,1.0,Sun Motor Cars BMW,,4.7,29.0,,51995.0
+Toyota,Corolla L,2019,24333.0,1.8L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,Falcon Gray Metallic,Black,1.0,0.0,0.0,HGreg.com West Palm Beach,2.8,4.8,170.0,800.0,18198.0
+Kia,Forte LXS,2021,40245.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,29-40,Deep Sea Blue,Black,0.0,0.0,1.0,Keyes Hyundai of Mission Hills,3.3,4.8,51.0,500.0,21477.0
+Jeep,Gladiator Rubicon,2021,56954.0,3.0L V6 24V DDI DOHC Turbo Diesel,8-Speed Automatic,Four-wheel Drive,Diesel,16-23,Bright White Clearcoat,Black,0.0,1.0,1.0,Nissan of Boerne,2.6,4.9,59.0,,52500.0
+Tesla,Model Y Long Range,2022,3516.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,White / Black,0.0,1.0,1.0,Gus Machado Ford,3.9,3.9,11.0,,60734.0
+Land Rover,Discovery Sport HSE,2019,65075.0,I4,Automatic,Four-wheel Drive,Gasoline,21-25,Loire Blue,Ebony,0.0,1.0,0.0,Route 23 Nissan,3.1,4.7,15.0,117.0,21777.0
+Honda,Pilot EX-L,2003,190279.0,3.5L V6 24V MPFI SOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Taffeta White,Fern,1.0,0.0,1.0,Best Auto,,4.5,66.0,,7999.0
+GMC,Sierra 2500 Denali,2018,203000.0,445.0HP 6.6L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,Four-wheel Drive,Diesel,,Silver,Black,,,,,,4.9,37.0,,46000.0
+Toyota,Venza,2014,124688.0,2.7L I4 16V MPFI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,20-26,Black,,1.0,0.0,1.0,Wallingford Auto Park,4.4,4.6,52.0,,16577.0
+Mercedes-Benz,E-Class E 300,2017,66449.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-29,White,,0.0,0.0,1.0,Route 23 Nissan,3.1,4.8,79.0,400.0,26894.0
+Land Rover,Range Rover 5.0L Supercharged Autobiography,2014,97754.0,5.0L V8 32V GDI DOHC Supercharged,8-Speed Automatic,Four-wheel Drive,Gasoline,14-19,Fuji White,Navy / Cirrus,0.0,0.0,1.0,Prime Motors LLC,3.1,4.7,22.0,,34990.0
+Kia,Soul S,2020,64788.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,,White,Black,0.0,1.0,0.0,DriveTime of West Indianapolis,,4.7,213.0,200.0,20395.0
+Porsche,911 Carrera S,2020,23542.0,3.0L H6 24V GDI DOHC Twin Turbo,8-Speed Automatic with Auto-Shift,Rear-wheel Drive,Gasoline,18-24,Black,Black,1.0,1.0,0.0,Monaco Motor Group,,4.7,12.0,3000.0,113999.0
+Mazda,Mazda3 s Grand Touring,2016,124755.0,"SKYACTIV-G 2L I-4 gasoline direct injection, DOHC, variable valv",Automatic,Front-wheel Drive,Gasoline,30-41,Snowflake White Pearl,Black,0.0,0.0,1.0,Bill Estes Toyota,3.7,4.7,119.0,200.0,14592.0
+Toyota,Tundra Platinum,2013,123875.0,5.7L V8 32V MPFI DOHC,6-Speed Automatic,Four-wheel Drive,Gasoline,13-17,Gray,Black,1.0,0.0,1.0,German Auto House,,4.6,79.0,,24995.0
+GMC,Acadia Denali,2012,106786.0,3.6L V6 24V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,16-23,Silver,Gray,0.0,1.0,1.0,Roseville Automaxx,,4.2,112.0,1000.0,17988.0
+Mercedes-Benz,Sprinter 3500,2018,62909.0,3.0L V6 24V DDI DOHC Turbo Diesel,5-Speed Automatic,Rear-wheel Drive,Diesel,,Arctic White,Black,,,,AutoNation Acura North Orlando,4.8,,0.0,,35998.0
+BMW,328 i,2013,88934.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Rear-wheel Drive,Gasoline,23-33,Jet Black,Carbon,0.0,0.0,1.0,Southern Star Automotive,3.1,4.6,160.0,200.0,14799.0
+BMW,320 i,2013,82462.0,2.0L I4 16V GDI DOHC Turbo,,Rear-wheel Drive,Gasoline,23-36,Blue,Black,0.0,1.0,0.0,International Autohaus,,4.7,12.0,1000.0,15999.0
+Mercedes-Benz,E-Class E 450,2020,24861.0,3.0L V6 24V GDI DOHC Twin Turbo,9-Speed Automatic,Rear-wheel Drive,Gasoline,20-27,Polar White,Oyster,0.0,1.0,1.0,Mercedes-Benz of San Francisco / Smart Center San Francisco,,5.0,10.0,,54069.0
+Porsche,Panamera Sport Turismo 4,2018,82366.0,3.0L V6 24V GDI DOHC Turbo,8-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,20-26,Volcano Grey Metallic,Black,1.0,0.0,1.0,Gravity Autos Sandy Springs,3.9,4.7,3.0,1000.0,54985.0
+Nissan,Pathfinder Platinum,2017,100763.0,3.5L V6 24V GDI DOHC,Automatic CVT,Four-wheel Drive,Gasoline,19-26,Magnetic Black,Black,1.0,0.0,1.0,Houdek Auto Center,,4.6,156.0,,19995.0
+Mercedes-Benz,AMG GLC 63 S 4MATIC Coupe,2018,30489.0,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,15-22,Selenite Gray Metallic,Black,0.0,0.0,0.0,Mercedes-Benz of Bellingham,,4.4,4.0,999.0,65992.0
+Toyota,Sienna XLE,2017,67832.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Front-wheel Drive,Gasoline,19-27,Silver Sky Metallic,Ash,0.0,0.0,1.0,Toyota of Woodbridge,4.4,4.7,147.0,,28500.0
+Tesla,Model S 75D,2019,13199.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Red Multi,White / Black,1.0,1.0,0.0,Auto Centrix,4.3,4.1,5.0,,50989.0
+Mercedes-Benz,GLA 250 Base 4MATIC,2021,18156.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,24-33,Blue,Black,,,,CarMax Norcross - Offering Express Pickup and Home Delivery,,4.9,19.0,2000.0,38998.0
+Toyota,Camry XLE,2008,125959.0,"3.5L V-6 DOHC, variable valve control, engine with 268HP",Automatic,Front-wheel Drive,Gasoline,19-28,Blue,Tan,0.0,0.0,1.0,"City Auto Sales, LLC",4.2,4.3,81.0,,12999.0
+INFINITI,QX60 Luxe,2020,37840.0,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-27,Black Obsidian,Graphite,0.0,1.0,1.0,Sawgrass INFINITI,4.4,4.8,39.0,,34995.0
+Chevrolet,Silverado 3500 LT,2023,11401.0,Turbocharged Diesel V8 6.6L/,Automatic,Four-wheel Drive,Diesel,0-0,Summit White,Jet Black,0.0,1.0,1.0,Stevenson-Hendrick Honda Wilmington,4.9,,0.0,,75405.0
+Land Rover,Range Rover Velar R-Dynamic S,2021,16050.0,Intercooled Turbo Premium Unleaded I-4 2.0 L/122,Automatic,Four-wheel Drive,Gasoline,20-26,Firenze Red Metallic,Ebony,0.0,1.0,0.0,Jaguar Land Rover West Chester,,4.9,3.0,,56995.0
+Hyundai,Veloster Base,2016,98389.0,"1.6L I-4 gasoline direct injection, DOHC, variable valve control",Automatic,Front-wheel Drive,Gasoline,0-0,Black,Black,0.0,,1.0,Ferco Motors,3.0,4.5,114.0,,10899.0
+Chevrolet,Blazer 2LT,2021,31386.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,22-27,Silver Ice Metallic,Jet Black,1.0,1.0,1.0,Joe Basil Chevrolet,4.4,4.7,37.0,4167.0,28490.0
+Ford,F-250 XL,2019,98960.0,6.7L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Oxford White,Gray,0.0,1.0,0.0,Texas Motorcars,4.5,4.5,101.0,,39999.0
+Volkswagen,Tiguan 2.0T SE,2019,27761.0,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,All-wheel Drive,Gasoline,21-29,Cardinal Red Metallic,Gray,0.0,1.0,1.0,Reydel Volkswagen of Linden,4.6,4.5,137.0,1501.0,26999.0
+Lexus,ES 350 Base,2018,17252.0,3.5L V6 24V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,21-30,Silver Lining Metallic,Gray,0.0,1.0,1.0,Lexus of Cerritos,4.5,4.9,59.0,1975.0,33994.0
+Nissan,NV200 S,2013,39164.0,"2L I-4 DOHC, variable valve control, engine with 131HP",Automatic,Front-wheel Drive,Gasoline,24-25,Blue Onyx Metallic,Gray,0.0,1.0,0.0,Overstock Vehicles,,4.5,12.0,,17900.0
+Cadillac,CTS Sport,2007,0.0,3.6L V6 24V MPFI DOHC,5-Speed Automatic,Rear-wheel Drive,Gasoline,,Light Platinum,Light Gray / Ebony,0.0,0.0,1.0,Nick Jr's Auto Sales,2.3,4.4,50.0,,4995.0
+Subaru,Ascent Touring 7-Passenger,2022,5163.0,2.4L H4 16V GDI DOHC Turbo,Automatic CVT,All-wheel Drive,Gasoline,20-26,Abyss Blue Pearl,Java Brown,0.0,1.0,1.0,Doug's Lynnwood Mazda,3.6,4.1,11.0,668.0,45229.0
+Chrysler,300 Touring,2021,8655.0,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,19-30,Frostbite,Black,0.0,1.0,1.0,Dean McCrary Mazda,,5.0,4.0,,32900.0
+Honda,Ridgeline Black Edition,2023,726.0,3.5L V6 24V GDI SOHC,Automatic,All-wheel Drive,Gasoline,,Sonic Gray Pearl,Black,0.0,1.0,0.0,Fisher Acura,4.4,4.7,7.0,,48988.0
+Chevrolet,Corvette Stingray w/3LT,2020,9939.0,6.2L V8 16V GDI OHV,8-Speed Automatic with Auto-Shift,Rear-wheel Drive,Gasoline,15-27,Black,Black,0.0,0.0,0.0,AUTOSOURCE,4.7,4.7,44.0,,99995.0
+Volvo,S60 2.5T,2005,166652.0,2.5L I5 20V MPFI DOHC Turbo,5-Speed Automatic,Front-wheel Drive,Gasoline,21-30,Blue,Black / Navy Nordkap,1.0,0.0,0.0,507 Motorsports,2.2,4.3,28.0,,5995.0
+Chevrolet,Malibu LT,2018,107998.0,"ECOTEC 1.5L I-4 gasoline direct injection, DOHC, VVT variable va",Automatic,Front-wheel Drive,Gasoline,27-36,Blue Velvet Metallic,Jet Black,0.0,0.0,0.0,Priced Right Auto,,4.5,212.0,595.0,14595.0
+Lexus,GS 350 Base,2013,102623.0,3.5L V6 24V GDI DOHC,6-Speed Automatic,Rear-wheel Drive,Gasoline,19-28,Meteor Blue Metallic,Black,1.0,0.0,1.0,Grant Motors,,4.7,81.0,,19975.0
+Nissan,Maxima Platinum,2022,1366.0,3.5L V6 24V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,20-30,Black,Charcoal,0.0,1.0,1.0,AutoNation Cadillac West Palm Beach,4.6,4.6,1.0,4000.0,38990.0
+Honda,Fit EX,2016,69978.0,1.5L I4 16V GDI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,32-38,Red,Black,1.0,0.0,1.0,Honda North,4.4,4.5,88.0,,16987.0
+Volvo,S60 T6 Momentum,2020,34832.0,2.0L I4 16V GDI DOHC,8-Speed Automatic,All-wheel Drive,Gasoline,21-32,Pebble Grey Metallic,Charcoal,0.0,0.0,0.0,Bob Johnson Auto Group,4.5,4.9,24.0,500.0,27995.0
+Porsche,Macan S,2019,29199.0,3.0L V6 24V GDI DOHC Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,18-23,Carrara White Metallic,Black,1.0,1.0,1.0,Global Motorsports Inc,4.3,4.8,13.0,989.0,53992.0
+GMC,Yukon SLT,2013,107841.0,5.3L V8 16V MPFI OHV Flexible Fuel,6-Speed Automatic,Four-wheel Drive,E85 Flex Fuel,15-21,White Diamond Tri-Coat,Light Titanium,0.0,1.0,1.0,Peitz GMC-Service Inc.,,4.7,23.0,,20450.0
+Ford,Focus S,2018,80736.0,2.0L I4 16V GDI DOHC Flexible Fuel,6-Speed Automatic with Auto-Shift,Front-wheel Drive,E85 Flex Fuel,25-34,Magnetic Metallic,Charcoal Black,0.0,0.0,1.0,Savvy Auto Sales LLC of COLUMBUS,,4.6,202.0,400.0,11500.0
+Ford,Expedition Platinum,2019,44023.0,3.5L V6 24V GDI DOHC Twin Turbo,10-Speed Automatic,Four-wheel Drive,Gasoline,17-22,Blue Metallic,Medium Soft Ceramic,0.0,1.0,1.0,Van Bortel Ford,4.7,4.8,63.0,,49990.0
+Porsche,911 Carrera Cabriolet,2003,65764.0,"3.6L H-6 DOHC, VarioCam Plus variable valve control, engine with",Manual,,Gasoline,18-26,Silver,Black,0.0,0.0,1.0,Gateway Classic Cars,,4.8,37.0,,37000.0
+Mercedes-Benz,GLE 450 AWD 4MATIC,2023,8725.0,3.0L I6 24V GDI DOHC Turbo,9-Speed Automatic,All-wheel Drive,Gasoline,,Green,,0.0,1.0,0.0,Mercedes-Benz of Massapequa,4.8,,0.0,,79958.0
+Toyota,4Runner Limited,2016,79691.0,"4L V-6 DOHC, VVT-i variable valve control, engine with 270HP",Automatic,Four-wheel Drive,Gasoline,17-21,Black,Black,0.0,0.0,0.0,Car Smart of Memphis,3.9,4.7,141.0,,33990.0
+Mercedes-Benz,GLC 300 Base 4MATIC,2022,5584.0,2.0L I4 16V GDI DOHC Turbo,Automatic,All-wheel Drive,Gasoline,,,,0.0,1.0,0.0,Crown Eurocars of Dublin,4.9,4.5,3.0,7115.0,43795.0
+Toyota,4Runner SR5,2022,21203.0,4.0L V6 24V MPFI DOHC,5-Speed Automatic,Four-wheel Drive,Gasoline,16-19,Magnetic Gray Metallic,Black / Graphite,0.0,1.0,1.0,Safford Brown Toyota Glen Burnie,4.9,4.9,6.0,,41900.0
+Porsche,Macan GTS,2017,50345.0,3.0L V6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,All-wheel Drive,Gasoline,,Sapphire Blue Metallic,Saddle Brown,0.0,0.0,0.0,Durham's Auto Mart,4.1,4.8,79.0,,42988.0
+INFINITI,M37x Base,2012,128062.0,3.7L V6 24V MPFI DOHC,7-Speed Automatic,All-wheel Drive,Gasoline,17-24,Liquid Platinum,Graphite,0.0,0.0,1.0,All Star Kia East,3.7,4.8,3.0,242.0,13317.0
+Honda,Ridgeline Black Edition,2019,67904.0,3.5L V6 24V GDI SOHC,6-Speed Automatic,All-wheel Drive,Gasoline,18-25,Crystal Black Pearl,,0.0,0.0,1.0,DeNooyer Chevrolet,4.7,4.8,169.0,3500.0,33600.0
+Buick,Rendezvous CX,2007,140272.0,3.5L V6 12V MPFI OHV,4-Speed Automatic,Front-wheel Drive,Gasoline,19-26,Frost White,Gray,0.0,0.0,1.0,Bill Marsh Ford Gaylord,,4.4,29.0,500.0,4500.0
+GMC,Sierra 2500 SLT,2011,203927.0,6.6L V8 32V DDI OHV Turbo Diesel,6-Speed Automatic,Four-wheel Drive,Diesel,,Black,Black,0.0,0.0,0.0,Sam & Dave's,,4.7,16.0,,22950.0
+Chevrolet,Volt LT,2017,73603.0,1.5L I4 16V GDI DOHC Hybrid,1-Speed Automatic,Front-wheel Drive,Hybrid,,Silver Ice Metallic,Black,1.0,0.0,1.0,Corwin Ford of Springfield,4.5,4.7,103.0,,17970.0
+Ford,F-350 XLT,2022,4197.0,Regular Unleaded V-8 7.3 L,Automatic,Four-wheel Drive,Gasoline,0-0,Blue,Gray,0.0,1.0,1.0,Ferman Ford,4.5,,0.0,,61995.0
+Audi,e-tron Premium,2022,6662.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Catalunya Red Metallic,Black,0.0,1.0,1.0,Audi Hilton Head,4.7,,0.0,590.0,58404.0
+Dodge,Ram 1500 Laramie,2009,142108.0,5.7L V8 16V MPFI OHV,Automatic,Four-wheel Drive,Gasoline,13-18,Deep Water Blue Pearlcoat,Gray,0.0,0.0,1.0,Yemm Chevrolet Buick GMC Chrysler Dodge Jeep Ram,4.5,4.5,79.0,250.0,15217.0
+Chevrolet,Silverado 2500 LTZ,2021,68735.0,6.6L V8 16V GDI OHV,6-Speed Automatic,Four-wheel Drive,Gasoline,,Silver,Gideon,0.0,1.0,0.0,Billion Auto - Hyundai of Iowa City,,4.5,13.0,,55970.0
+Lexus,IS 350 F Sport,2021,37325.0,3.5L V6 24V PDI DOHC,8-Speed Automatic,Rear-wheel Drive,Gasoline,20-28,Caviar,White,1.0,1.0,1.0,Sewell Lexus of Dallas,3.6,4.8,2.0,,43998.0
+Dodge,Charger Scat Pack,2021,13734.0,6.4L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-24,White Knuckle Clearcoat,Black,0.0,1.0,0.0,Alfa Romeo of Fort Worth,4.0,4.9,23.0,,50201.0
+Kia,Forte LX,2015,129039.0,1.8L I4 16V MPFI DOHC,6-Speed Automatic,Front-wheel Drive,Gasoline,26-39,Gold,Gray,0.0,0.0,0.0,Auto Warehouse,,4.5,92.0,1000.0,9999.0
+Dodge,Charger R/T,2022,17349.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,16-25,Pitch Black Clearcoat,Black,0.0,1.0,0.0,Modern INFINITI of Winston Salem,5.0,5.0,2.0,390.0,40646.0
+Chevrolet,Equinox 1LT,2020,93502.0,1.5L I4 16V GDI DOHC Turbo,6-Speed Automatic,Front-wheel Drive,Gasoline,26-31,Mosaic Black Metallic,Jet Black,0.0,1.0,1.0,Hugh White Chrysler Dodge Jeep RAM,,4.7,285.0,834.0,21580.0
+Jeep,Cherokee Latitude Plus,2021,21947.0,2.4L I4 16V MPFI SOHC,9-Speed Automatic,Four-wheel Drive,Gasoline,21-29,Velvet Red Pearlcoat,Black,0.0,1.0,1.0,Marlow Motor Company,,4.9,73.0,600.0,26950.0
+GMC,Sierra 1500 SLT,2023,4450.0,Turbocharged Diesel I6 3.0L/,Automatic,Four-wheel Drive,Diesel,22-27,Sterling Metallic,Jet Black,0.0,1.0,1.0,Liberty GMC,4.8,,0.0,,64997.0
+Mercedes-Benz,Maybach S 650 Base,2018,25595.0,,,,Gasoline,,Cavansite Blue Metallic,Parchment w/Nappa Trim Leather,0.0,0.0,1.0,Mercedes-Benz of Baton Rouge,5.0,,0.0,,118194.0
+Dodge,Challenger R/T,2017,72681.0,5.7L V8 16V MPFI OHV,8-Speed Automatic,Rear-wheel Drive,Gasoline,15-23,Black,Black,1.0,0.0,0.0,Sign It Drive It,3.1,4.8,171.0,,24400.0
+Cadillac,Escalade EXT,2007,80980.0,6.2L V8 16V MPFI OHV,6-Speed Automatic,All-wheel Drive,Gasoline,13-19,Beige,Tan,1.0,0.0,1.0,Multi Autos,,4.8,16.0,800.0,15495.0
+Tesla,Model X 100D,2017,84800.0,Electric,1-Speed Automatic,All-wheel Drive,Electric,,Pearl White Multi,Black,0.0,1.0,1.0,Evolution Cars,2.6,4.7,27.0,1100.0,48795.0
+Land Rover,Discovery Sport HSE,2017,30893.0,2.0L I4 16V GDI DOHC Turbo,9-Speed Automatic,Four-wheel Drive,Gasoline,20-25,Indus Silver,Ebony,0.0,0.0,0.0,Anderson Ford,3.3,4.6,25.0,399.0,26596.0
+Mazda,CX-5 Touring,2021,9540.0,2.5L I4 16V GDI DOHC,6-Speed Automatic,All-wheel Drive,Gasoline,24-30,Jet Black Mica,Black,1.0,1.0,1.0,Yark Mazda,4.5,4.8,89.0,,27898.0
+Subaru,Outback Premium,2020,52296.0,2.5L H4 16V GDI DOHC,Automatic CVT,All-wheel Drive,Gasoline,26-33,Abyss Blue Pearl,Gray,0.0,0.0,1.0,CarMax Gaithersburg - Offering Express Pickup and Home Delivery,,4.7,223.0,1000.0,26998.0
+Kia,Soul S,2020,17720.0,2.0L I4 16V MPFI DOHC,Automatic CVT,Front-wheel Drive,Gasoline,29-35,Inferno Red,Black,0.0,1.0,1.0,Germain Hyundai,4.1,4.7,213.0,,20431.0
+Chevrolet,Malibu 1LS,2020,71966.0,1.5L I4 16V GDI DOHC Turbo,Automatic CVT,FWD,Gasoline,29-36,Blue,Dark Atmosphere,0.0,1.0,0.0,DriveTime of Albany,,4.8,55.0,,21095.0

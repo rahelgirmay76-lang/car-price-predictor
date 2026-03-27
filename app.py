@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn .model_selection import train_test_split
 
@@ -76,3 +77,15 @@ if st.button('predict price'):
     inputdata=inputdata.reindex(columns=x.columns,fill_value=0)
     prediction=model.predict(inputdata)[0]
     st.success(f'Estimated price: ${int(prediction):,}')
+
+
+
+#visualizee 
+st.subheader("data visualization")
+
+fig1,ax1=plt.subplots()
+ax1.hist(df["price"],bins=30)
+ax1.set_title("price distrubtion")
+ax1.set_xlabel("price")
+ax1.set_ylabel("frequency")
+st.pyplot(fig1)
