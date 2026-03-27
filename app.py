@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestRegressor
 from sklearn .model_selection import train_test_split
 
-df=pd.read_csv("cars.csv",nrows=1000)
+df=pd.read_csv("cars_small.csv")
 df['price']=df['price'].replace(r'[\$,]','',regex=True).astype(float)
 df = df.drop([
     "seller_name","exterior_color","interior_color",
